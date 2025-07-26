@@ -1,0 +1,4400 @@
+[
+  {
+    "id": "35238f20-3cb7-11f0-81bf-6045cb6ed61f",
+    "name": {
+      "ar": "الرحمن",
+      "ar-enhanced": "ٱلْرَّحْمَـانُ",
+      "fr": "Le Tout-Miséricordieux",
+      "en": "",
+      "tr": ""
+    },
+    "explanation": {
+      "short": {
+        "fr": "Il est le plus miséricordieux, le plus aimable et le plus aimant envers toute la création.",
+        "en": "",
+        "tr": ""
+      },
+      "long": {
+        "fr": "Il est celui qui bénit toute sa création avec prospérité et sans disparité. Il est le plus miséricordieux, le plus aimable et le plus aimant envers toute la création. Son Rahma est tout inclusif et englobe tout le monde.",
+        "en": "",
+        "tr": ""
+      }
+    },
+    "tranliteration": {
+      "fr": "Ar-Rahman",
+      "en": "",
+      "tr": "Er-Rahmân"
+    },
+    "audio": "/audio/ar-rahman.mp3",
+    "image": {
+      "png": {
+        "64x64": "",
+        "128x128": "",
+        "256x256": ""
+      },
+      "svg": ""
+    },
+    "verset": {
+      "7": [
+        "156"
+      ],
+      "17": [
+        "110"
+      ],
+      "55": [
+        "1"
+      ]
+    }
+  },
+  {
+    "id": "35242f03-3cb7-11f0-9caa-6045cb6ed61f",
+    "name": {
+      "ar": "الرحيم",
+      "ar-enhanced": "ٱلْرَّحِيْمُ",
+      "fr": "Le Miséricordieux",
+      "en": "",
+      "tr": ""
+    },
+    "explanation": {
+      "short": {
+        "fr": "Celui qui agit avec une extrême bienveillance.",
+        "en": "",
+        "tr": ""
+      },
+      "long": {
+        "fr": "Le nom Ar-Raheem dérive de la même racine que Ar-Rahman qui se réfère à l'attribut d'Allah d'être miséricordieux. Bien que ces deux termes soient apparentés, leurs significations sont différentes. Ar-Rahman peut être compris comme se référant à Allah en tant qu'origine/source de toute miséricorde, tandis que Ar-Raheem se réfère à son caractère durable/infini. Certains considèrent que le nom d'Ar-Raheem fait référence à la miséricorde envers Sa création qui mérite la miséricorde; principalement la miséricorde réservée aux croyants.",
+        "en": "",
+        "tr": ""
+      }
+    },
+    "tranliteration": {
+      "fr": "Ar-Raheem",
+      "en": "",
+      "tr": ""
+    },
+    "audio": "/audio/ar-raheem.mp3",
+    "image": {
+      "png": {
+        "64x64": "",
+        "128x128": "",
+        "256x256": ""
+      },
+      "svg": ""
+    },
+    "verset": {
+      "2": [
+        "143"
+      ],
+      "9": ["91", "99", "102", "104"],
+      "33": [
+        "43"
+      ],
+      "39": [
+        "53"
+      ]
+    }
+  },
+  {
+    "id": "35243ffb-3cb7-11f0-9abe-6045cb6ed61f",
+    "name": {
+      "ar": "الملك",
+      "ar-enhanced": "ٱلْمَلِكُ",
+      "fr": "Le Souverain",
+      "en": "",
+      "tr": ""
+    },
+    "explanation": {
+      "short": {
+        "fr": "Le Seigneur Souverain, Celui ayant la domination complète, Celui dont la domination est sans aucune imperfection.",
+        "en": "",
+        "tr": ""
+      },
+      "long": {
+        "fr": "Allah est Al-Malik, dont le sens littéral en arabe est \"Le Roi.\" Il est celui qui régit la domination des cieux et de la terre et de tout ce qui y réside. Rien n'est au-dessus de lui et il est seul.",
+        "en": "",
+        "tr": ""
+      }
+    },
+    "tranliteration": {
+      "fr": "Al-Malik",
+      "en": "",
+      "tr": ""
+    },
+    "audio": "/audio/al-malik.mp3",
+    "image": {
+      "png": {
+        "64x64": "",
+        "128x128": "",
+        "256x256": ""
+      },
+      "svg": ""
+    },
+    "verset": {
+      "3": [
+        "26"
+      ],
+      "20": [
+        "114"
+      ],
+      "23": [
+        "116"
+      ],
+      "59": [
+        "23"
+      ]
+    }
+  },
+  {
+    "id": "35244d10-3cb7-11f0-807a-6045cb6ed61f",
+    "name": {
+      "ar": "القدوس",
+      "ar-enhanced": "ٱلْقُدُّوسُ",
+      "fr": "Le Très Sacré / Le Très Saint",
+      "en": "",
+      "tr": ""
+    },
+    "explanation": {
+      "short": {
+        "fr": "Celui qui est exempt de toute imperfection, faiblesse ou déficience.",
+        "en": "",
+        "tr": ""
+      },
+      "long": {
+        "fr": "Allah est Al-Quddus, signifiant le plus pur ou le plus sacré. Il est en effet exempt de toute imperfection et ne souffre d'aucune déficience. Le simple fait de dire qu'il est exempt de défauts relève de l'insulte, puisque cela implique la possibilité d'une imperfection. Il transcende tout ce que nous percevons comme la perfection, et tous les attributs sublimes lui appartiennent.",
+        "en": "",
+        "tr": ""
+      }
+    },
+    "tranliteration": {
+      "fr": "Al-Quddus",
+      "en": "",
+      "tr": ""
+    },
+    "audio": "/audio/al-qaddus.mp3",
+    "image": {
+      "png": {
+        "64x64": "",
+        "128x128": "",
+        "256x256": ""
+      },
+      "svg": ""
+    },
+    "verset": {
+      "59": [
+        "23"
+      ],
+      "62": [
+        "1"
+      ]
+    }
+  },
+  {
+    "id": "35245940-3cb7-11f0-a994-6045cb6ed61f",
+    "name": {
+      "ar": "السلام",
+      "ar-enhanced": "ٱلْسَّلَامُ",
+      "fr": "Le Donateur de Paix",
+      "en": "",
+      "tr": ""
+    },
+    "explanation": {
+      "short": {
+        "fr": "Le Plus Parfait, La Source de Paix, Le Dispensateur de Bénédictions.",
+        "en": "",
+        "tr": ""
+      },
+      "long": {
+        "fr": "Allah est As-Salam; Il est celui qui accorde la paix et la sécurité à toute sa création. Allah est au-dessus et au-delà de toutes les faiblesses et de tous les maux. Il est la source de la paix et de la sécurité pour l'humanité. S'éloigner d'As-Salam, c'est s'exposer à la perturbation et à la destruction. C'est parce qu'Il est exempt de tout défaut que celui qui est avec Lui connaît la tranquillité.",
+        "en": "",
+        "tr": ""
+      }
+    },
+    "tranliteration": {
+      "fr": "As-Salam",
+      "en": "",
+      "tr": ""
+    },
+    "audio": "/audio/as-salam.mp3",
+    "image": {
+      "png": {
+        "64x64": "",
+        "128x128": "",
+        "256x256": ""
+      },
+      "svg": ""
+    },
+    "verset": {
+      "36": [
+        "58"
+      ],
+      "37": [
+        "181"
+      ],
+      "59": [
+        "23"
+      ]
+    }
+  },
+  {
+    "id": "352466b7-3cb7-11f0-b200-6045cb6ed61f",
+    "name": {
+      "ar": "المؤمن",
+      "ar-enhanced": "ٱلْمُؤْمِن",
+      "fr": "L'infuseur de foi",
+      "en": "",
+      "tr": ""
+    },
+    "explanation": {
+      "short": {
+        "fr": "Affirmateur de la vérité, Garant, Dispensateur de la foi.",
+        "en": "",
+        "tr": ""
+      },
+      "long": {
+        "fr": "Le nom d'Allah comme Al-Mu'min signifie celui qui a témoigné pour Lui-même que personne n'est Dieu à part Lui. C'est Lui qui a fait descendre des messagers et qui a révélé ses livres comme autant de preuves évidentes.",
+        "en": "",
+        "tr": ""
+      }
+    },
+    "tranliteration": {
+      "fr": "Al-Mumin",
+      "en": "",
+      "tr": ""
+    },
+    "audio": "/audio/al-mumin.mp3",
+    "image": {
+      "png": {
+        "64x64": "",
+        "128x128": "",
+        "256x256": ""
+      },
+      "svg": ""
+    },
+    "verset": {
+      "59": [
+        "23"
+      ]
+    }
+  },
+  {
+    "id": "3524730b-3cb7-11f0-b90d-6045cb6ed61f",
+    "name": {
+      "ar": "المهيمن",
+      "ar-enhanced": "ٱلْمُهَيْمِن",
+      "fr": "Le Préservateur",
+      "en": "",
+      "tr": ""
+    },
+    "explanation": {
+      "short": {
+        "fr": "Celui qui assure notre sécurité, le Protecteur qui veille sur nous.",
+        "en": "",
+        "tr": ""
+      },
+      "long": {
+        "fr": "Allah est Al Muhaymin, autrement dit celui qui assure le bien-être et la protection de Sa création. Il est aussi Celui qui veille sur tout. On ne peut rien lui cacher, il est le Connaisseur de tous les secrets que nous dissimulons.",
+        "en": "",
+        "tr": ""
+      }
+    },
+    "tranliteration": {
+      "fr": "Al-Muhaymin",
+      "en": "",
+      "tr": ""
+    },
+    "audio": "/audio/al-muhaymin.mp3",
+    "image": {
+      "png": {
+        "64x64": "",
+        "128x128": "",
+        "256x256": ""
+      },
+      "svg": ""
+    },
+    "verset": {
+      "59": [
+        "23"
+      ]
+    }
+  },
+  {
+    "id": "35247f4e-3cb7-11f0-bbdf-6045cb6ed61f",
+    "name": {
+      "ar": "العزيز",
+      "ar-enhanced": "ٱلْعَزِيز",
+      "fr": "Le Tout Puissant",
+      "en": "",
+      "tr": ""
+    },
+    "explanation": {
+      "short": {
+        "fr": "Le Fort, Le Très Estimé, L'Exalté en Puissance.",
+        "en": "",
+        "tr": ""
+      },
+      "long": {
+        "fr": "Al-Aziz est celui qui est le plus puissant et le plus fort. Il est le conquérant qui n'est jamais conquis et qui n'est jamais lésé. En effet, Sa force, Sa gloire et Sa puissance sont démesurées et il est impossible de les surmonter ou d'y résister. Il est le seul à avoir la maîtrise absolue de toute la création.",
+        "en": "",
+        "tr": ""
+      }
+    },
+    "tranliteration": {
+      "fr": "Al-Aziz",
+      "en": "",
+      "tr": ""
+    },
+    "audio": "/audio/al-aziz.mp3",
+    "image": {
+      "png": {
+        "64x64": "",
+        "128x128": "",
+        "256x256": ""
+      },
+      "svg": ""
+    },
+    "verset": {
+      "6": [
+        "96"
+      ],
+      "9": [
+        "71"
+      ],
+      "35": [
+        "28"
+      ],
+      "38": [
+        "9"
+      ],
+      "48": [
+        "7"
+      ]
+    }
+  },
+  {
+    "id": "35248cb2-3cb7-11f0-babd-6045cb6ed61f",
+    "name": {
+      "ar": "الجبار",
+      "ar-enhanced": " ٱلْجَبَّار",
+      "fr": "Le Tout Convaincant",
+      "en": "",
+      "tr": ""
+    },
+    "explanation": {
+      "short": {
+        "fr": "L'Irrésistible, Le Restaurateur, Le Réparateur.",
+        "en": "",
+        "tr": ""
+      },
+      "long": {
+        "fr": "Al-Jabbar, ce nom a plusieurs significations acceptées. La plus souvent citée est Le Contradicteur. Il met en œuvre son décret sans aucune opposition. Personne ne l'emporte sur lui. L'autre interprétation est celle du réparateur. Il restaure toute la création. Il guérit ceux qui ont le cœur brisé, panse leurs blessures et réconforte les faibles. Il contraint tout et chacun à sa volonté divine, mais n'est jamais lui-même contraint.",
+        "en": "",
+        "tr": ""
+      }
+    },
+    "tranliteration": {
+      "fr": "Al-Jabbar",
+      "en": "",
+      "tr": ""
+    },
+    "audio": "/audio/al-jabbar.mp3",
+    "image": {
+      "png": {
+        "64x64": "",
+        "128x128": "",
+        "256x256": ""
+      },
+      "svg": ""
+    },
+    "verset": {
+      "59": [
+        "23"
+      ]
+    }
+  },
+  {
+    "id": "352498c0-3cb7-11f0-91d6-6045cb6ed61f",
+    "name": {
+      "ar": "المتكبر",
+      "ar-enhanced": "ٱلْمُتَكَبِّر",
+      "fr": "Le Dominant",
+      "en": "",
+      "tr": ""
+    },
+    "explanation": {
+      "short": {
+        "fr": "L'Immense, le Grand, l'Orgueilleux.",
+        "en": "",
+        "tr": ""
+      },
+      "long": {
+        "fr": "Al-Mutakabbir signifie le plus grand. Il est élevé bien au-dessus de toute la création, celui qui est exempt des attributs des créatures et qui ne leur ressemble pas. Il a des droits, des privilèges et des qualités que les autres n'ont pas. Il est immense et manifeste cette grandeur en toutes choses et de multiples façons.",
+        "en": "",
+        "tr": ""
+      }
+    },
+    "tranliteration": {
+      "fr": "Al-Mutakabbir",
+      "en": "",
+      "tr": ""
+    },
+    "audio": "/audio/al-mutakabbir.mp3",
+    "image": {
+      "png": {
+        "64x64": "",
+        "128x128": "",
+        "256x256": ""
+      },
+      "svg": ""
+    },
+    "verset": {
+      "59": [
+        23
+      ]
+    }
+  },
+  {
+    "id": "3524a4a0-3cb7-11f0-9fd5-6045cb6ed61f",
+    "name": {
+      "ar": "الخالق",
+      "ar-enhanced": "ٱلْخَالِقُ",
+      "fr": "Le Créateur",
+      "en": "",
+      "tr": ""
+    },
+    "explanation": {
+      "short": {
+        "fr": "Celui qui fait passer toute chose de l'inexistence à l'existence.",
+        "en": "",
+        "tr": ""
+      },
+      "long": {
+        "fr": "Al Khaaliq est celui qui crée les choses à partir du néant sans aucun précédent. Il crée ce qu'il veut et à la perfection. Il est le seul à déterminer quand, comment et quoi créer et le fait à partir du néant.",
+        "en": "",
+        "tr": ""
+      }
+    },
+    "tranliteration": {
+      "fr": "Al-Khaliq",
+      "en": "",
+      "tr": ""
+    },
+    "audio": "/audio/al-khaliq.mp3",
+    "image": {
+      "png": {
+        "64x64": "",
+        "128x128": "",
+        "256x256": ""
+      },
+      "svg": ""
+    },
+    "verset": {
+      "15": [
+        "86"
+      ],
+      "23": [
+        "14"
+      ],
+      "59": [
+        "24"
+      ]
+    }
+  },
+  {
+    "id": "3524b203-3cb7-11f0-b238-6045cb6ed61f",
+    "name": {
+      "ar": "البارئ",
+      "ar-enhanced": "ٱلْبَارِئُ",
+      "fr": "Le Producteur",
+      "en": "",
+      "tr": ""
+    },
+    "explanation": {
+      "short": {
+        "fr": "Le Producteur, Le Créateur au pouvoir de transformer les entités.",
+        "en": "",
+        "tr": ""
+      },
+      "long": {
+        "fr": "Al-Baari est celui qui a décrété que les choses existent à partir de rien de manière spécifique. Il crée une forme à partir du néant sans modèle ni ressemblance. Il manifeste ses créations dans une parfaite harmonie et dans des proportions irréprochables sans aucun défaut.",
+        "en": "",
+        "tr": ""
+      }
+    },
+    "tranliteration": {
+      "fr": "Al-Baari",
+      "en": "",
+      "tr": ""
+    },
+    "audio": "/audio/al-bari.mp3",
+    "image": {
+      "png": {
+        "64x64": "",
+        "128x128": "",
+        "256x256": ""
+      },
+      "svg": ""
+    },
+    "verset": {
+      "59": [
+        "24"
+      ]
+    }
+  },
+  {
+    "id": "3524be2b-3cb7-11f0-959f-6045cb6ed61f",
+    "name": {
+      "ar": "المصور",
+      "ar-enhanced": "ٱلْمُصَوِّرُ",
+      "fr": "Le Façonneur infaillible",
+      "en": "",
+      "tr": ""
+    },
+    "explanation": {
+      "short": {
+        "fr": "Le Façonneur, Celui qui confère la forme, Celui qui façonne la beauté unique",
+        "en": "",
+        "tr": ""
+      },
+      "long": {
+        "fr": "Allah est Al-Musawwir, autrement dit Il donne vie à ce qu'Il veut et de la manière qu'Il veut. Il dit: kun faya kun, \"Sois et c'est.\" Il est le créateur de toute création et lui a attribué une forme particulière par laquelle elle se distingue.",
+        "en": "",
+        "tr": ""
+      }
+    },
+    "tranliteration": {
+      "fr": "Al-Musawwir",
+      "en": "",
+      "tr": ""
+    },
+    "audio": "/audio/al-musawwir.mp3",
+    "image": {
+      "png": {
+        "64x64": "",
+        "128x128": "",
+        "256x256": ""
+      },
+      "svg": ""
+    },
+    "verset": {
+      "59": [
+        "24"
+      ]
+    }
+  },
+  {
+    "id": "3524ca05-3cb7-11f0-86f8-6045cb6ed61f",
+    "name": {
+      "ar": "الغفار",
+      "ar-enhanced": " ٱلْغَفَّارُ",
+      "fr": "L'Infini Pardonneur",
+      "en": "",
+      "tr": ""
+    },
+    "explanation": {
+      "short": {
+        "fr": "Le Pardonneur, L'éternel Pardonneur, Le plus Pardonneur.",
+        "en": "",
+        "tr": ""
+      },
+      "long": {
+        "fr": "Allah est Al-Ghaffar, Il est conscient de nos péchés et de notre désobéissance, pourtant Il pardonne et accepte le repentir de ceux qui sont sincères. Il fait preuve d'une compassion et d'un pardon inépuisables, peu importe l'ampleur du péché. Il est le plus indulgent et aime pardonner.",
+        "en": "",
+        "tr": ""
+      }
+    },
+    "tranliteration": {
+      "fr": "Al-Ghaffar",
+      "en": "",
+      "tr": ""
+    },
+    "audio": "/audio/al-ghaffar.mp3",
+    "image": {
+      "png": {
+        "64x64": "",
+        "128x128": "",
+        "256x256": ""
+      },
+      "svg": ""
+    },
+    "verset": {
+      "20": [
+        "82"
+      ],
+      "38": [
+        "66"
+      ],
+      "39": [
+        "5",
+        "53"
+      ],
+      "40": [
+        "42"
+      ],
+      "71": [
+        "10"
+      ]
+    }
+  },
+  {
+    "id": "3524d72b-3cb7-11f0-b66f-6045cb6ed61f",
+    "name": {
+      "ar": "القهار",
+      "ar-enhanced": "ٱلْقَهَّار",
+      "fr": "Le Tout-Dominateur",
+      "en": "",
+      "tr": ""
+    },
+    "explanation": {
+      "short": {
+        "fr": "Le Dominateur, L'Irrésistible, Le Subjugueur",
+        "en": "",
+        "tr": ""
+      },
+      "long": {
+        "fr": "Allah est Al-Qahhar, signifiant celui qui l'emporte sur toute la création. L'univers est régi par les lois établies par Allah. Il domine, il est le maître de tout et il triomphe de toute opposition. Il a le Pouvoir parfait et ne peut être incapable de faire quoi que ce soit.",
+        "en": "",
+        "tr": ""
+      }
+    },
+    "tranliteration": {
+      "fr": "Al-Qahhar",
+      "en": "",
+      "tr": ""
+    },
+    "audio": "/audio/al-qahhar.mp3",
+    "image": {
+      "png": {
+        "64x64": "",
+        "128x128": "",
+        "256x256": ""
+      },
+      "svg": ""
+    },
+    "verset": {
+      "13": [
+        "16"
+      ],
+      "14": [
+        "48"
+      ],
+      "38": [
+        "65"
+      ],
+      "39": [
+        "4"
+      ],
+      "40": [
+        "16"
+      ]
+    }
+  },
+  {
+    "id": "3524e347-3cb7-11f0-a4c7-6045cb6ed61f",
+    "name": {
+      "ar": "الوهاب",
+      "ar-enhanced": "ٱلْوَهَّابُ",
+      "fr": "Le Donateur Suprême",
+      "en": "",
+      "tr": ""
+    },
+    "explanation": {
+      "short": {
+        "fr": "Celui qui est abondamment généreux en donnant sans jamais avoir besoin de calculer.",
+        "en": "",
+        "tr": ""
+      },
+      "long": {
+        "fr": "Allah est Al Wahhab, ce qui signifie le grand donateur dont les bienfaits sont gratuits et perpétuels. Il donne sans but et n'attend rien en retour. Allah est vraiment le plus généreux des donateurs, Il donne à ceux qui méritent et à ceux qui ne méritent pas, aux bons et aux méchants.",
+        "en": "",
+        "tr": ""
+      }
+    },
+    "tranliteration": {
+      "fr": "Al-Wahhab",
+      "en": "",
+      "tr": ""
+    },
+    "audio": "/audio/al-wahhab.mp3",
+    "image": {
+      "png": {
+        "64x64": "",
+        "128x128": "",
+        "256x256": ""
+      },
+      "svg": ""
+    },
+    "verset": {
+      "38": [
+        "9",
+        "35"
+      ]
+    }
+  },
+  {
+    "id": "3524ef60-3cb7-11f0-bc6e-6045cb6ed61f",
+    "name": {
+      "ar": "الرزاق",
+      "ar-enhanced": "ٱلْرَّزَّاقُ",
+      "fr": "Le Fournisseur Total",
+      "en": "",
+      "tr": ""
+    },
+    "explanation": {
+      "short": {
+        "fr": "Le pourvoyeur, le soutien. Celui qui crée la subsistance pour toutes ses créations.",
+        "en": "",
+        "tr": ""
+      },
+      "long": {
+        "fr": "Allah est Ar-Razzaq, Le pourvoyeur, le soutien de toutes Ses créatures. C'est Lui qui crée tous les moyens de se nourrir et qui leur donne leur subsistance. Il est le pourvoyeur de croissance pour tout ce qui est bon pour le corps, l'âme et l'esprit.",
+        "en": "",
+        "tr": ""
+      }
+    },
+    "tranliteration": {
+      "fr": "Ar-Razzaq",
+      "en": "",
+      "tr": ""
+    },
+    "audio": "/audio/ar-razzaq.mp3",
+    "image": {
+      "png": {
+        "64x64": "",
+        "128x128": "",
+        "256x256": ""
+      },
+      "svg": ""
+    },
+    "verset": {
+      "51": [
+        "58"
+      ]
+    }
+  },
+  {
+    "id": "3524fcdf-3cb7-11f0-9da8-6045cb6ed61f",
+    "name": {
+      "ar": "الفتاح",
+      "ar-enhanced": "ٱلْفَتَّاحُ",
+      "fr": "Le Conquérant / Le Juge",
+      "en": "",
+      "tr": ""
+    },
+    "explanation": {
+      "short": {
+        "fr": "Le Conquérant, Le Résolveur, Le Vainqueur.",
+        "en": "",
+        "tr": ""
+      },
+      "long": {
+        "fr": "Allah est Al-Fattah, c'est-à-dire le conquérant, le révélateur et l'accordeur de succès. Il ouvre ou ferme ses portes de miséricorde à qui Il veut. Grâce à Ses conseils, tout ce qui n'est pas clair devient clair. Allah a le meilleur jugement et détient les clés de la victoire et du succès.",
+        "en": "",
+        "tr": ""
+      }
+    },
+    "tranliteration": {
+      "fr": "Al-Fattah",
+      "en": "",
+      "tr": ""
+    },
+    "audio": "/audio/al-fattah.mp3",
+    "image": {
+      "png": {
+        "64x64": "",
+        "128x128": "",
+        "256x256": ""
+      },
+      "svg": ""
+    },
+    "verset": {
+      "34": [
+        "26"
+      ]
+    }
+  },
+  {
+    "id": "352508bf-3cb7-11f0-880f-6045cb6ed61f",
+    "name": {
+      "ar": "العليم",
+      "ar-enhanced": "",
+      "fr": "L'Omniscient",
+      "en": "",
+      "tr": ""
+    },
+    "explanation": {
+      "short": {
+        "fr": "Le Connaissant, l'Omniscient, le Connaisseur",
+        "en": "",
+        "tr": ""
+      },
+      "long": {
+        "fr": "Allah est Al-Alim, c'est-à-dire celui dont la connaissance est complète et s'étend à tout ce qui est vu et invisible, apparent et caché, présent et futur, proche et lointain. Sa connaissance précède et il est intuitivement conscient de toutes les choses, avant même qu'elles ne se produisent. Il connaît tous les détails, et rien ne passe inaperçu ou n'est enregistré. En effet, il est l'Omniscient.",
+        "en": "",
+        "tr": ""
+      }
+    },
+    "tranliteration": {
+      "fr": "Al-Alim",
+      "en": "",
+      "tr": ""
+    },
+    "audio": "/audio/al-alim.mp3",
+    "image": {
+      "png": {
+        "64x64": "",
+        "128x128": "",
+        "256x256": ""
+      },
+      "svg": ""
+    },
+    "verset": {
+      "2": [
+        "32"
+      ],
+      "5": [
+        "109"
+      ],
+      "9": [
+        "60",
+        "97",
+        "98", "102", "106", "110"
+      ],
+      "34": [
+        "3"
+      ],
+      "66": [
+        "2"
+      ]
+    }
+  },
+  {
+    "id": "352515f2-3cb7-11f0-84da-6045cb6ed61f",
+    "name": {
+      "ar": "القابض",
+      "ar-enhanced": "",
+      "fr": "Le Restrictif",
+      "en": "",
+      "tr": ""
+    },
+    "explanation": {
+      "short": {
+        "fr": "Le Constricteur, le Détenteur, le Retenant.",
+        "en": "",
+        "tr": ""
+      },
+      "long": {
+        "fr": "Allah est Al-Qabid, c'est-à-dire que tout ce qu'Il veut se réalise. Il est celui qui enrichit et qui appauvrit. Al-Qabid décide de retenir une chose ou de la raréfier. Il prend toutes les âmes au moment de la mort et tend la main aux croyants pour qu'ils se tournent vers lui et se repentent. Il est celui qui restreint la subsistance, nos vies et nos cœurs. À l'inverse, Al-Basit est celui qui les étend et les élargit par sa générosité et sa miséricorde.",
+        "en": "",
+        "tr": ""
+      }
+    },
+    "tranliteration": {
+      "fr": "Al-Qabid",
+      "en": "",
+      "tr": "El-Kâbız"
+    },
+    "audio": "/audio/al-qabid.mp3",
+    "image": {
+      "png": {
+        "64x64": "",
+        "128x128": "",
+        "256x256": ""
+      },
+      "svg": ""
+    },
+    "verset": {
+      "2": [
+        "245"
+      ]
+    }
+  },
+  {
+    "id": "352522c1-3cb7-11f0-af60-6045cb6ed61f",
+    "name": {
+      "ar": "الباسط",
+      "ar-enhanced": "",
+      "fr": "The Extender",
+      "en": "",
+      "tr": ""
+    },
+    "explanation": {
+      "short": {
+        "fr": "The Englarger, The One who constricts the sustenance by His wisdom and expands and widens it with His Generosity and Mercy.",
+        "en": "",
+        "tr": ""
+      },
+      "long": {
+        "fr": "Allah est Al-Baasit, Celui qui amplifie toute l'abondance. Il est celui qui ouvre la voie. Il ouvre et étend les cœurs et nos âmes et nous donne la subsistance dans sa générosité et sa miséricorde. Il accorde l'abondance à qui Il veut et tend sa main à toute l'humanité.",
+        "en": "",
+        "tr": ""
+      }
+    },
+    "tranliteration": {
+      "fr": "Al-Basit",
+      "en": "",
+      "tr": "El-Bâsıt"
+    },
+    "audio": "/audio/al-basit.mp3",
+    "image": {
+      "png": {
+        "64x64": "",
+        "128x128": "",
+        "256x256": ""
+      },
+      "svg": ""
+    },
+    "verset": {
+      "2": [
+        "245"
+      ]
+    }
+  },
+  {
+    "id": "35253084-3cb7-11f0-ac7c-6045cb6ed61f",
+    "name": {
+      "ar": "الخافض",
+      "ar-enhanced": "ٱلْخَافِضُ",
+      "fr": "Celui qui abaisse",
+      "en": "",
+      "tr": "Alçaltan, zillete düşüren"
+    },
+    "explanation": {
+      "short": {
+        "fr": "Celui qui abaisse, celui qui réduit, celui qui réduit",
+        "en": "",
+        "tr": ""
+      },
+      "long": {
+        "fr": "",
+        "en": "",
+        "tr": ""
+      }
+    },
+    "tranliteration": {
+      "fr": "Al-Khafid",
+      "en": "",
+      "tr": "El-Hâfız"
+    },
+    "audio": "/audio/al-khafid.mp3",
+    "image": {
+      "png": {
+        "64x64": "",
+        "128x128": "",
+        "256x256": ""
+      },
+      "svg": ""
+    },
+    "verset": {}
+  },
+  {
+    "id": "35253c60-3cb7-11f0-9da1-6045cb6ed61f",
+    "name": {
+      "ar": "الرافع",
+      "ar-enhanced": "ٱلْرَّافِعُ",
+      "fr": "L'Exalteur",
+      "en": "",
+      "tr": "Yücelten, izzet ve şeref veren"
+    },
+    "explanation": {
+      "short": {
+        "fr": "L'Exalteur, L'Élévateur, L'Éleveur.",
+        "en": "",
+        "tr": ""
+      },
+      "long": {
+        "fr": "Allah est Ar-Rafi. Il est Celui qui abaisse qui Il veut et élève qui Il veut. Celui qui choisit qui sera élevé en grade de toutes les manières.",
+        "en": "",
+        "tr": ""
+      }
+    },
+    "tranliteration": {
+      "fr": "Ar-Rafi",
+      "en": "",
+      "tr": "Er-Râfî"
+    },
+    "audio": "/audio/ar-rafi.mp3",
+    "image": {
+      "png": {
+        "64x64": "",
+        "128x128": "",
+        "256x256": ""
+      },
+      "svg": ""
+    },
+    "verset": {}
+  },
+  {
+    "id": "352548ba-3cb7-11f0-b3a2-6045cb6ed61f",
+    "name": {
+      "ar": "المعزّ",
+      "ar-enhanced": "",
+      "fr": "Celui qui honore",
+      "en": "",
+      "tr": "Yücelten, izzet ve şeref veren"
+    },
+    "explanation": {
+      "short": {
+        "fr": "Celui qui offre l'honneur, celui qui donne la puissance.",
+        "en": "",
+        "tr": ""
+      },
+      "long": {
+        "fr": "Allah est Al-Mu'izz, Il accorde de l'estime à qui Il veut; il n'y aura donc personne pour les dégrader. Il avilit ceux qu'Il veut; il n'y a donc personne d'autre pour leur accorder de l'estime. Al-Mu'izz est celui qui donne la force et l'honneur à ses serviteurs obéissants et aimants. Il confère la puissance matérielle à qui il veut. Il renforce, glorifie et rend possible le respect de quelqu'un ou de quelque chose.",
+        "en": "",
+        "tr": ""
+      }
+    },
+    "tranliteration": {
+      "fr": "Al-Mu'izz",
+      "en": "",
+      "tr": "El-Muiz"
+    },
+    "audio": "/audio/al-muizz.mp3",
+    "image": {
+      "png": {
+        "64x64": "",
+        "128x128": "",
+        "256x256": ""
+      },
+      "svg": ""
+    },
+    "verset": {}
+  },
+  {
+    "id": "352555ae-3cb7-11f0-90ef-6045cb6ed61f",
+    "name": {
+      "ar": "المذلّ",
+      "ar-enhanced": "ٱلْمُذِلُّ",
+      "fr": "Celui qui humilie",
+      "en": "",
+      "tr": "Alçaltan, zillet veren"
+    },
+    "explanation": {
+      "short": {
+        "fr": "Celui qui humilie, Celui qui déshonore, Celui qui dégrade",
+        "en": "",
+        "tr": ""
+      },
+      "long": {
+        "fr": "Allah est Al Mudhil, Il accorde de l'estime à qui Il veut; il n'y aura donc personne pour les dégrader. Il avilit ceux qu'Il veut; il n'y a donc personne d'autre pour leur accorder de l'estime. Une fois déshonoré, nul ne peut être honoré sans la permission d'Allah.",
+        "en": "",
+        "tr": ""
+      }
+    },
+    "tranliteration": {
+      "fr": "Al-Muzil",
+      "en": "",
+      "tr": "El-Müzil"
+    },
+    "audio": "/audio/al-mudhill.mp3",
+    "image": {
+      "png": {
+        "64x64": "",
+        "128x128": "",
+        "256x256": ""
+      },
+      "svg": ""
+    },
+    "verset": {}
+  },
+  {
+    "id": "352564b0-3cb7-11f0-8c66-6045cb6ed61f",
+    "name": {
+      "ar": "السميع",
+      "ar-enhanced": "ٱلْسَّمِيعُ",
+      "fr": "Le Tout-Ouïe",
+      "en": "",
+      "tr": "İşiten"
+    },
+    "explanation": {
+      "short": {
+        "fr": "Celui qui écoute. Son écoute éternelle sans oreille, ni instrument, ni organe.",
+        "en": "",
+        "tr": ""
+      },
+      "long": {
+        "fr": "Allah est As-Sami l'auditeur perpétuel. Il est attentif à chaque supplication, écoutant tous ceux qui s'adressent à Lui. Que nous parlions fort ou en secret, en anglais ou en français, Allah entend tout.",
+        "en": "",
+        "tr": ""
+      }
+    },
+    "tranliteration": {
+      "fr": "As-Sami",
+      "en": "Es-Semî'",
+      "tr": ""
+    },
+    "audio": "/audio/as-sami.mp3",
+    "image": {
+      "png": {
+        "64x64": "",
+        "128x128": "",
+        "256x256": ""
+      },
+      "svg": ""
+    },
+    "verset": {
+      "2": [
+        "127"
+      ],
+      "4": [
+        "58"
+      ],
+      "9": [
+        "98",
+        "102"
+      ],
+      "34": [
+        "50"
+      ],
+      "58": [
+        "1"
+      ]
+    }
+  },
+  {
+    "id": "35257149-3cb7-11f0-af31-6045cb6ed61f",
+    "name": {
+      "ar": "البصير",
+      "ar-enhanced": "ٱلْبَصِيرُ",
+      "fr": "Le Clairvoyant",
+      "en": "",
+      "tr": "Gören"
+    },
+    "explanation": {
+      "short": {
+        "fr": "L'Omniscient. Celui qui voit toutes choses par Sa vision éternelle sans pupille ni autre instrument.",
+        "en": "",
+        "tr": ""
+      },
+      "long": {
+        "fr": "Allah est Al-Basir, Il voit tout, y compris ce qui est insignifiant, telle une fourmi noire sur une pierre noire quand il fait tout noir dans la nuit. Rien ne peut être caché à Sa vue. Sa connaissance s'étend à toutes choses, tant dans les cieux que sur la terre. Aucun détail ne lui échappe. Sa vision englobe tout, et pas seulement ce qui est superficiel. Il voit ce qui est réellement à l'intérieur.",
+        "en": "",
+        "tr": ""
+      }
+    },
+    "tranliteration": {
+      "fr": "Al-Baseer",
+      "en": "",
+      "tr": "El-Basîr"
+    },
+    "audio": "/audio/al-basir.mp3",
+    "image": {
+      "png": {
+        "64x64": "",
+        "128x128": "",
+        "256x256": ""
+      },
+      "svg": ""
+    },
+    "verset": {
+      "3": [
+        "15"
+      ],
+      "4": [
+        "58"
+      ]
+    }
+  },
+  {
+    "id": "35257d9f-3cb7-11f0-8a7b-6045cb6ed61f",
+    "name": {
+      "ar": "الحكم",
+      "ar-enhanced": "ٱلْحَكَمُ",
+      "fr": "Le Juge Impartial",
+      "en": "",
+      "tr": "Son hükmü veren"
+    },
+    "explanation": {
+      "short": {
+        "fr": "L'Arbitre, le Juge, Celui qui rend justice.",
+        "en": "",
+        "tr": ""
+      },
+      "long": {
+        "fr": "Allah est Al-Hakam, Celui qui rend justice. Son jugement, une fois rendu, ne peut être contrecarré. Il rend toujours la justice dansp tou>tes les situations et ne se trompe jamais. Il est le meilleur des juges.",
+        "en": "",
+        "tr": ""
+      }
+    },
+    "tranliteration": {
+      "fr": "Al-Hakam",
+      "en": "",
+      "tr": "El-Hakem"
+    },
+    "audio": "/audio/al-hakam.mp3",
+    "image": {
+      "png": {
+        "64x64": "",
+        "128x128": "",
+        "256x256": ""
+      },
+      "svg": ""
+    },
+    "verset": {}
+  },
+  {
+    "id": "352589f3-3cb7-11f0-935c-6045cb6ed61f",
+    "name": {
+      "ar": "العدل",
+      "ar-enhanced": "ٱلْعَدْلُ",
+      "fr": "La Justice incarnée",
+      "en": "",
+      "tr": "Mutlak adalet sahibi, aşırılığa meyletmeyen"
+    },
+    "explanation": {
+      "short": {
+        "fr": "Le Juste, celui qui a le droit de faire ce qu'Il fait.",
+        "en": "",
+        "tr": ""
+      },
+      "long": {
+        "fr": "Allah est Al-Adl, Celui qui rectifie et redresse les choses de manière juste et équitable. Il rend toujours la justice absolue par sa sagesse sans défaillance. Il donne à chacun ce qu'il mérite et remet chaque chose dans l'ordre qui lui convient.",
+        "en": "",
+        "tr": ""
+      }
+    },
+    "tranliteration": {
+      "fr": "Al-Adl",
+      "en": "",
+      "tr": "El-Adl"
+    },
+    "audio": "/audio/al-adl.mp3",
+    "image": {
+      "png": {
+        "64x64": "",
+        "128x128": "",
+        "256x256": ""
+      },
+      "svg": ""
+    },
+    "verset": {}
+  },
+  {
+    "id": "35259617-3cb7-11f0-8bef-6045cb6ed61f",
+    "name": {
+      "ar": "اللطيف",
+      "ar-enhanced": "",
+      "fr": "Le Connaisseur des subtilités",
+      "en": "",
+      "tr": "Yaratılmışların ihtiyacını en ince noktasına kadar bilip sezilmez yollarla karşılayan"
+    },
+    "explanation": {
+      "short": {
+        "fr": "Le Subtil, le Miséricordieux, Celui qui est bon pour ses serviteurs et qui leur donne.",
+        "en": "",
+        "tr": ""
+      },
+      "long": {
+        "fr": "Allah est Al-Lateef. Il est le plus doux et le plus gracieux envers les gens et se soucie d'eux, même s'ils sont inconscients de ses actes. Sa nature est bonne, affectueuse et compréhensive des détails subtils des circonstances individuelles. Ses actions sont si subtiles qu'elles ne peuvent être observées ou comprises. Il fait pour vous des choses que vous ne saurez jamais. C'est le nom d'Allah appeler pour demander de l'aide dans les épreuves.",
+        "en": "",
+        "tr": ""
+      }
+    },
+    "tranliteration": {
+      "fr": "Al-Lateef",
+      "en": "",
+      "tr": "El-Latîf"
+    },
+    "audio": "/audio/al-latif.mp3",
+    "image": {
+      "png": {
+        "64x64": "",
+        "128x128": "",
+        "256x256": ""
+      },
+      "svg": ""
+    },
+    "verset": {
+      "6": [
+        "103"
+      ],
+      "12": [
+        "100"
+      ],
+      "22": [
+        "63"
+      ],
+      "31": [
+        "16"
+      ],
+      "33": [
+        "34"
+      ],
+      "42": [
+        "19"
+      ],
+      "67": [
+        "14"
+      ]
+    }
+  },
+  {
+    "id": "3525a2c6-3cb7-11f0-888e-6045cb6ed61f",
+    "name": {
+      "ar": "الخبير",
+      "ar-enhanced": "",
+      "fr": "Le Très-Instruit",
+      "en": "",
+      "tr": "Her şeyin iç yüzünden haberdar olan"
+    },
+    "explanation": {
+      "short": {
+        "fr": "Celui qui connaît la vérité des choses.",
+        "en": "",
+        "tr": ""
+      },
+      "long": {
+        "fr": "Allah est Al-Khabeer. Le Connaisseur de la réalité, Celui dont la connaissance est complète, connaissant les qualités et les significations de toutes choses. Il connaît et comprend les secrets les plus cachés. Il est omniscient et omniscient. Celui qui connaît la vérité dans toutes les situations.",
+        "en": "",
+        "tr": ""
+      }
+    },
+    "tranliteration": {
+      "fr": "Al-Khabir",
+      "en": "",
+      "tr": "El-Habîr"
+    },
+    "audio": "/audio/al-khabir.mp3",
+    "image": {
+      "png": {
+        "64x64": "",
+        "128x128": "",
+        "256x256": ""
+      },
+      "svg": ""
+    },
+    "verset": {
+      "6": "103",
+      "31": [
+        "34"
+      ],
+      "35": [
+        "14"
+      ],
+      "59": [
+        "18"
+      ]
+    }
+  },
+  {
+    "id": "3525aed8-3cb7-11f0-a04a-6045cb6ed61f",
+    "name": {
+      "ar": "الحليم",
+      "ar-enhanced": "",
+      "fr": "Le Clément",
+      "en": "",
+      "tr": "Acele ile ve kızgınlıkla muamele etmeyen"
+    },
+    "explanation": {
+      "short": {
+        "fr": "Le Pardonneur, le Magnanime. Celui qui retarde le châtiment de ceux qui le méritent pour leur pardonner.",
+        "en": "",
+        "tr": ""
+      },
+      "long": {
+        "fr": "Allah est Al-Haleem (également orthographié Al-Halim), le plus serein, le plus aimable et le plus doux. Il ne punit pas les gens pour chaque péché. Il tolère et est très gracieux et miséricordieux. Il est toujours calme et réfléchi, n'agissant jamais avec précipitation, même avec les malfaiteurs. Il nous donne l'occasion d'apprendre et d'être gentils.",
+        "en": "",
+        "tr": ""
+      }
+    },
+    "tranliteration": {
+      "fr": "Al-Haleem",
+      "en": "",
+      "tr": "El-Halîm"
+    },
+    "audio": "/audio/al-halim.mp3",
+    "image": {
+      "png": {
+        "64x64": "",
+        "128x128": "",
+        "256x256": ""
+      },
+      "svg": ""
+    },
+    "verset": {
+      "2": [
+        "263"
+      ],
+      "3": [
+        "115"
+      ],
+      "17": [
+        "44"
+      ],
+      "35": [
+        "41"
+      ]
+    }
+  },
+  {
+    "id": "3525bb1b-3cb7-11f0-b974-6045cb6ed61f",
+    "name": {
+      "ar": "العظيم",
+      "ar-enhanced": "",
+      "fr": "Le Magnifique",
+      "en": "",
+      "tr": "Zâtının ve sıfatlarının mahiyeti anlaşılamayacak kadar ulu"
+    },
+    "explanation": {
+      "short": {
+        "fr": "Le Grand, le Puissant, l'Immense.",
+        "en": "",
+        "tr": ""
+      },
+      "long": {
+        "fr": "Allah est Al-Azeem, La Gloire Suprême et Le Plus Grand. Sa réalité est trop grande pour être pleinement comprise par l'esprit humain. Il est infiniment plus grand que sa création. Il est dit que son trône (symbole de sa connaissance et de son autorité) s'étend sur les cieux et la terre, et que leurs soins ne l'accablent pas. Il est celui qui mérite les attributs de l'exaltation, de la gloire, de l'exclusion et de la pureté de toute imperfection.",
+        "en": "",
+        "tr": ""
+      }
+    },
+    "tranliteration": {
+      "fr": "Al-Azeem",
+      "en": "",
+      "tr": "El-Azîm"
+    },
+    "audio": "/audio/al-azeem.mp3",
+    "image": {
+      "png": {
+        "64x64": "",
+        "128x128": "",
+        "256x256": ""
+      },
+      "svg": ""
+    },
+    "verset": {
+      "2": [
+        "255"
+      ],
+      "42": [
+        "4"
+      ],
+      "55": [
+        "96"
+      ],
+      "69": [
+        "52"
+      ]
+    }
+  },
+  {
+    "id": "3525c865-3cb7-11f0-b9b7-6045cb6ed61f",
+    "name": {
+      "ar": "الغفور",
+      "ar-enhanced": "ٱلْغَفُورُ",
+      "fr": "Le Tout-Pardon",
+      "en": "",
+      "tr": "Bütün günahları bağışlayan"
+    },
+    "explanation": {
+      "short": {
+        "fr": "Le Tout-Pardon, Le Pardonneur, Celui qui pardonne beaucoup.",
+        "en": "",
+        "tr": ""
+      },
+      "long": {
+        "fr": "Allah est Al-Ghafoor, Il est Celui qui pardonne complètement nos péchés et nos fautes. Son pardon est illimité, et Il est tout à fait compatissant. Il est très haut, son pardon s'étend à tous ceux qui se tournent vers lui en toute humilité et cherchent à se repentir.",
+        "en": "",
+        "tr": ""
+      }
+    },
+    "tranliteration": {
+      "fr": "Al-Ghafoor",
+      "en": "",
+      "tr": "El-Gafûr"
+    },
+    "audio": "/audio/al-ghafur.mp3",
+    "image": {
+      "png": {
+        "64x64": "",
+        "128x128": "",
+        "256x256": ""
+      },
+      "svg": ""
+    },
+    "verset": {
+      "2": [
+        "173"
+      ],
+      "9": [
+        "91",
+        "99",
+        "102"
+      ],
+      "15": [
+        "49"
+      ],
+      "41": [
+        "32"
+      ]
+    }
+  },
+  {
+    "id": "3525d4e3-3cb7-11f0-8f45-6045cb6ed61f",
+    "name": {
+      "ar": "الشكور",
+      "ar-enhanced": "ٱلْشَّكُورُ",
+      "fr": "Le Reconnaissant",
+      "en": "",
+      "tr": "Az iyiliğe çok mükâfat veren"
+    },
+    "explanation": {
+      "short": {
+        "fr": "Le Reconnaissant, L'Appréciateur, Le Récompensateur de la Reconnaissance.",
+        "en": "",
+        "tr": ""
+      },
+      "long": {
+        "fr": "Allah est Ash-Shakur, c'est-à-dire le plus reconnaissant, celui qui récompense les bonnes actions, et qui est le plus reconnaissant. Il remarque le moindre de nos actes de droiture et nous en récompense dans cette vie ou dans l'autre. Il est généreux en dons et accorde de grandes récompenses pour la plus petite quantité de bonnes actions.",
+        "en": "",
+        "tr": ""
+      }
+    },
+    "tranliteration": {
+      "fr": "Ash-Shakur",
+      "en": "",
+      "tr": "Eş-Şekûr"
+    },
+    "audio": "/audio/ash-shakur.mp3",
+    "image": {
+      "png": {
+        "64x64": "",
+        "128x128": "",
+        "256x256": ""
+      },
+      "svg": ""
+    },
+    "verset": {
+      "2": [
+        "158"
+      ],
+      "4": [
+        "147"
+      ],
+      "35": [
+        "34"
+      ],
+      "42": [
+        "23"
+      ]
+    }
+  },
+  {
+    "id": "3525e0ae-3cb7-11f0-8325-6045cb6ed61f",
+    "name": {
+      "ar": "العليّ",
+      "ar-enhanced": "ٱلْعَلِيُّ",
+      "fr": "Le Haut",
+      "en": "",
+      "tr": "İzzet, şeref ve hükümranlık bakımından en yüce, aşkın"
+    },
+    "explanation": {
+      "short": {
+        "fr": "Exalté et le Haut. Celui qui est élevé à tous égards.",
+        "en": "",
+        "tr": ""
+      },
+      "long": {
+        "fr": "Allah est Al-Aliyy, le plus élevé et le plus haut. Il dépasse tous les autres, et il n'y a rien de plus élevé. Il est celui dont le rang et la station sont les plus élevés. Il est au-dessus de tout ce qui a été ou sera jamais.",
+        "en": "",
+        "tr": ""
+      }
+    },
+    "tranliteration": {
+      "fr": "Al-Aliyy",
+      "en": "",
+      "tr": "El-Alî"
+    },
+    "audio": "/audio/al-ali.mp3",
+    "image": {
+      "png": {
+        "64x64": "",
+        "128x128": "",
+        "256x256": ""
+      },
+      "svg": ""
+    },
+    "verset": {
+      "2": [
+        "255"
+      ],
+      "34": [
+        "23"
+      ],
+      "87": [
+        "1"
+      ]
+    }
+  },
+  {
+    "id": "3525edbc-3cb7-11f0-af28-6045cb6ed61f",
+    "name": {
+      "ar": "الكبير",
+      "ar-enhanced": "ٱلْكَبِيرُ",
+      "fr": "Le Meilleur",
+      "en": "",
+      "tr": "Zâtının ve sıfatlarının mahiyeti anlaşılamayacak kadar ulu"
+    },
+    "explanation": {
+      "short": {
+        "fr": "Le Meilleur, le Tout-Grand, le Suprême.",
+        "en": "",
+        "tr": ""
+      },
+      "long": {
+        "fr": "Le nom Al-Kabeer signifiant la perfection de la grandeur. Le cœur du croyant sait qu'Allah est l'essence de la perfection et que rien ne lui est comparable. Sa grandeur est au-delà de toute mesure, et son être est inimaginable pour l'esprit humain.",
+        "en": "",
+        "tr": ""
+      }
+    },
+    "tranliteration": {
+      "fr": "Al-Kabeer",
+      "en": "",
+      "tr": "El-Bekîr"
+    },
+    "audio": "/audio/al-kabir.mp3",
+    "image": {
+      "png": {
+        "64x64": "",
+        "128x128": "",
+        "256x256": ""
+      },
+      "svg": ""
+    },
+    "verset": {
+      "13": [
+        "9"
+      ],
+      "22": [
+        "62"
+      ],
+      "31": [
+        "30"
+      ],
+      "34": [
+        "23"
+      ]
+    }
+  },
+  {
+    "id": "3525fa3e-3cb7-11f0-ad56-6045cb6ed61f",
+    "name": {
+      "ar": "الحفيظ",
+      "ar-enhanced": "ٱلْحَفِيظُ",
+      "fr": "Le Préservateur",
+      "en": "",
+      "tr": "Koruyup gözeten ve dengede tutan"
+    },
+    "explanation": {
+      "short": {
+        "fr": "Le Gardien, le Protecteur, Celui qui préserve ce qu'Il a créé.",
+        "en": "",
+        "tr": ""
+      },
+      "long": {
+        "fr": "Allah est Al-Hafiz, le gardien et le protecteur de toute chose. Il préserve toutes les créations et se souvient de tout ce qui a été et de tout ce qui est. Il est le protecteur du Coran et a juré de le préserver de toute modification ou perversion, comme ce fut le cas pour les écritures précédentes.",
+        "en": "",
+        "tr": ""
+      }
+    },
+    "tranliteration": {
+      "fr": "Al-Hafiz",
+      "en": "",
+      "tr": "El-Hafîz"
+    },
+    "audio": "/audio/al-hafiz.mp3",
+    "image": {
+      "png": {
+        "64x64": "",
+        "128x128": "",
+        "256x256": ""
+      },
+      "svg": ""
+    },
+    "verset": {
+      "11": [
+        "57"
+      ],
+      "12": [
+        "64"
+      ]
+    }
+  },
+  {
+    "id": "35260615-3cb7-11f0-98b8-6045cb6ed61f",
+    "name": {
+      "ar": "المقيت",
+      "ar-enhanced": "ٱلْمُقِيتُ",
+      "fr": "Le Nourrisseur",
+      "en": "",
+      "tr": "Bedenlerin ve ruhların gıdasını yaratıp veren, bilip gücü yeten ve koruyan"
+    },
+    "explanation": {
+      "short": {
+        "fr": "Le Nourricier, le Soutien",
+        "en": "",
+        "tr": ""
+      },
+      "long": {
+        "fr": "Allah est Al-Muqeet, c'est-à-dire le soutien ultime. Il donne force et nourriture à ses créations et maintient tout ce qui existe. Il surveille, garde et préserve tout. C'est à Allah que nous devons la satisfaction de tous les besoins, mais Il est seul et indépendant des besoins.",
+        "en": "",
+        "tr": ""
+      }
+    },
+    "tranliteration": {
+      "fr": "Al-Muqeet",
+      "en": "",
+      "tr": "El-Mukît"
+    },
+    "audio": "/audio/al-muqit.mp3",
+    "image": {
+      "png": {
+        "64x64": "",
+        "128x128": "",
+        "256x256": ""
+      },
+      "svg": ""
+    },
+    "verset": {
+      "4": [
+        "85"
+      ]
+    }
+  },
+  {
+    "id": "35261358-3cb7-11f0-866b-6045cb6ed61f",
+    "name": {
+      "ar": "الحسيب",
+      "ar-enhanced": "ٱلْحَسِيبُ",
+      "fr": "Celui qui tient compte de tout",
+      "en": "",
+      "tr": "Kullarına yeten, onları hesaba çeken"
+    },
+    "explanation": {
+      "short": {
+        "fr": "Le Vérificateur, Le Suffisant, Celui qui suffit.",
+        "en": "",
+        "tr": ""
+      },
+      "long": {
+        "fr": "Allah est Al-Haseeb. Il est Celui qui prend en compte toutes les actions et les comptabilise le jour du jugement. Il n'y a rien qui passe inaperçu, aussi petit soit-il. Allah est celui qui tiendra compte de tout et demandera des comptes à chaque personne. Il donnera ce qui est suffisant et nécessaire dans chaque situation.",
+        "en": "",
+        "tr": ""
+      }
+    },
+    "tranliteration": {
+      "fr": "Al-Haseeb",
+      "en": "",
+      "tr": "El-Hasîb"
+    },
+    "audio": "/audio/al-hasib.mp3",
+    "image": {
+      "png": {
+        "64x64": "",
+        "128x128": "",
+        "256x256": ""
+      },
+      "svg": ""
+    },
+    "verset": {
+      "4": [
+        "86"
+      ],
+      "21": [
+        "47"
+      ],
+      "33": [
+        "39"
+      ]
+    }
+  },
+  {
+    "id": "35261f43-3cb7-11f0-ac7d-6045cb6ed61f",
+    "name": {
+      "ar": "الجليل",
+      "ar-enhanced": "ٱلْجَلِيلُ",
+      "fr": "Le Majestueux",
+      "en": "",
+      "tr": "Azamet sahibi"
+    },
+    "explanation": {
+      "short": {
+        "fr": "Le Glorieux, le Majestueux, le Sublime",
+        "en": "",
+        "tr": ""
+      },
+      "long": {
+        "fr": "Allah est Al-Jaleel : Il est le grand et au-dessus de tous en dignité et en rang. Il est majestueux et la source de tous les attributs de la grandeur. C'est à lui que l'on doit tout honneur et toute dévotion sincère.",
+        "en": "",
+        "tr": ""
+      }
+    },
+    "tranliteration": {
+      "fr": "Al-Jaleel",
+      "en": "",
+      "tr": "El-Celîl"
+    },
+    "audio": "/audio/al-jalil.mp3",
+    "image": {
+      "png": {
+        "64x64": "",
+        "128x128": "",
+        "256x256": ""
+      },
+      "svg": ""
+    },
+    "verset": {}
+  },
+  {
+    "id": "35262af9-3cb7-11f0-a3ca-6045cb6ed61f",
+    "name": {
+      "ar": "الكريم",
+      "ar-enhanced": "ٱلْكَرِيمُ",
+      "fr": "Les plus Généreux",
+      "en": "",
+      "tr": "Fazilet türlerinin hepsine sahip"
+    },
+    "explanation": {
+      "short": {
+        "fr": "Le Généreux, le Miséricordieux, le Bienfaiteur.",
+        "en": "",
+        "tr": ""
+      },
+      "long": {
+        "fr": "Allah est Al-Kareem signifiant celui qui est le plus généreux, le plus généreux et le plus estimé. Il est Celui dont la bonté ne connaît pas de limites et qui offre continuellement des cadeaux précieux à qui il veut. Il donne et pardonne avec bonté.",
+        "en": "",
+        "tr": ""
+      }
+    },
+    "tranliteration": {
+      "fr": "Al-Karim",
+      "en": "",
+      "tr": "El-Kerîm"
+    },
+    "audio": "/audio/al-karim.mp3",
+    "image": {
+      "png": {
+        "64x64": "",
+        "128x128": "",
+        "256x256": ""
+      },
+      "svg": ""
+    },
+    "verset": {
+      "27": [
+        "40"
+      ],
+      "82": [
+        "6"
+      ],
+      "96": [
+        "3"
+      ]
+    }
+  },
+  {
+    "id": "35263731-3cb7-11f0-a3d6-6045cb6ed61f",
+    "name": {
+      "ar": "الرقيب",
+      "ar-enhanced": "ٱلْرَّقِيبُ",
+      "fr": "Le Tout Vigilant",
+      "en": "",
+      "tr": "Gözetleyip kontrol eden"
+    },
+    "explanation": {
+      "short": {
+        "fr": "Le Guetteur, l'Observateur.",
+        "en": "",
+        "tr": ""
+      },
+      "long": {
+        "fr": "Allah est Ar-Raqib, c'est-à-dire celui qui voit ce qui est caché. Il est le témoin vigilant et agit comme un gardien protégeant sa création. Ce terme se rapporte également à l'attribut de la connaissance. Il est celui qui voit la vérité en toute chose. Il connaît les secrets de chaque âme et, le jour de la rétribution, Allah la récompensera pour ce qu'elle a gagné.",
+        "en": "",
+        "tr": ""
+      }
+    },
+    "tranliteration": {
+      "fr": "Ar-Raqib",
+      "en": "",
+      "tr": "Er-Rakîb"
+    },
+    "audio": "/audio/ar-raqib.mp3",
+    "image": {
+      "png": {
+        "64x64": "",
+        "128x128": "",
+        "256x256": ""
+      },
+      "svg": ""
+    },
+    "verset": {
+      "4": [
+        "1"
+      ],
+      "5": [
+        "117"
+      ]
+    }
+  },
+  {
+    "id": "35264327-3cb7-11f0-a4e3-6045cb6ed61f",
+    "name": {
+      "ar": "المجيب",
+      "ar-enhanced": "ٱلْمُجِيبُ",
+      "fr": "Le Réactif",
+      "en": "",
+      "tr": "Dileklere karşılık veren"
+    },
+    "explanation": {
+      "short": {
+        "fr": "Le Réactif, l'Exauceur de prières, l'Ecoutant.",
+        "en": "",
+        "tr": ""
+      },
+      "long": {
+        "fr": " Allah  est Al-Mujeeb/Al-Mujib, ce qui signifie qu'Il est très proche de Ses croyants et facilement disponible pour entendre et répondre aux supplications de ceux qui le demandent. Il répond à tous les besoins, à toutes les invitations et à toutes les prières. Quiconque a besoin d'aide en cas de difficultés doit invoquer le nom d'Allah.",
+        "en": "",
+        "tr": ""
+      }
+    },
+    "tranliteration": {
+      "fr": "Al-Mujeeb",
+      "en": "",
+      "tr": "El-Mücîb"
+    },
+    "audio": "/audio/al-mujib.mp3",
+    "image": {
+      "png": {
+        "64x64": "",
+        "128x128": "",
+        "256x256": ""
+      },
+      "svg": ""
+    },
+    "verset": {
+      "11": [
+        "61"
+      ]
+    }
+  },
+  {
+    "id": "35264ef0-3cb7-11f0-b6b2-6045cb6ed61f",
+    "name": {
+      "ar": "الواسع",
+      "ar-enhanced": "ٱلْوَاسِعُ",
+      "fr": "Celui qui englobe tout",
+      "en": "",
+      "tr": "İlmi ve merhameti her şeyi kuşatan"
+    },
+    "explanation": {
+      "short": {
+        "fr": "Le Vaste, Celui qui couvre tout, Celui qui n'a pas de limites.",
+        "en": "",
+        "tr": ""
+      },
+      "long": {
+        "fr": "Allah est Al-Wasi : Celui dont le savoir, la miséricorde et la provision sont vastes. Il est d'une capacité et d'une abondance illimitées et offre sans rien attendre en retour. Allah incarne tout et Sa sagesse ainsi que Sa miséricorde sont sans limites.",
+        "en": "",
+        "tr": ""
+      }
+    },
+    "tranliteration": {
+      "fr": "Al-Wasi",
+      "en": "",
+      "tr": "El-Vâsî"
+    },
+    "audio": "/audio/al-wasi.mp3",
+    "image": {
+      "png": {
+        "64x64": "",
+        "128x128": "",
+        "256x256": ""
+      },
+      "svg": ""
+    },
+    "verset": {
+      "2": [
+        "115",
+        "268"
+      ],
+      "3": [
+        "73"
+      ],
+      "4": [
+        "130"
+      ]
+    }
+  },
+  {
+    "id": "35265ca6-3cb7-11f0-936b-6045cb6ed61f",
+    "name": {
+      "ar": "الحكيم",
+      "ar-enhanced": "ٱلْحَكِيمُ",
+      "fr": "L'Omniscient",
+      "en": "",
+      "tr": "Bütün emirleri ve işleri yerli yerinde olan"
+    },
+    "explanation": {
+      "short": {
+        "fr": "Le Sage, le Juge des Juges, celui qui est correct dans ses actions.",
+        "en": "",
+        "tr": ""
+      },
+      "long": {
+        "fr": "Allah est Al-Hakeem, le plus judicieux et le plus sage. Il possède la capacité de déterminer le bien et le mal et est exempt d'erreurs et de malentendus. Ses conceptions de la nature et de la vie sont parfaites et exactes. Il est le seul à pouvoir juger de la valeur de toutes les choses.",
+        "en": "",
+        "tr": ""
+      }
+    },
+    "tranliteration": {
+      "fr": "Al-Hakeem",
+      "en": "",
+      "tr": "El-Hakîm"
+    },
+    "audio": "/audio/al-hakim.mp3",
+    "image": {
+      "png": {
+        "64x64": "",
+        "128x128": "",
+        "256x256": ""
+      },
+      "svg": ""
+    },
+    "verset": {
+      "9": [
+        "60",
+        "71",
+        "97",
+        "106",
+        "110"
+      ],
+      "12": [
+        "100"
+      ],
+      "24": [
+        "18"
+      ]
+    }
+  },
+  {
+    "id": "3526689f-3cb7-11f0-8cbd-6045cb6ed61f",
+    "name": {
+      "ar": "الودود",
+      "ar-enhanced": " ٱلْوَدُودُ",
+      "fr": "Le plus Aimant",
+      "en": "",
+      "tr": "Çok seven, çok sevilen"
+    },
+    "explanation": {
+      "short": {
+        "fr": "Le plus Aimant, le plus Affectueux, le plus Aimé.",
+        "en": "",
+        "tr": ""
+      },
+      "long": {
+        "fr": "Allah est Al-Wadud, le plus aimant et le plus affectueux. Il est fidèle à ses serviteurs et leur témoigne l'amour le plus pur. Il est la source singulière de tout amour et de toute bonté. Celui qui aime ses serviteurs croyants, et ses serviteurs croyants l'adorent.",
+        "en": "",
+        "tr": ""
+      }
+    },
+    "tranliteration": {
+      "fr": "Al-Wadud",
+      "en": "",
+      "tr": "El-Vedûd"
+    },
+    "audio": "/audio/al-wadud.mp3",
+    "image": {
+      "png": {
+        "64x64": "",
+        "128x128": "",
+        "256x256": ""
+      },
+      "svg": ""
+    },
+    "verset": {
+      "11": [
+        "90"
+      ],
+      "85": [
+        "14"
+      ]
+    }
+  },
+  {
+    "id": "3526749c-3cb7-11f0-97ee-6045cb6ed61f",
+    "name": {
+      "ar": "المجيد",
+      "ar-enhanced": "ٱلْمَجِيدُ",
+      "fr": "Le Tout-Glorieux",
+      "en": "",
+      "tr": "Şanlı, şerefli"
+    },
+    "explanation": {
+      "short": {
+        "fr": "Le Très Glorieux, Le Très Honorable.",
+        "en": "",
+        "tr": ""
+      },
+      "long": {
+        "fr": "Allah est Al-Majeed, soit celui qui est le plus glorieux, le plus honorable, le plus digne, le plus noble et le plus généreux. C'est un autre nom qui regroupe plusieurs attributs. Il est Le seul à mériter toutes les louanges et tous les honneurs parce qu'Il est tout glorieux.",
+        "en": "",
+        "tr": ""
+      }
+    },
+    "tranliteration": {
+      "fr": "Al-Majeed",
+      "en": "",
+      "tr": "El-Mecîd"
+    },
+    "audio": "/audio/al-majid.mp3",
+    "image": {
+      "png": {
+        "64x64": "",
+        "128x128": "",
+        "256x256": ""
+      },
+      "svg": ""
+    },
+    "verset": {
+      "11": [
+        "73"
+      ],
+      "85": [
+        "15"
+      ]
+    }
+  },
+  {
+    "id": "352681fd-3cb7-11f0-b1af-6045cb6ed61f",
+    "name": {
+      "ar": "",
+      "ar-enhanced": "ٱلْبَاعِثُ",
+      "fr": "Celui qui incite ",
+      "en": "",
+      "tr": ""
+    },
+    "explanation": {
+      "short": {
+        "fr": "L'Eveilleur, le Ressusciteur, l'Excitant",
+        "en": "",
+        "tr": ""
+      },
+      "long": {
+        "fr": "Allah est Al-Ba'ith, c'est-à-dire Celui qui choisit qui sera éveillé et envoyé. Il est celui qui donne la vie et qui envoie la lumière dans le monde. Celui qui ressuscite ses serviteurs après la mort pour la récompense et/ou le châtiment.",
+        "en": "",
+        "tr": ""
+      }
+    },
+    "tranliteration": {
+      "fr": "Al-Ba'ith",
+      "en": "",
+      "tr": ""
+    },
+    "audio": "/audio/al-baith.mp3",
+    "image": {
+      "png": {
+        "64x64": "",
+        "128x128": "",
+        "256x256": ""
+      },
+      "svg": ""
+    },
+    "verset": {
+      "6": [
+        "60"
+      ],
+      "62": [
+        "2"
+      ]
+    }
+  },
+  {
+    "id": "35268dbf-3cb7-11f0-8585-6045cb6ed61f",
+    "name": {
+      "ar": "",
+      "ar-enhanced": "ٱلْشَّهِيدُ",
+      "fr": "Le Tout Observant Témoin",
+      "en": "",
+      "tr": ""
+    },
+    "explanation": {
+      "short": {
+        "fr": "Le Témoin, Le Tout-Observant.",
+        "en": "",
+        "tr": ""
+      },
+      "long": {
+        "fr": "Allah est Ash-Shaheed désignant Celui qui est omniprésent et omniscient. Tout ce que nous faisons ne passe pas inaperçu, puisqu'Il est omniprésent et qu'Il voit tout. Son savoir comprend tout, et Il sera le témoin ultime le jour du jugement. ",
+        "en": "",
+        "tr": ""
+      }
+    },
+    "tranliteration": {
+      "fr": "Ash-Shaheed",
+      "en": "",
+      "tr": ""
+    },
+    "audio": "/audio/ash-shahid.mp3",
+    "image": {
+      "png": {
+        "64x64": "",
+        "128x128": "",
+        "256x256": ""
+      },
+      "svg": ""
+    },
+    "verset": {
+      "4": [
+        "79"
+      ],
+      "9": [
+        "94"
+      ],
+      "12": [
+        "81"
+      ],
+      "41": [
+        "53"
+      ],
+      "58": [
+        "6"
+      ]
+    }
+  },
+  {
+    "id": "35269974-3cb7-11f0-9da9-6045cb6ed61f",
+    "name": {
+      "ar": "الحق",
+      "ar-enhanced": "ٱلْحَقُّ",
+      "fr": "La vérité absolue",
+      "en": "",
+      "tr": ""
+    },
+    "explanation": {
+      "short": {
+        "fr": "Le Véritable, le Réel, l'Incarnation de la Vérité.",
+        "en": "",
+        "tr": ""
+      },
+      "long": {
+        "fr": "Allah est Al-Haqq, ce qui signifie: la seule réalité, celui qui incarne la vérité, l'absolu. Puisqu'il est le seul et véritable Dieu, il a tous les droits d'être adoré. Son essence est inéluctable et inchangée.",
+        "en": "",
+        "tr": ""
+      }
+    },
+    "tranliteration": {
+      "fr": "Al-Haqq",
+      "en": "",
+      "tr": ""
+    },
+    "audio": "/audio/al-haqq.mp3",
+    "image": {
+      "png": {
+        "64x64": "",
+        "128x128": "",
+        "256x256": ""
+      },
+      "svg": ""
+    },
+    "verset": {
+      "6": [
+        "62"
+      ],
+      "10": [
+        "32"
+      ],
+      "22": [
+        "6",
+        "62"
+      ],
+      "31": [
+        "30"
+      ]
+    }
+  },
+  {
+    "id": "3526a595-3cb7-11f0-96f6-6045cb6ed61f",
+    "name": {
+      "ar": "",
+      "ar-enhanced": "ٱلْوَكِيلُ",
+      "fr": "L’Intendant",
+      "en": "",
+      "tr": ""
+    },
+    "explanation": {
+      "short": {
+        "fr": "L'Intendant universel, le Responsable, le Digne de confiance.",
+        "en": "",
+        "tr": ""
+      },
+      "long": {
+        "fr": "Allah est Al-Wakeel, le seul et unique en qui on peut avoir confiance pour toutes nos affaires. Il est le dépositaire, le gardien et l'administrateur suprême. Un croyant comprend que les récompenses de ses efforts viennent d'Allah, et donc il confie sa foi entièrement en Lui.",
+        "en": "",
+        "tr": ""
+      }
+    },
+    "tranliteration": {
+      "fr": "Al-Wakeel",
+      "en": "",
+      "tr": ""
+    },
+    "audio": "/audio/al-wakeel.mp3",
+    "image": {
+      "png": {
+        "64x64": "",
+        "128x128": "",
+        "256x256": ""
+      },
+      "svg": ""
+    },
+    "verset": {
+      "3": [
+        "173"
+      ],
+      "4": [
+        "132"
+      ],
+      "6": [
+        "102"
+      ],
+      "73": [
+        "9"
+      ]
+    }
+  },
+  {
+    "id": "3526b197-3cb7-11f0-abb1-6045cb6ed61f",
+    "name": {
+      "ar": "",
+      "ar-enhanced": " ٱلْقَوِيُّ",
+      "fr": "Le Tout Puissant",
+      "en": "",
+      "tr": ""
+    },
+    "explanation": {
+      "short": {
+        "fr": "Le Très Puissant, la Force Parfaite, Celui dont la force est inépuisable.",
+        "en": "",
+        "tr": ""
+      },
+      "long": {
+        "fr": "Allah est Al-Qawiyy, soit celui qui commande toute la puissance et dont la force est inégalée. Sa force est véritablement illimitée et inépuisable. La force de l'homme ne peut se comparer à celle d'Allah le Tout-Puissant.",
+        "en": "",
+        "tr": ""
+      }
+    },
+    "tranliteration": {
+      "fr": "Al-Qawiyy",
+      "en": "",
+      "tr": ""
+    },
+    "audio": "/audio/al-qawi.mp3",
+    "image": {
+      "png": {
+        "64x64": "",
+        "128x128": "",
+        "256x256": ""
+      },
+      "svg": ""
+    },
+    "verset": {
+      "22": [
+        "74"
+      ],
+      "28": [
+        "26"
+      ],
+      "42": [
+        "19"
+      ],
+      "57": [
+        "25"
+      ]
+    }
+  },
+  {
+    "id": "3526bd73-3cb7-11f0-9651-6045cb6ed61f",
+    "name": {
+      "ar": "",
+      "ar-enhanced": "ٱلْمَتِينُ",
+      "fr": "Le Ferme",
+      "en": "",
+      "tr": ""
+    },
+    "explanation": {
+      "short": {
+        "fr": "Celui dont la puissance est extrême, ininterrompue et qui ne se fatigue pas.",
+        "en": "",
+        "tr": ""
+      },
+      "long": {
+        "fr": "Allah est Al-Matine, autrement dit Sa puissance est inébranlable. Il est le même qu'hier et le restera demain. Il est toujours constant et ferme.",
+        "en": "",
+        "tr": ""
+      }
+    },
+    "tranliteration": {
+      "fr": "Al-Matin",
+      "en": "",
+      "tr": ""
+    },
+    "audio": "/audio/al-matin.mp3",
+    "image": {
+      "png": {
+        "64x64": "",
+        "128x128": "",
+        "256x256": ""
+      },
+      "svg": ""
+    },
+    "verset": {
+      "7": [
+        "183"
+      ],
+      "51": [
+        "58"
+      ],
+      "68": [
+        "45"
+      ]
+    }
+  },
+  {
+    "id": "3526c9b6-3cb7-11f0-b933-6045cb6ed61f",
+    "name": {
+      "ar": "",
+      "ar-enhanced": "ٱلْوَلِيُّ",
+      "fr": "L'Associé Protecteur",
+      "en": "",
+      "tr": ""
+    },
+    "explanation": {
+      "short": {
+        "fr": "L'Ami Protecteur, le Supporteur, le Mécène.",
+        "en": "",
+        "tr": ""
+      },
+      "long": {
+        "fr": "Allah est Al-Waliy, c'est-à-dire le véritable protecteur. Il soutient et aime ses serviteurs, les protégeant du mal. Allah veut la victoire pour nous et guidera l'humanité vers le chemin de la droiture.",
+        "en": "",
+        "tr": ""
+      }
+    },
+    "tranliteration": {
+      "fr": "Al-Waliy",
+      "en": "",
+      "tr": ""
+    },
+    "audio": "/audio/al-waliyy.mp3",
+    "image": {
+      "png": {
+        "64x64": "",
+        "128x128": "",
+        "256x256": ""
+      },
+      "svg": ""
+    },
+    "verset": {
+      "2": [
+        "257"
+      ],
+      "5": [
+        "55"
+      ],
+      "42": [
+        "28"
+      ],
+      "45": [
+        "19"
+      ]
+    }
+  },
+  {
+    "id": "3526d616-3cb7-11f0-bbff-6045cb6ed61f",
+    "name": {
+      "ar": "",
+      "ar-enhanced": "ٱلْحَمِيدُ",
+      "fr": "Le Louable",
+      "en": "",
+      "tr": ""
+    },
+    "explanation": {
+      "short": {
+        "fr": "Le Digne d'éloges, le Louable.",
+        "en": "",
+        "tr": ""
+      },
+      "long": {
+        "fr": "Allah est Al-Hameed, c'est-à-dire celui qui est digne d'éloges. Il se qualifie comme le digne de louange en raison de tous Ses attributs et parce qu'Il nous a donné ce que nous avons. Il est le seul à mériter toutes les formes de louanges et doit être exalté. Participez à son exaltation en répétant \"al-hamdu lillah,\" ce qui signifie \"louange à Allah.'",
+        "en": "",
+        "tr": ""
+      }
+    },
+    "tranliteration": {
+      "fr": "Al-Hameed",
+      "en": "",
+      "tr": ""
+    },
+    "audio": "/audio/al-hamid.mp3",
+    "image": {
+      "png": {
+        "64x64": "",
+        "128x128": "",
+        "256x256": ""
+      },
+      "svg": ""
+    },
+    "verset": {
+      "2": [
+        "267"
+      ],
+      "35": [
+        "15"
+      ],
+      "41": [
+        "42"
+      ],
+      "42": [
+        "28"
+      ],
+      "57": [
+        "24"
+      ]
+    }
+  },
+  {
+    "id": "3526e37e-3cb7-11f0-8bf9-6045cb6ed61f",
+    "name": {
+      "ar": "",
+      "ar-enhanced": "",
+      "fr": "Le Tout-Enumérant",
+      "en": "",
+      "tr": ""
+    },
+    "explanation": {
+      "short": {
+        "fr": "Le Compteur, le Vérificateur, Celui dont le compte des choses est connu de lui.",
+        "en": "",
+        "tr": ""
+      },
+      "long": {
+        "fr": "Celui qui considère toutes les choses de l'univers et connaît les détails de chaque moment ou changement. Il comprend tout et possède toutes les connaissances. Allah connaît chaque action, et les détails écrits sont enregistrés par Ses anges.",
+        "en": "",
+        "tr": ""
+      }
+    },
+    "tranliteration": {
+      "fr": "Al-Muhsi",
+      "en": "",
+      "tr": ""
+    },
+    "audio": "/audio/al-muhsi.mp3",
+    "image": {
+      "png": {
+        "64x64": "",
+        "128x128": "",
+        "256x256": ""
+      },
+      "svg": ""
+    },
+    "verset": {
+      "2": [
+        "284"
+      ],
+      "14": [
+        "34"
+      ],
+      "18": [
+        "49"
+      ],
+      "36": [
+        "12"
+      ],
+      "72": [
+        "28"
+      ],
+      "78": [
+        "29"
+      ]
+    }
+  },
+  {
+    "id": "3526f088-3cb7-11f0-8862-6045cb6ed61f",
+    "name": {
+      "ar": "",
+      "ar-enhanced": "",
+      "fr": "L'Initiateur",
+      "en": "",
+      "tr": ""
+    },
+    "explanation": {
+      "short": {
+        "fr": "Le Créateur, Celui qui a tout commencé, L'initiateur.",
+        "en": "",
+        "tr": ""
+      },
+      "long": {
+        "fr": "Allah est Al-Mubdi, l'initiateur de toute la création. Il est à l'origine de toute chose, et rien n'aurait pu exister sans qu'Il ne l'ait voulu. Il est Celui qui initie toutes choses.",
+        "en": "",
+        "tr": ""
+      }
+    },
+    "tranliteration": {
+      "fr": "Al-Mubdi",
+      "en": "",
+      "tr": ""
+    },
+    "audio": "/audio/al-mubdi.mp3",
+    "image": {
+      "png": {
+        "64x64": "",
+        "128x128": "",
+        "256x256": ""
+      },
+      "svg": ""
+    },
+    "verset": {}
+  },
+  {
+    "id": "3526fdd8-3cb7-11f0-ae04-6045cb6ed61f",
+    "name": {
+      "ar": "",
+      "ar-enhanced": "ٱلْمُعِيدُ",
+      "fr": "Le Restaurateur",
+      "en": "",
+      "tr": ""
+    },
+    "explanation": {
+      "short": {
+        "fr": "Le Reproducteur, le Restaurateur, le Renouveleur.",
+        "en": "",
+        "tr": ""
+      },
+      "long": {
+        "fr": "Allah est Al-Mu'id, Il est le Restaurateur, celui qui redonne forme à une chose. C'est Lui qui nous ramènera à la vie au jour de la résurrection.",
+        "en": "",
+        "tr": ""
+      }
+    },
+    "tranliteration": {
+      "fr": "Al-Muid",
+      "en": "",
+      "tr": ""
+    },
+    "audio": "/audio/al-muid.mp3",
+    "image": {
+      "png": {
+        "64x64": "",
+        "128x128": "",
+        "256x256": ""
+      },
+      "svg": ""
+    },
+    "verset": {}
+  },
+  {
+    "id": "35270997-3cb7-11f0-a7f1-6045cb6ed61f",
+    "name": {
+      "ar": "",
+      "ar-enhanced": "ٱلْمُحْيِى",
+      "fr": "Celui qui préserve la vie",
+      "en": "",
+      "tr": ""
+    },
+    "explanation": {
+      "short": {
+        "fr": "Celui qui donne la vie, celui qui accorde la vie, celui qui fait revivre.",
+        "en": "",
+        "tr": ""
+      },
+      "long": {
+        "fr": "Allah est Al-Muhyi, Celui qui a créé un être humain vivant à partir d'un liquide séminal sans âme. Il donne la vie en rendant les âmes et en régénérant nos corps le jour de la résurrection. Il est Celui qui vivifie les cœurs par la lumière du savoir.",
+        "en": "",
+        "tr": ""
+      }
+    },
+    "tranliteration": {
+      "fr": "Al-Muhyi",
+      "en": "",
+      "tr": ""
+    },
+    "audio": "/audio/al-muhyi.mp3",
+    "image": {
+      "png": {
+        "64x64": "",
+        "128x128": "",
+        "256x256": ""
+      },
+      "svg": ""
+    },
+    "verset": {
+      "2": [
+        "28"
+      ],
+      "7": [
+        "158"
+      ],
+      "10": [
+        "56"
+      ]
+    }
+  },
+  {
+    "id": "3527167f-3cb7-11f0-96ac-6045cb6ed61f",
+    "name": {
+      "ar": "",
+      "ar-enhanced": "ٱلْمُمِيتُ",
+      "fr": "L'Inflicteur de la mort",
+      "en": "",
+      "tr": ""
+    },
+    "explanation": {
+      "short": {
+        "fr": "Le Pourfendeur, le Porteur de mort, le Preneur de vie.",
+        "en": "",
+        "tr": ""
+      },
+      "long": {
+        "fr": "Allah est Al-Mumeet, c'est-à-dire celui qui donne la vie et celui qui la retire. Il décide qui deviendra sans vie. En fin de compte, nous retournons tous à Lui.",
+        "en": "",
+        "tr": ""
+      }
+    },
+    "tranliteration": {
+      "fr": "Al-Mumeet",
+      "en": "",
+      "tr": ""
+    },
+    "audio": "/audio/al-mumit.mp3",
+    "image": {
+      "png": {
+        "64x64": "",
+        "128x128": "",
+        "256x256": ""
+      },
+      "svg": ""
+    },
+    "verset": {
+      "10": [
+        "56"
+      ],
+      "57": [
+        "2"
+      ]
+    }
+  },
+  {
+    "id": "35272407-3cb7-11f0-b6c0-6045cb6ed61f",
+    "name": {
+      "ar": "",
+      "ar-enhanced": "ٱلْحَىُّ",
+      "fr": "L'Eternel Vivant",
+      "en": "",
+      "tr": ""
+    },
+    "explanation": {
+      "short": {
+        "fr": "Le Vivant, le Vivace, l'Eternel.",
+        "en": "",
+        "tr": ""
+      },
+      "long": {
+        "fr": "Allah est Al-Hayy, Celui qui est éternel et qui sera éternel. Il est parfait et n'est pas sujet à la mort ou à la maladie. Il est éternellement entier et absolu, de qui toute vie découle.",
+        "en": "",
+        "tr": ""
+      }
+    },
+    "tranliteration": {
+      "fr": "Al-Hayy",
+      "en": "",
+      "tr": ""
+    },
+    "audio": "/audio/al-hayy.mp3",
+    "image": {
+      "png": {
+        "64x64": "",
+        "128x128": "",
+        "256x256": ""
+      },
+      "svg": ""
+    },
+    "verset": {
+      "2": [
+        "255"
+      ],
+      "3": [
+        "2"
+      ],
+      "20": [
+        "111"
+      ],
+      "25": [
+        "58"
+      ],
+      "40": [
+        "65"
+      ]
+    }
+  },
+  {
+    "id": "3527302e-3cb7-11f0-b66b-6045cb6ed61f",
+    "name": {
+      "ar": "",
+      "ar-enhanced": "ٱلْقَيُّومُ",
+      "fr": "La Source",
+      "en": "",
+      "tr": ""
+    },
+    "explanation": {
+      "short": {
+        "fr": "L'Autosubsistant, l'Auto-existant.",
+        "en": "",
+        "tr": ""
+      },
+      "long": {
+        "fr": "Allah est Al-Qayyum, Son essence/nature est d'exister en étant totalement libre de toute dépendance à l'égard de quoi que ce soit ou de qui que ce soit. Al-Qayyum est celui par qui toutes les choses naissent. Il est éternellement vivant et autonome. Tout ce qui existe dépend d'Al-Qayyum.",
+        "en": "",
+        "tr": ""
+      }
+    },
+    "tranliteration": {
+      "fr": "Al-Qayyum",
+      "en": "",
+      "tr": ""
+    },
+    "audio": "/audio/al-qayyum.mp3",
+    "image": {
+      "png": {
+        "64x64": "",
+        "128x128": "",
+        "256x256": ""
+      },
+      "svg": ""
+    },
+    "verset": {
+      "2": [
+        "255"
+      ],
+      "3": [
+        "2"
+      ],
+      "20": [
+        "111"
+      ]
+    }
+  },
+  {
+    "id": "35273c10-3cb7-11f0-bc01-6045cb6ed61f",
+    "name": {
+      "ar": "",
+      "ar-enhanced": "ٱلْوَاجِدُ",
+      "fr": "Celui qui existe",
+      "en": "",
+      "tr": ""
+    },
+    "explanation": {
+      "short": {
+        "fr": "L'Ingénieux, l'Infaillible, Celui qui trouve.",
+        "en": "",
+        "tr": ""
+      },
+      "long": {
+        "fr": "Allah est Al-Waajid, celui qui n'a besoin de rien et ne manque de rien. Il est le plus débrouillard et trouve tout ce qu'Il veut.",
+        "en": "",
+        "tr": ""
+      }
+    },
+    "tranliteration": {
+      "fr": "Al-Wajid",
+      "en": "",
+      "tr": ""
+    },
+    "audio": "/audio/al-wajid.mp3",
+    "image": {
+      "png": {
+        "64x64": "",
+        "128x128": "",
+        "256x256": ""
+      },
+      "svg": ""
+    },
+    "verset": {}
+  },
+  {
+    "id": "35274924-3cb7-11f0-b848-6045cb6ed61f",
+    "name": {
+      "ar": "",
+      "ar-enhanced": "ٱلْمَاجِدُ",
+      "fr": "L'Illustre",
+      "en": "",
+      "tr": ""
+    },
+    "explanation": {
+      "short": {
+        "fr": "Le Noble, le Souverain, le Glorieux.",
+        "en": "",
+        "tr": ""
+      },
+      "long": {
+        "fr": "Allah est Al-Maajid, le plus noble, le plus magnifique, le plus généreux. Majid est très proche du sens de Jalal (majesté et grandeur) et de Kareem (plein de générosité et d'honneur). Il est celui qui offre continuellement, car sa richesse est infinie. En effet, Allah est le plus glorieux et le plus estimé.",
+        "en": "",
+        "tr": ""
+      }
+    },
+    "tranliteration": {
+      "fr": "Al-Maajid",
+      "en": "",
+      "tr": ""
+    },
+    "audio": "/audio/al-majid.mp3",
+    "image": {
+      "png": {
+        "64x64": "",
+        "128x128": "",
+        "256x256": ""
+      },
+      "svg": ""
+    },
+    "verset": {
+      "11": [
+        "73"
+      ]
+    }
+  },
+  {
+    "id": "35275737-3cb7-11f0-91d2-6045cb6ed61f",
+    "name": {
+      "ar": "الواحد",
+      "ar-enhanced": "ٱلْوَٰحِدُ",
+      "fr": "L'Unique",
+      "en": "",
+      "tr": ""
+    },
+    "explanation": {
+      "short": {
+        "fr": "L'Unique, Le Seul.",
+        "en": "",
+        "tr": ""
+      },
+      "long": {
+        "fr": "Allah est Al-Waahid, le Seul et Unique Dieu. Il n'y a pas d'alternative. Il est l'Unique Initiateur duquel tout a surgi. Il n'a pas de partenaires ni de relations. Nul ne Lui est égal.",
+        "en": "",
+        "tr": ""
+      }
+    },
+    "tranliteration": {
+      "fr": "Al-Wahid",
+      "en": "",
+      "tr": ""
+    },
+    "audio": "/audio/al-wahid.mp3",
+    "image": {
+      "png": {
+        "64x64": "",
+        "128x128": "",
+        "256x256": ""
+      },
+      "svg": ""
+    },
+    "verset": {
+      "6": [
+        "19"
+      ],
+      "13": [
+        "16"
+      ],
+      "14": [
+        "48"
+      ],
+      "38": [
+        "65"
+      ],
+      "39": [
+        "4"
+      ]
+    }
+  },
+  {
+    "id": "35276331-3cb7-11f0-8a25-6045cb6ed61f",
+    "name": {
+      "ar": "",
+      "ar-enhanced": "ٱلْأَحَد",
+      "fr": "L'Un",
+      "en": "",
+      "tr": ""
+    },
+    "explanation": {
+      "short": {
+        "fr": "Le Seul et Unique, L'Incomparable.",
+        "en": "",
+        "tr": ""
+      },
+      "long": {
+        "fr": "Allah est Al-Ahad, Il est incomparable, inégalé, et indivisible. Al-Ahad est Celui qui était, est et restera toujours Seul. Personne ne pourra jamais l'égaler dans l'essence de tous Ses beaux attributs.",
+        "en": "",
+        "tr": ""
+      }
+    },
+    "tranliteration": {
+      "fr": "Al-Ahad",
+      "en": "",
+      "tr": ""
+    },
+    "audio": "/audio/al-ahad.mp3",
+    "image": {
+      "png": {
+        "64x64": "",
+        "128x128": "",
+        "256x256": ""
+      },
+      "svg": ""
+    },
+    "verset": {
+      "112": [
+        "1",
+        "4"
+      ]
+    }
+  },
+  {
+    "id": "35276f1f-3cb7-11f0-95b7-6045cb6ed61f",
+    "name": {
+      "ar": "الصمد",
+      "ar-enhanced": "ٱلْصَّمَدُ",
+      "fr": "L'Eternel",
+      "en": "",
+      "tr": ""
+    },
+    "explanation": {
+      "short": {
+        "fr": "L'Éternel, le Maître, l'Autosuffisant.",
+        "en": "",
+        "tr": ""
+      },
+      "long": {
+        "fr": "Allah est As-Samad, c'est-à-dire qu'il est celui dont on cherche le refuge dans l'adversité. Il est éternel, entier et complet. Il n'y a pas de vide.",
+        "en": "",
+        "tr": ""
+      }
+    },
+    "tranliteration": {
+      "fr": "As-Samad",
+      "en": "",
+      "tr": ""
+    },
+    "audio": "/audio/as-samad.mp3",
+    "image": {
+      "png": {
+        "64x64": "",
+        "128x128": "",
+        "256x256": ""
+      },
+      "svg": ""
+    },
+    "verset": {
+      "112": [
+        "2"
+      ]
+    }
+  },
+  {
+    "id": "35277ae9-3cb7-11f0-baab-6045cb6ed61f",
+    "name": {
+      "ar": "",
+      "ar-enhanced": "الْقَادِرُ",
+      "fr": "Le Tout-Puissant",
+      "en": "",
+      "tr": ""
+    },
+    "explanation": {
+      "short": {
+        "fr": "Le Capable, le Tout-Puissant.",
+        "en": "",
+        "tr": ""
+      },
+      "long": {
+        "fr": "Allah est Al-Qaadir, le plus puissant avec la capacité de mesurer toute chose. Chaque fois qu'il décrète une chose, elle est. Rien ne peut interrompre ou perturber la volonté d'Allah. Il est le plus capable, sans aucune limite.",
+        "en": "",
+        "tr": ""
+      }
+    },
+    "tranliteration": {
+      "fr": "Al-Qadir",
+      "en": "",
+      "tr": ""
+    },
+    "audio": "/audio/al-qadir.mp3",
+    "image": {
+      "png": {
+        "64x64": "",
+        "128x128": "",
+        "256x256": ""
+      },
+      "svg": ""
+    },
+    "verset": {
+      "2": [
+        "259"
+      ],
+      "3": [
+        "26",
+        "38",
+        "165"
+      ]
+    }
+  },
+  {
+    "id": "352786b6-3cb7-11f0-bd5a-6045cb6ed61f",
+    "name": {
+      "ar": "",
+      "ar-enhanced": "ٱلْمُقْتَدِرُ",
+      "fr": "L'Homme à tout faire",
+      "en": "",
+      "tr": ""
+    },
+    "explanation": {
+      "short": {
+        "fr": "Le Puissant, le Dominant, l'Exécuteur.",
+        "en": "",
+        "tr": ""
+      },
+      "long": {
+        "fr": "Allah est Al-Muqtadir, le tout-puissant qui délivre une mesure appropriée de toute chose. Il possède la force, la puissance et la maîtrise absolues. Rien n'échappe à son pouvoir.",
+        "en": "",
+        "tr": ""
+      }
+    },
+    "tranliteration": {
+      "fr": "Al-Muqtadir",
+      "en": "",
+      "tr": ""
+    },
+    "audio": "/audio/al-muqtadir.mp3",
+    "image": {
+      "png": {
+        "64x64": "",
+        "128x128": "",
+        "256x256": ""
+      },
+      "svg": ""
+    },
+    "verset": {
+      "18": [
+        "45"
+      ],
+      "54": [
+        "55",
+        "42"
+      ]
+    }
+  },
+  {
+    "id": "352792f5-3cb7-11f0-9e12-6045cb6ed61f",
+    "name": {
+      "ar": "",
+      "ar-enhanced": "ٱلْمُقَدِّمُ",
+      "fr": "L'Expéditeur",
+      "en": "",
+      "tr": ""
+    },
+    "explanation": {
+      "short": {
+        "fr": "Le Promoteur, l'Expéditeur, Celui qui fait avancer.",
+        "en": "",
+        "tr": ""
+      },
+      "long": {
+        "fr": "Allah est Al-Muqaddim, Celui qui promeut ou fait avancer. Cela inclut la promotion de Ses serviteurs à des rangs plus élevés.",
+        "en": "",
+        "tr": ""
+      }
+    },
+    "tranliteration": {
+      "fr": "Al-Muqaddim",
+      "en": "",
+      "tr": ""
+    },
+    "audio": "/audio/al-muqaddim.mp3",
+    "image": {
+      "png": {
+        "64x64": "",
+        "128x128": "",
+        "256x256": ""
+      },
+      "svg": ""
+    },
+    "verset": {}
+  },
+  {
+    "id": "35279eaa-3cb7-11f0-923b-6045cb6ed61f",
+    "name": {
+      "ar": "",
+      "ar-enhanced": "ٱلْمُؤَخِّرُ",
+      "fr": "Le Retardateur",
+      "en": "",
+      "tr": ""
+    },
+    "explanation": {
+      "short": {
+        "fr": "Celui qui repousse, Celui qui remet à plus tard.",
+        "en": "",
+        "tr": ""
+      },
+      "long": {
+        "fr": "Allah est Al-Mu'akhkhir, Celui qui retarde ou retient avec sagesse. Par Sa volonté, il peut retenir les incroyants et les retenir au jour du jugement.",
+        "en": "",
+        "tr": ""
+      }
+    },
+    "tranliteration": {
+      "fr": "Al-Muakhkhir",
+      "en": "",
+      "tr": ""
+    },
+    "audio": "/audio/al-muakhkhir.mp3",
+    "image": {
+      "png": {
+        "64x64": "",
+        "128x128": "",
+        "256x256": ""
+      },
+      "svg": ""
+    },
+    "verset": {}
+  },
+  {
+    "id": "3527aa50-3cb7-11f0-b03b-6045cb6ed61f",
+    "name": {
+      "ar": "الأول",
+      "ar-enhanced": "ٱلأَوَّلُ",
+      "fr": "Le Premier",
+      "en": "",
+      "tr": ""
+    },
+    "explanation": {
+      "short": {
+        "fr": "Le Premier, le Pré-existant",
+        "en": "",
+        "tr": ""
+      },
+      "long": {
+        "fr": "Allah est Al-Awwal, Il est Celui dont l'existence est sans commencement. Il est vraiment le premier, et rien n'était avant Lui.",
+        "en": "",
+        "tr": ""
+      }
+    },
+    "tranliteration": {
+      "fr": "Al-Awwal",
+      "en": "",
+      "tr": ""
+    },
+    "audio": "/audio/al-awwal.mp3",
+    "image": {
+      "png": {
+        "64x64": "",
+        "128x128": "",
+        "256x256": ""
+      },
+      "svg": ""
+    },
+    "verset": {
+      "57": [
+        "3",
+        "3"
+      ]
+    }
+  },
+  {
+    "id": "3527b612-3cb7-11f0-b144-6045cb6ed61f",
+    "name": {
+      "ar": "الآخر",
+      "ar-enhanced": "ٱلْآخِرُ",
+      "fr": "Le Dernier",
+      "en": "",
+      "tr": ""
+    },
+    "explanation": {
+      "short": {
+        "fr": "Le Dernier, la Fin, l'Infini.",
+        "en": "",
+        "tr": ""
+      },
+      "long": {
+        "fr": "Allah est Al-Akhir, Celui dont l'existence s'étendra au-delà de la fin de cet univers. Il sera le dernier, tout comme il est le premier.",
+        "en": "",
+        "tr": ""
+      }
+    },
+    "tranliteration": {
+      "fr": "Al-Akhir",
+      "en": "",
+      "tr": ""
+    },
+    "audio": "/audio/al-akhir.mp3",
+    "image": {
+      "png": {
+        "64x64": "",
+        "128x128": "",
+        "256x256": ""
+      },
+      "svg": ""
+    },
+    "verset": {
+      "57": [
+        "3",
+        "3"
+      ]
+    }
+  },
+  {
+    "id": "3527c1ef-3cb7-11f0-afe4-6045cb6ed61f",
+    "name": {
+      "ar": "الظاهر",
+      "ar-enhanced": "ٱلْظَّاهِرُ",
+      "fr": "Le Manifeste",
+      "en": "",
+      "tr": ""
+    },
+    "explanation": {
+      "short": {
+        "fr": "Le Remarquable, l'Evident, l'Extérieur",
+        "en": "",
+        "tr": ""
+      },
+      "long": {
+        "fr": "Allah est Az-Zaahir, Celui qui est évident et visible. Il s'est rendu évident sans être visible. Son essence même et ses attributs se manifestent à travers toutes ses créations.",
+        "en": "",
+        "tr": ""
+      }
+    },
+    "tranliteration": {
+      "fr": "Az-Zaahir",
+      "en": "",
+      "tr": ""
+    },
+    "audio": "/audio/az-zahir.mp3",
+    "image": {
+      "png": {
+        "64x64": "",
+        "128x128": "",
+        "256x256": ""
+      },
+      "svg": ""
+    },
+    "verset": {
+      "57": [
+        "3"
+      ]
+    }
+  },
+  {
+    "id": "3527cdee-3cb7-11f0-a9cd-6045cb6ed61f",
+    "name": {
+      "ar": "الباطن",
+      "ar-enhanced": "ٱلْبَاطِنُ",
+      "fr": "Le Caché",
+      "en": "",
+      "tr": ""
+    },
+    "explanation": {
+      "short": {
+        "fr": "Celui qui reste un mystère, l'Intérieur, l'Intime.",
+        "en": "",
+        "tr": ""
+      },
+      "long": {
+        "fr": "Allah est Al-Baatin, Celui qui est caché ou secret. Allah est invisible mais son existence se révèle par des signes. Allah est immanent à toute la création. Le compagnon intime et secret.",
+        "en": "",
+        "tr": ""
+      }
+    },
+    "tranliteration": {
+      "fr": "Al-Baatin",
+      "en": "",
+      "tr": ""
+    },
+    "audio": "/audio/al-batin.mp3",
+    "image": {
+      "png": {
+        "64x64": "",
+        "128x128": "",
+        "256x256": ""
+      },
+      "svg": ""
+    },
+    "verset": {
+      "57": [
+        "3"
+      ]
+    }
+  },
+  {
+    "id": "3527d9a0-3cb7-11f0-9cd0-6045cb6ed61f",
+    "name": {
+      "ar": "",
+      "ar-enhanced": "ٱلْوَالِي",
+      "fr": "Détenteur de l'autorité suprême",
+      "en": "",
+      "tr": ""
+    },
+    "explanation": {
+      "short": {
+        "fr": "Le Gouverneur, Le Dirigeant.",
+        "en": "",
+        "tr": ""
+      },
+      "long": {
+        "fr": "Allah est Al-Waali, Celui qui est l'Unique planificateur et gouverneur de toutes choses. Il est entièrement dévoué, assistant et maître de tout. Il gère et dispose des choses à Sa volonté sur la base de Son jugement.",
+        "en": "",
+        "tr": ""
+      }
+    },
+    "tranliteration": {
+      "fr": "Al-Wali",
+      "en": "",
+      "tr": ""
+    },
+    "audio": "/audio/al-wali.mp3",
+    "image": {
+      "png": {
+        "64x64": "",
+        "128x128": "",
+        "256x256": ""
+      },
+      "svg": ""
+    },
+    "verset": {}
+  },
+  {
+    "id": "3527ea5a-3cb7-11f0-a386-6045cb6ed61f",
+    "name": {
+      "ar": "",
+      "ar-enhanced": "ٱلْمُتَعَالِي",
+      "fr": "Le Sublime",
+      "en": "",
+      "tr": ""
+    },
+    "explanation": {
+      "short": {
+        "fr": "Celui qui est suprêmement exalté, Celui qui est tout exalté",
+        "en": "",
+        "tr": ""
+      },
+      "long": {
+        "fr": "Allah est Al-Muta'ali, Le plus haut, et exalté bien au-dessus de toute création. Il est bien supérieur à toute imagination et à toute pensée, et le cerveau humain est trop limité pour appréhender Sa véritable grandeur.",
+        "en": "",
+        "tr": ""
+      }
+    },
+    "tranliteration": {
+      "fr": "Al-Mutaali",
+      "en": "",
+      "tr": ""
+    },
+    "audio": "/audio/al-muta-ali.mp3",
+    "image": {
+      "png": {
+        "64x64": "",
+        "128x128": "",
+        "256x256": ""
+      },
+      "svg": ""
+    },
+    "verset": {
+      "13": [
+        "9"
+      ],
+      "22": [
+        "62"
+      ],
+      "27": [
+        "63"
+      ],
+      "42": [
+        "4"
+      ],
+      "92": [
+        "20"
+      ]
+    }
+  },
+  {
+    "id": "3527f906-3cb7-11f0-9a9d-6045cb6ed61f",
+    "name": {
+      "ar": "",
+      "ar-enhanced": "ٱلْبَرُّ",
+      "fr": "La source de toute bonté",
+      "en": "",
+      "tr": ""
+    },
+    "explanation": {
+      "short": {
+        "fr": "Le Bienfaiteur, Celui qui fait le bien, Celui qui est pur.",
+        "en": "",
+        "tr": ""
+      },
+      "long": {
+        "fr": "Allah est Al-Barr, Le Grand Bienfaiteur, le Plus Juste et la Source de Bonté. Il est généreux en bienveillance et cherche le bien des gens en leur accordant la santé, la richesse et le bonheur. Il est toujours miséricordieux et compatissant. Il est Celui qui les a comblés de Sa subsistance et qui a désigné qui Il voulait parmi eux par Son soutien, Sa protection et Sa miséricorde exceptionnelle.",
+        "en": "",
+        "tr": ""
+      }
+    },
+    "tranliteration": {
+      "fr": "Al-Barr",
+      "en": "",
+      "tr": ""
+    },
+    "audio": "/audio/al-barr.mp3",
+    "image": {
+      "png": {
+        "64x64": "",
+        "128x128": "",
+        "256x256": ""
+      },
+      "svg": ""
+    },
+    "verset": {
+      "52": [
+        "28"
+      ]
+    }
+  },
+  {
+    "id": "352804e3-3cb7-11f0-ad9d-6045cb6ed61f",
+    "name": {
+      "ar": "",
+      "ar-enhanced": "ٱلْتَّوَّابُ",
+      "fr": "Le Pardonneur",
+      "en": "",
+      "tr": ""
+    },
+    "explanation": {
+      "short": {
+        "fr": "L'acceptant du repentir, L'indéfectible, L'acceptant de notre retour.",
+        "en": "",
+        "tr": ""
+      },
+      "long": {
+        "fr": "Allah est At-Tawwab, Celui qui fait appel à notre retour. Il oriente sans cesse les hommes vers le repentir s'ils s'engagent temporairement sur le mauvais chemin. Allah est indulgent et redonne la grâce à ceux qui se repentent et pardonne à ceux qui cherchent le pardon.",
+        "en": "",
+        "tr": ""
+      }
+    },
+    "tranliteration": {
+      "fr": "At-Tawwab",
+      "en": "",
+      "tr": ""
+    },
+    "audio": "/audio/at-tawwab.mp3",
+    "image": {
+      "png": {
+        "64x64": "",
+        "128x128": "",
+        "256x256": ""
+      },
+      "svg": ""
+    },
+    "verset": {
+      "2": [
+        "37",
+        "54",
+        "160"
+      ],
+      "9": [
+        "104"
+      ]
+    }
+  },
+  {
+    "id": "35281345-3cb7-11f0-bbb3-6045cb6ed61f",
+    "name": {
+      "ar": "",
+      "ar-enhanced": "ٱلْمُنْتَقِمُ",
+      "fr": "Le Vengeur",
+      "en": "",
+      "tr": ""
+    },
+    "explanation": {
+      "short": {
+        "fr": "Le Désapprobateur, Celui qui inflige le châtiment, Le Rétributeur.",
+        "en": "",
+        "tr": ""
+      },
+      "long": {
+        "fr": "Allah est Al-Muntaqim, Celui qui l'emporte victorieusement sur Ses ennemis et les châtie pour leurs péchés. Allah est très patient, mais le temps viendra où la justice devra être rendue. Évitez ce qu'Allah a interdit, car Il est prompt et juste dans Son châtiment et ne laisse aucune transgression sans suite.",
+        "en": "",
+        "tr": ""
+      }
+    },
+    "tranliteration": {
+      "fr": "Al-Muntaqim",
+      "en": "",
+      "tr": ""
+    },
+    "audio": "/audio/al-muntaqim.mp3",
+    "image": {
+      "png": {
+        "64x64": "",
+        "128x128": "",
+        "256x256": ""
+      },
+      "svg": ""
+    },
+    "verset": {
+      "3": [
+        "4"
+      ],
+      "43": [
+        "41"
+      ],
+      "44": [
+        "16"
+      ]
+    }
+  },
+  {
+    "id": "35281f1c-3cb7-11f0-a45c-6045cb6ed61f",
+    "name": {
+      "ar": "",
+      "ar-enhanced": "ٱلْعَفُوُّ",
+      "fr": "Le Pardonneur",
+      "en": "",
+      "tr": ""
+    },
+    "explanation": {
+      "short": {
+        "fr": "Le Pardonneur, Celui qui fait disparaître les péchés, Celui qui élimine les péchés.",
+        "en": "",
+        "tr": ""
+      },
+      "long": {
+        "fr": "Allah est Al-Afuw, Celui qui pardonne les péchés et ne laisse aucune trace d'une quelconque faute. La différence entre pardonner et effacer est qu'il n'y aura aucune trace du péché commis. Ce sera comme s'il n'avait jamais eu lieu.",
+        "en": "",
+        "tr": ""
+      }
+    },
+    "tranliteration": {
+      "fr": "Al-Afuw",
+      "en": "",
+      "tr": ""
+    },
+    "audio": "/audio/al-afuw.mp3",
+    "image": {
+      "png": {
+        "64x64": "",
+        "128x128": "",
+        "256x256": ""
+      },
+      "svg": ""
+    },
+    "verset": {}
+  },
+  {
+    "id": "35282ac3-3cb7-11f0-a715-6045cb6ed61f",
+    "name": {
+      "ar": "",
+      "ar-enhanced": "ٱلْرَّؤُفُ",
+      "fr": "Le Bienveillant",
+      "en": "",
+      "tr": ""
+    },
+    "explanation": {
+      "short": {
+        "fr": "Le Clément, le Compatissant.",
+        "en": "",
+        "tr": ""
+      },
+      "long": {
+        "fr": "Allah est Ar-Ra'uf, Celui qui est extrêmement compatissant. Il est Celui dont la miséricorde gratifiera qui Il veut parmi Ses créatures. Tout ce qu'Allah décrète est fait avec un jugement parfait, et Il n'est jamais sévère ou injuste dans Ses décisions.",
+        "en": "",
+        "tr": ""
+      }
+    },
+    "tranliteration": {
+      "fr": "Ar-Rauf",
+      "en": "",
+      "tr": ""
+    },
+    "audio": "/audio/ar-rauf.mp3",
+    "image": {
+      "png": {
+        "64x64": "",
+        "128x128": "",
+        "256x256": ""
+      },
+      "svg": ""
+    },
+    "verset": {
+      "2": [
+        "207"
+      ],
+      "9": [
+        "117"
+      ],
+      "24": [
+        "20"
+      ],
+      "57": [
+        "9"
+      ],
+      "59": [
+        "10"
+      ]
+    }
+  },
+  {
+    "id": "352836ae-3cb7-11f0-a91d-6045cb6ed61f",
+    "name": {
+      "ar": "",
+      "ar-enhanced": "مَالِكُ ٱلْمُلْكُ",
+      "fr": "Maître du Royaume",
+      "en": "",
+      "tr": ""
+    },
+    "explanation": {
+      "short": {
+        "fr": "Le Détenteur de la Souveraineté Absolue, Le Détenteur de la Domination.",
+        "en": "",
+        "tr": ""
+      },
+      "long": {
+        "fr": "Allah est Malikul-Mulk, Le Seigneur du Royaume. Il est l'unique propriétaire de toute la création et, avec une autorité absolue, il peut agir de n'importe quelle manière, à n'importe quel moment et de n'importe quelle façon.",
+        "en": "",
+        "tr": ""
+      }
+    },
+    "tranliteration": {
+      "fr": "Malikul-Mulk",
+      "en": "",
+      "tr": ""
+    },
+    "audio": "/audio/malikulmulk.mp3",
+    "image": {
+      "png": {
+        "64x64": "",
+        "128x128": "",
+        "256x256": ""
+      },
+      "svg": ""
+    },
+    "verset": {
+      "3": [
+        "26"
+      ],
+      "24": [
+        "42"
+      ]
+    }
+  },
+  {
+    "id": "352842fe-3cb7-11f0-ac71-6045cb6ed61f",
+    "name": {
+      "ar": "",
+      "ar-enhanced": "ذُو ٱلْجَلَالِ وَٱلْإِكْرَامُ",
+      "fr": "Le Plein de Majesté et de Magnificence",
+      "en": "",
+      "tr": ""
+    },
+    "explanation": {
+      "short": {
+        "fr": "Seigneur de la Majesté et de la Magnificence, Maître de la Puissance et de la Gloire.",
+        "en": "",
+        "tr": ""
+      },
+      "long": {
+        "fr": "Allah est Dul-Jalaali-wal-Ikram, Le Glorieux et le Majestueux. Il est le détenteur de toute la gloire et de tout l'honneur. Il est Celui qui mérite d'être Exalté et non pas désavoué.",
+        "en": "",
+        "tr": ""
+      }
+    },
+    "tranliteration": {
+      "fr": "Dhul-Jalaali-Wal-Ikram",
+      "en": "",
+      "tr": ""
+    },
+    "audio": "/audio/dhul-jalali-wal-ikram.mp3",
+    "image": {
+      "png": {
+        "64x64": "",
+        "128x128": "",
+        "256x256": ""
+      },
+      "svg": ""
+    },
+    "verset": {
+      "55": [
+        "27",
+        "78"
+      ]
+    }
+  },
+  {
+    "id": "35284f01-3cb7-11f0-a26d-6045cb6ed61f",
+    "name": {
+      "ar": "",
+      "ar-enhanced": "ٱلْمُقْسِطُ",
+      "fr": "Le Juste",
+      "en": "",
+      "tr": ""
+    },
+    "explanation": {
+      "short": {
+        "fr": "L'Equitable, l'Exigeant, le Réparateur.",
+        "en": "",
+        "tr": ""
+      },
+      "long": {
+        "fr": "Allah est Al-Muqsit, Celui qui est le plus équitable et le plus juste. Il reconnaît et récompense tout bien, aussi petit soit-il, sans aucune réserve. Il est celui qui conduit l'humanité vers la justice et l'harmonie.",
+        "en": "",
+        "tr": ""
+      }
+    },
+    "tranliteration": {
+      "fr": "Al-Muqsit",
+      "en": "",
+      "tr": ""
+    },
+    "audio": "/audio/al-muqsit.mp3",
+    "image": {
+      "png": {
+        "64x64": "",
+        "128x128": "",
+        "256x256": ""
+      },
+      "svg": ""
+    },
+    "verset": {}
+  },
+  {
+    "id": "35285b04-3cb7-11f0-8534-6045cb6ed61f",
+    "name": {
+      "ar": "",
+      "ar-enhanced": "ٱلْجَامِعُ",
+      "fr": "Le Rassembleur",
+      "en": "",
+      "tr": ""
+    },
+    "explanation": {
+      "short": {
+        "fr": "L'Unificateur, L'Unifiant.",
+        "en": "",
+        "tr": ""
+      },
+      "long": {
+        "fr": "Allah est Al-Jaami, Il est Celui qui a le pouvoir de rassembler et d'arranger tout ce qui a été répandu. C'est Lui qui compose et relie les choses entre elles.",
+        "en": "",
+        "tr": ""
+      }
+    },
+    "tranliteration": {
+      "fr": "Al-Jami",
+      "en": "",
+      "tr": ""
+    },
+    "audio": "/audio/al-jami.mp3",
+    "image": {
+      "png": {
+        "64x64": "",
+        "128x128": "",
+        "256x256": ""
+      },
+      "svg": ""
+    },
+    "verset": {}
+  },
+  {
+    "id": "352866b4-3cb7-11f0-94cc-6045cb6ed61f",
+    "name": {
+      "ar": "",
+      "ar-enhanced": "ٱلْغَنيُّ",
+      "fr": "L’Autosuffisant",
+      "en": "",
+      "tr": ""
+    },
+    "explanation": {
+      "short": {
+        "fr": "Le riche, l'indépendant, l'opulent.",
+        "en": "",
+        "tr": ""
+      },
+      "long": {
+        "fr": "Allah a pour nom Al-Ghaniyy, Il est Celui qui se suffit à Lui-même et qui est Indépendant. Il n'a besoin de rien car Il est complètement satisfait et libre de toute dépendance. Allah est Celui dont la richesse et les richesses dépendent de tous les autres.",
+        "en": "",
+        "tr": ""
+      }
+    },
+    "tranliteration": {
+      "fr": "Al-Ghaniy",
+      "en": "",
+      "tr": ""
+    },
+    "audio": "/audio/al-ghaniyy.mp3",
+    "image": {
+      "png": {
+        "64x64": "",
+        "128x128": "",
+        "256x256": ""
+      },
+      "svg": ""
+    },
+    "verset": {
+      "2": [
+        "263"
+      ],
+      "6": [
+        "133"
+      ],
+      "27": [
+        "40"
+      ]
+    }
+  },
+  {
+    "id": "35287274-3cb7-11f0-8679-6045cb6ed61f",
+    "name": {
+      "ar": "",
+      "ar-enhanced": "ٱلْمُغْنِيُّ",
+      "fr": "L'Enrichisseur",
+      "en": "",
+      "tr": ""
+    },
+    "explanation": {
+      "short": {
+        "fr": "L’Emancipateurr, Celui qui comble les besoins, celui qui donne la richesse..",
+        "en": "",
+        "tr": ""
+      },
+      "long": {
+        "fr": "Allah est Al-Mughni, Il est Celui qui donne en abondance et fournit tout ce qui est nécessaire. Il enrichit toute la création pour qu'elle soit satisfaite.",
+        "en": "",
+        "tr": ""
+      }
+    },
+    "tranliteration": {
+      "fr": "Al-Mughni",
+      "en": "",
+      "tr": ""
+    },
+    "audio": "/audio/al-mughni.mp3",
+    "image": {
+      "png": {
+        "64x64": "",
+        "128x128": "",
+        "256x256": ""
+      },
+      "svg": ""
+    },
+    "verset": {
+    }
+  },
+  {
+    "id": "35287ebf-3cb7-11f0-b5c6-6045cb6ed61f",
+    "name": {
+      "ar": "",
+      "ar-enhanced": "ٱلْمَانِعُ",
+      "fr": "Le Défenseur",
+      "en": "",
+      "tr": ""
+    },
+    "explanation": {
+      "short": {
+        "fr": "Le Bouclier, le Protecteur, le Défenseur.",
+        "en": "",
+        "tr": ""
+      },
+      "long": {
+        "fr": "Allah est Al-Mani. Nul ne peut donner ce qu'Il refuse ou entraver ce qu'Il accorde. Il protège les individus des situations préjudiciables et prévient les conduites indésirables. Tout se fait au gré de Sa sagesse et de Sa miséricorde divines.",
+        "en": "",
+        "tr": ""
+      }
+    },
+    "tranliteration": {
+      "fr": "Al-Mani",
+      "en": "",
+      "tr": ""
+    },
+    "audio": "/audio/al-mani.mp3",
+    "image": {
+      "png": {
+        "64x64": "",
+        "128x128": "",
+        "256x256": ""
+      },
+      "svg": ""
+    },
+    "verset": {}
+  },
+  {
+    "id": "35288b67-3cb7-11f0-a2c5-6045cb6ed61f",
+    "name": {
+      "ar": "",
+      "ar-enhanced": "ٱلْضَّارُ",
+      "fr": "Celui qui peut nuire",
+      "en": "",
+      "tr": ""
+    },
+    "explanation": {
+      "short": {
+        "fr": "Le Punisseur, le Persécuteur.",
+        "en": "",
+        "tr": ""
+      },
+      "long": {
+        "fr": "Allah est Ad-Darr, Celui qui fait du mal ou du bien à qui il veut. Il est celui dont la sagesse peut décider de recourir à des corrections percutantes pour dissuader les comportements répréhensibles.",
+        "en": "",
+        "tr": ""
+      }
+    },
+    "tranliteration": {
+      "fr": "Ad-Darr",
+      "en": "",
+      "tr": ""
+    },
+    "audio": "/audio/ad-darr.mp3",
+    "image": {
+      "png": {
+        "64x64": "",
+        "128x128": "",
+        "256x256": ""
+      },
+      "svg": ""
+    },
+    "verset": {}
+  },
+  {
+    "id": "35289779-3cb7-11f0-b9c3-6045cb6ed61f",
+    "name": {
+      "ar": "",
+      "ar-enhanced": "ٱلْنَّافِعُ",
+      "fr": "Le Propice",
+      "en": "",
+      "tr": ""
+    },
+    "explanation": {
+      "short": {
+        "fr": "Le Bienfaiteur, Le Créateur de Bien, L'Auspicieux.",
+        "en": "",
+        "tr": ""
+      },
+      "long": {
+        "fr": "Allah est An-Nafi, Le Propice, celui qui octroie le succès. Il est à l'origine d'une suite favorable. Tout ce qui profite à la création vient de Lui. Les plus grands dons offerts à l'humanité sont leur intellect, leur conscience et leur foi.",
+        "en": "",
+        "tr": ""
+      }
+    },
+    "tranliteration": {
+      "fr": "An-Naafi",
+      "en": "",
+      "tr": ""
+    },
+    "audio": "/audio/an-nafi.mp3",
+    "image": {
+      "png": {
+        "64x64": "",
+        "128x128": "",
+        "256x256": ""
+      },
+      "svg": ""
+    },
+    "verset": {}
+  },
+  {
+    "id": "3528a3a8-3cb7-11f0-908c-6045cb6ed61f",
+    "name": {
+      "ar": "",
+      "ar-enhanced": "ٱلْنُّورُ",
+      "fr": "La lumière",
+      "en": "",
+      "tr": ""
+    },
+    "explanation": {
+      "short": {
+        "fr": "L'Illuminateur, Celui qui révèle, Celui qui guide.",
+        "en": "",
+        "tr": ""
+      },
+      "long": {
+        "fr": "Allah se fait appeler An-Nour, autrement dit Celui qui illumine et révèle la lumière divine de tous les mondes. Sa lumière illumine le cœur et procure clarté et guidance. Quiconque tourne le dos à la véritable lumière restera dans l'obscurité.",
+        "en": "",
+        "tr": ""
+      }
+    },
+    "tranliteration": {
+      "fr": "An-Noor",
+      "en": "",
+      "tr": ""
+    },
+    "audio": "/audio/an-nur.mp3",
+    "image": {
+      "png": {
+        "64x64": "",
+        "128x128": "",
+        "256x256": ""
+      },
+      "svg": ""
+    },
+    "verset": {
+      "5": [
+        "15"
+      ],
+      "24": [
+        "35"
+      ],
+      "66": [
+        "8"
+      ]
+    }
+  },
+  {
+    "id": "3528b017-3cb7-11f0-99bb-6045cb6ed61f",
+    "name": {
+      "ar": "",
+      "ar-enhanced": "ٱلْهَادِي",
+      "fr": "Le Guide",
+      "en": "",
+      "tr": ""
+    },
+    "explanation": {
+      "short": {
+        "fr": "Le Guide, la Voie.",
+        "en": "",
+        "tr": ""
+      },
+      "long": {
+        "fr": "Allah est Al Haadi, Celui qui guide ses croyants. Sa guidance est bénéfique et les protège de tout ce qui peut être nuisible. Il est Celui qui a envoyé des prophètes (que la paix soit sur eux) pour transmettre Son message afin de s'assurer que l'humanité soit guidée sur le bon chemin.",
+        "en": "",
+        "tr": ""
+      }
+    },
+    "tranliteration": {
+      "fr": "Al-Hadi",
+      "en": "",
+      "tr": ""
+    },
+    "audio": "/audio/al-hadi.mp3",
+    "image": {
+      "png": {
+        "64x64": "",
+        "128x128": "",
+        "256x256": ""
+      },
+      "svg": ""
+    },
+    "verset": {
+      "20": [
+        "50"
+      ]
+    }
+  },
+  {
+    "id": "3528bc47-3cb7-11f0-ba68-6045cb6ed61f",
+    "name": {
+      "ar": "",
+      "ar-enhanced": "ٱلْبَدِيعُ",
+      "fr": "L'Inventeur inégalé",
+      "en": "",
+      "tr": ""
+    },
+    "explanation": {
+      "short": {
+        "fr": "L'Inégalé, l'Unique, l'Incomparable.",
+        "en": "",
+        "tr": ""
+      },
+      "long": {
+        "fr": "Allah est Al-Badi, Celui qui a créé et formé l'univers sans aucun moule ou exemple précédent. Par Sa volonté, Il invente tout ce qui existe sans aucune matière préalable. Sa création se fait sans aucune ressemblance avec tout ce qui a déjà existé.",
+        "en": "",
+        "tr": ""
+      }
+    },
+    "tranliteration": {
+      "fr": "Al-Badi",
+      "en": "",
+      "tr": ""
+    },
+    "audio": "/audio/al-badi.mp3",
+    "image": {
+      "png": {
+        "64x64": "",
+        "128x128": "",
+        "256x256": ""
+      },
+      "svg": ""
+    },
+    "verset": {
+      "2": [
+        "117"
+      ],
+      "6": [
+        "101"
+      ]
+    }
+  },
+  {
+    "id": "3528c85e-3cb7-11f0-8361-6045cb6ed61f",
+    "name": {
+      "ar": "",
+      "ar-enhanced": "ٱلْبَاقِي",
+      "fr": "L'Eternel",
+      "en": "",
+      "tr": ""
+    },
+    "explanation": {
+      "short": {
+        "fr": "L'Eternel, l'Omniprésent, l'Immuable.",
+        "en": "",
+        "tr": ""
+      },
+      "long": {
+        "fr": "Allah est Al-Baqi, L'Éternel. Celui qui a toujours existé et qui ne cessera jamais d'être. Il est celui dont l'existence n'a ni commencement ni fin. Ce nom signifie qu'Allah est perpétuel, sans fin et éternel. Il demeurera à jamais et ne sera pas affecté par le temps.",
+        "en": "",
+        "tr": ""
+      }
+    },
+    "tranliteration": {
+      "fr": "Al-Baaqi",
+      "en": "",
+      "tr": ""
+    },
+    "audio": "/audio/al-baqi.mp3",
+    "image": {
+      "png": {
+        "64x64": "",
+        "128x128": "",
+        "256x256": ""
+      },
+      "svg": ""
+    },
+    "verset": {}
+  },
+  {
+    "id": "3528d522-3cb7-11f0-a8b9-6045cb6ed61f",
+    "name": {
+      "ar": "الوارث",
+      "ar-enhanced": "ٱلْوَارِثُ",
+      "fr": "L'Héritier",
+      "en": "",
+      "tr": "Varlığının bulunmaması vasfıyla kâinatın gerçek sahibi"
+    },
+    "explanation": {
+      "short": {
+        "fr": "Le Successeur, l'Héritier de Tout.",
+        "en": "",
+        "tr": ""
+      },
+      "long": {
+        "fr": "Allah est Al-Warith, Celui qui subsiste après que tout ait disparu. Il est éternel et c'est à Lui que reviendront tous les biens.",
+        "en": "",
+        "tr": ""
+      }
+    },
+    "tranliteration": {
+      "fr": "Al-Warith",
+      "en": "",
+      "tr": "El-Vâris"
+    },
+    "audio": "/audio/al-warith.mp3",
+    "image": {
+      "png": {
+        "64x64": "",
+        "128x128": "",
+        "256x256": ""
+      },
+      "svg": ""
+    },
+    "verset": {
+      "15": [
+        "23"
+      ],
+      "21": [
+        "89"
+      ],
+      "28": [
+        "58"
+      ]
+    }
+  },
+  {
+    "id": "3528e2ef-3cb7-11f0-8d04-6045cb6ed61f",
+    "name": {
+      "ar": "الرشيد",
+      "ar-enhanced": "ٱلْرَّشِيدُ",
+      "fr": "Celui qui agit avec droiture",
+      "en": "",
+      "tr": "Bütün işleri isabetli ve hedefine ulaşıcı, irşad edici"
+    },
+    "explanation": {
+      "short": {
+        "fr": "Le Maître infaillible, le Juste dans ses Conseils, le Régisseur inébranlable.",
+        "en": "",
+        "tr": ""
+      },
+      "long": {
+        "fr": "Allah est Ar-Rashïd, Celui qui oriente vers la droiture. Allah est le Guide suprême vers le droit chemin et la croyance. Il ne contraint pas les gens à la religion. Il a montré le bon chemin à travers le Coran et Ses messagers.",
+        "en": "",
+        "tr": ""
+      }
+    },
+    "tranliteration": {
+      "fr": "Ar-Rasheed",
+      "en": "",
+      "tr": "Er-Reşîd"
+    },
+    "audio": "/audio/ar-rashid.mp3",
+    "image": {
+      "png": {
+        "64x64": "",
+        "128x128": "",
+        "256x256": ""
+      },
+      "svg": ""
+    },
+    "verset": {
+      "2": [
+        "256"
+      ],
+      "18": [
+        "10"
+      ],
+      "72": [
+        "14"
+      ]
+    }
+  },
+  {
+    "id": "3528eee1-3cb7-11f0-bb37-6045cb6ed61f",
+    "name": {
+      "ar": "الصبور",
+      "ar-enhanced": "ٱلْصَّبُورُ",
+      "fr": "Le Patient",
+      "en": "",
+      "tr": "Çok sabırlı"
+    },
+    "explanation": {
+      "short": {
+        "fr": "Le Tout-Patient, l'Endurant, L'Indulgent.",
+        "en": "",
+        "tr": ""
+      },
+      "long": {
+        "fr": "Allah est As-Sabur, Celui qui est le plus patient et le plus endurant. Il ne se précipite pas dans Ses actions et attend le moment opportun. Il a tout le pouvoir de punir ceux qui font le mal, mais au lieu de cela, Il nous laisse le temps de nous repentir et de revenir sur le droit chemin.",
+        "en": "",
+        "tr": ""
+      }
+    },
+    "tranliteration": {
+      "fr": "As-Sabur",
+      "en": "",
+      "tr": "Es-Sabûr"
+    },
+    "audio": "/audio/as-sabur.mp3",
+    "image": {
+      "png": {
+        "64x64": "",
+        "128x128": "",
+        "256x256": ""
+      },
+      "svg": ""
+    },
+    "verset": {}
+  }
+]
