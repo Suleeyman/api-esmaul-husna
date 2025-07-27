@@ -1,3 +1,6 @@
+# TinyDB after generation of the processable JSON file
+tinydb_data.json
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]

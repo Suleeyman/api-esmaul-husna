@@ -1,0 +1,15 @@
+meta {
+  name: Get all esmas
+  type: http
+  seq: 1
+}
+
+get {
+  url: {{baseUrl}}/{{collection}}
+  body: none
+  auth: inherit
+}
+
+settings {
+  encodeUrl: true
+}
