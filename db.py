@@ -2,8 +2,9 @@ from tinydb import TinyDB
 import json
 import os
 
-SOURCE_JSON = "resources/esmaul-husna.json"   # Ton fichier lisible et versionné
+SOURCE_JSON = "resources/esmaul-husna.json"  # Ton fichier lisible et versionné
 TINYDB_FILE = "tinydb_data.json"  # Fichier généré (non versionné)
+
 
 def import_json_to_tinydb():
     # Ne réécrit que si esmaul-husna.json existe
