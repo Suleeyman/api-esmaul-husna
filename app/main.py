@@ -1,12 +1,14 @@
-from fastapi import FastAPI, HTTPException
 from pathlib import Path
-from tinydb import TinyDB, Query
-from db import import_json_to_tinydb
+
+from fastapi import FastAPI, HTTPException
 from fastapi.staticfiles import StaticFiles
+from tinydb import Query, TinyDB
+
+from app.db import import_json_to_tinydb
 
 import_json_to_tinydb()
 app = FastAPI(title="API Esmaul Husna")
-app.mount("/audio", StaticFiles(directory="resources/static/audio"), name="static")
+app.mount("/audio", StaticFiles(directory="assets/static/audio"), name="static")
 
 # --- Configuration de TinyDB ---
 DB_PATH = Path("tinydb_data.json")
@@ -15,7 +17,7 @@ Item = Query()
 
 
 @app.get("/")
-def root():
+def root() -> dict[str, str]:
     return {
         "message": "API Esmaul Husna",
         "link": "https://github.com/Suleeyman/api-esmaul-husna",
