@@ -1,0 +1,50 @@
+name: Python Code Quality
+
+on:
+  push:
+  pull_request:
+    branches: ["main"] # only PRs targeting main
+
+jobs:
+  lock_file:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: ./.github/actions/install-uv
+      - run: uv lock --locked
+  linting:
+    runs-on: ubuntu-latest
+    needs: [lock_file]
+    steps:
+      - uses: actions/checkout@v5
+      - uses: ./.github/actions/install-uv
+      - run: uvx ruff check .
+  formatting:
+    runs-on: ubuntu-latest
+    needs: [lock_file]
+    steps:
+      - uses: actions/checkout@v5
+      - uses: ./.github/actions/install-uv
+      - run: uvx ruff format --check .
+  # MAYBE LATER
+  # If so, don't forget syncing with .pre-commit-config.yaml
+  # type_consistency:
+  #   runs-on: ubuntu-latest
+  #   needs: [lock_file]
+  #   steps:
+  #     - uses: actions/checkout@v5
+  #     - uses: ./.github/actions/install-uv
+  #     - run: uv run pyright .
+  tests:
+    runs-on: ubuntu-latest
+    needs: [lock_file]
+    steps:
+      - uses: actions/checkout@v5
+      - uses: ./.github/actions/install-uv
+      - run: uv run pytest -v --durations=0 --cov
+      # MAYBE LATER
+      # If so, don't forget to create a codecov account and sync the github repo
+      # - name: Upload Coverage to Codecov
+      #   uses: codecov/codecov-action@v4
+      #   with:
+      #     token: ${{ secrets.CODECOV_TOKEN }}

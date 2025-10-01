@@ -9,7 +9,8 @@ repos:
       - id: ruff
         args: [--fix]
       - id: ruff-format
-  # Maybe later :
+  # MAYBE LATER
+  # If so, don't forget syncing with github actions
   # - repo: https://github.com/RobertCraigie/pyright-python
   #   rev: v1.1.387
   #   hooks:
