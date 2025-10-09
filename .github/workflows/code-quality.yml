@@ -55,6 +55,8 @@ jobs:
     needs: [tests] # only deploy if tests pass
     steps:
       - uses: actions/checkout@v5
+        with:
+          fetch-depth: 0 # <-- Required for Clever Cloud deployment
       - uses: 47ng/actions-clever-cloud@v2.1.0
         with:
           alias: Esmaul-Husna-API
