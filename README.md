@@ -1,3 +1,5 @@
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/ysuleyman)
+
 # 🌙 Esmaul Husna API
 
 Free and Open Source API for the 99 names of Allah (الأسماء الحسنى)
