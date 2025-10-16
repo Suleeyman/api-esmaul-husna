@@ -1,7 +1,7 @@
 Here is some verse to check if it can be linked to a Name of Allah :
 
 | Sura |             Verse              |
-|------|:------------------------------:|
+| ---- | :----------------------------: |
 | 10   |               59               |
 | 11   |            47, 119             |
 | 12   |           39, 64, 92           |
@@ -23,6 +23,7 @@ Here is some verse to check if it can be linked to a Name of Allah :
 | 35   |               2                |
 | 36   |           27, 44, 45           |
 | 38   |               9                |
-| 39   |            9, 38               |
-
-
+| 39   |           9, 38, 53            |
+| 40   |          7, 9, 48, 53          |
+| 41   |       6, 39, 47, 50, 54        |
+| 42   |       10, 12, 28, 48, 49       |
