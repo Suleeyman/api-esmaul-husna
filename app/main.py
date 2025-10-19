@@ -8,6 +8,7 @@ from app.db import import_json_to_tinydb
 
 import_json_to_tinydb()
 app = FastAPI(title="API Esmaul Husna")
+app.mount("/images", StaticFiles(directory="assets/static/images"), name="static")
 app.mount("/audio", StaticFiles(directory="assets/static/audio"), name="static")
 
 # --- Configuration de TinyDB ---

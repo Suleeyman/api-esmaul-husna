@@ -179,14 +179,14 @@
       "en": "",
       "tr": ""
     },
-    "audio": "/audio/al-qaddus.mp3",
+    "audio": "/audio/al-quddus.mp3",
     "image": {
       "png": {
-        "64x64": "",
-        "128x128": "",
-        "256x256": ""
+        "64x64": "/images/quddus/quddus-64x64.png",
+        "128x128": "/images/quddus/quddus-128x128.png",
+        "256x256": "/images/quddus/quddus-256x256.png"
       },
-      "svg": ""
+      "svg": "/images/quddus/quddus.svg"
     },
     "verset": {
       "59": [23],
@@ -536,11 +536,11 @@
     "audio": "/audio/al-bari.mp3",
     "image": {
       "png": {
-        "64x64": "",
-        "128x128": "",
-        "256x256": ""
+        "64x64": "/images/bari/bari-64x64.png",
+        "128x128": "/images/bari/bari-128x128.png",
+        "256x256": "/images/bari/bari-256x256.png"
       },
-      "svg": ""
+      "svg": "/images/bari/bari.svg"
     },
     "verset": {
       "59": [24]
@@ -657,11 +657,11 @@
     "audio": "/audio/al-qahhar.mp3",
     "image": {
       "png": {
-        "64x64": "",
-        "128x128": "",
-        "256x256": ""
+        "64x64": "/images/qahhar-64x64.png",
+        "128x128": "/images/qahhar-128x128.png",
+        "256x256": "/images/qahhar-256x256.png"
       },
-      "svg": ""
+      "svg": "/images/qahhar.svg"
     },
     "verset": {
       "13": [16],
@@ -739,11 +739,11 @@
     "audio": "/audio/ar-razzaq.mp3",
     "image": {
       "png": {
-        "64x64": "",
-        "128x128": "",
-        "256x256": ""
+        "64x64": "/images/razzaq/razzaq-64x64.png",
+        "128x128": "/images/razzaq/razzaq-128x128.png",
+        "256x256": "/images/razzaq/razzaq-256x256.png"
       },
-      "svg": ""
+      "svg": "/images/razzaq/razzaq.svg"
     },
     "verset": {
       "11": [6],
@@ -829,11 +829,11 @@
     "audio": "/audio/al-alim.mp3",
     "image": {
       "png": {
-        "64x64": "",
-        "128x128": "",
-        "256x256": ""
+        "64x64": "/images/alim/alim-64x64.png",
+        "128x128": "/images/alim/alim-128x128.png",
+        "256x256": "/images/alim/alim-256x256.png"
       },
-      "svg": ""
+      "svg": "/images/alim/alim.svg"
     },
     "verset": {
       "2": [32],
@@ -972,11 +972,11 @@
     "audio": "/audio/al-khafid.mp3",
     "image": {
       "png": {
-        "64x64": "",
-        "128x128": "",
-        "256x256": ""
+        "64x64": "/images/khafid/khafid-64x64.png",
+        "128x128": "/images/khafid/khafid-128x128.png",
+        "256x256": "/images/khafid/khafid-256x256.png"
       },
-      "svg": ""
+      "svg": "/images/khafid/khafid.svg"
     },
     "verset": {}
   },
@@ -1440,11 +1440,11 @@
     "audio": "/audio/al-azeem.mp3",
     "image": {
       "png": {
-        "64x64": "",
-        "128x128": "",
-        "256x256": ""
+        "64x64": "/images/azeem/azeem-64x64.png",
+        "128x128": "/images/azeem/azeem-128x128.png",
+        "256x256": "/images/azeem/azeem-256x256.png"
       },
-      "svg": ""
+      "svg": "/images/azeem/azeem.svg"
     },
     "verset": {
       "2": [255],
@@ -3073,11 +3073,11 @@
     "audio": "/audio/al-muqaddim.mp3",
     "image": {
       "png": {
-        "64x64": "",
-        "128x128": "",
-        "256x256": ""
+        "64x64": "/images/muqaddim/muqaddim-64x64.png",
+        "128x128": "/images/muqaddim/muqaddim-128x128.png",
+        "256x256": "/images/muqaddim/muqaddim-256x256.png"
       },
-      "svg": ""
+      "svg": "/images/muqaddim/muqaddim.svg"
     },
     "verset": {}
   },
@@ -3423,11 +3423,11 @@
     "audio": "/audio/at-tawwab.mp3",
     "image": {
       "png": {
-        "64x64": "",
-        "128x128": "",
-        "256x256": ""
+        "64x64": "/images/tawwab/tawwab-64x64.png",
+        "128x128": "/images/tawwab/tawwab-128x128.png",
+        "256x256": "/images/tawwab/tawwab-256x256.png"
       },
-      "svg": ""
+      "svg": "/images/tawwab/tawwab.svg"
     },
     "verset": {
       "2": [37, 54, 160],
