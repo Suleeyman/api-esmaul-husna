@@ -27,3 +27,7 @@ Here is some verse to check if it can be linked to a Name of Allah :
 | 40   |          7, 9, 48, 53          |
 | 41   |       6, 39, 47, 50, 54        |
 | 42   |       10, 12, 28, 48, 49       |
+| 43   |               32               |
+| 44   |               6                |
+| 45   |               30               |
+| 46   |           10, 23, 30           |
