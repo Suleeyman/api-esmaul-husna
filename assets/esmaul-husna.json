@@ -1166,11 +1166,11 @@
     "audio": "/audio/as-sami.mp3",
     "image": {
       "png": {
-        "64x64": "",
-        "128x128": "",
-        "256x256": ""
+        "64x64": "/images/sami/sami-64x64.png",
+        "128x128": "/images/sami/sami-128x128.png",
+        "256x256": "/images/sami/sami-256x256.png"
       },
-      "svg": ""
+      "svg": "/images/sami/sami.svg"
     },
     "verset": {
       "2": [127],
@@ -1780,11 +1780,11 @@
     "audio": "/audio/al-muqit.mp3",
     "image": {
       "png": {
-        "64x64": "",
-        "128x128": "",
-        "256x256": ""
+        "64x64": "/images/muqit/muqit-64x64.png",
+        "128x128": "/images/muqit/muqit-128x128.png",
+        "256x256": "/images/muqit/muqit-256x256.png"
       },
-      "svg": ""
+      "svg": "/images/muqit/muqit.svg"
     },
     "verset": {
       "4": [85]
@@ -2737,11 +2737,11 @@
     "audio": "/audio/al-mumit.mp3",
     "image": {
       "png": {
-        "64x64": "",
-        "128x128": "",
-        "256x256": ""
+        "64x64": "/images/mumit/mumit-64x64.png",
+        "128x128": "/images/mumit/mumit-128x128.png",
+        "256x256": "/images/mumit/mumit-256x256.png"
       },
-      "svg": ""
+      "svg": "/images/mumit/mumit.svg"
     },
     "verset": {
       "10": [56],
@@ -3202,11 +3202,11 @@
     "audio": "/audio/al-muakhkhir.mp3",
     "image": {
       "png": {
-        "64x64": "",
-        "128x128": "",
-        "256x256": ""
+        "64x64": "/images/muakhkhir/muakhkhir-64x64.png",
+        "128x128": "/images/muakhkhir/muakhkhir-128x128.png",
+        "256x256": "/images/muakhkhir/muakhkhir-256x256.png"
       },
-      "svg": ""
+      "svg": "/images/muakhkhir/muakhkhir.svg"
     },
     "verset": {}
   },
@@ -3357,11 +3357,11 @@
     "audio": "/audio/al-batin.mp3",
     "image": {
       "png": {
-        "64x64": "",
-        "128x128": "",
-        "256x256": ""
+        "64x64": "/images/batin/batin-64x64.png",
+        "128x128": "/images/batin/batin-128x128.png",
+        "256x256": "/images/batin/batin-256x256.png"
       },
-      "svg": ""
+      "svg": "/images/batin/batin.svg"
     },
     "verset": {
       "57": [3]
@@ -3476,11 +3476,11 @@
     "audio": "/audio/al-barr.mp3",
     "image": {
       "png": {
-        "64x64": "",
-        "128x128": "",
-        "256x256": ""
+        "64x64": "/images/barr/barr-64x64.png",
+        "128x128": "/images/barr/barr-128x128.png",
+        "256x256": "/images/barr/barr-256x256.png"
       },
-      "svg": ""
+      "svg": "/images/barr/barr.svg"
     },
     "verset": {
       "52": [28]
@@ -3837,11 +3837,11 @@
     "audio": "/audio/al-ghaniyy.mp3",
     "image": {
       "png": {
-        "64x64": "",
-        "128x128": "",
-        "256x256": ""
+        "64x64": "/images/ghaniyy/ghaniyy-64x64.png",
+        "128x128": "/images/ghaniyy/ghaniyy-128x128.png",
+        "256x256": "/images/ghaniyy/ghaniyy-256x256.png"
       },
-      "svg": ""
+      "svg": "/images/ghaniyy/ghaniyy.svg"
     },
     "verset": {
       "2": [263],
@@ -3960,11 +3960,11 @@
     "audio": "/audio/ad-darr.mp3",
     "image": {
       "png": {
-        "64x64": "",
-        "128x128": "",
-        "256x256": ""
+        "64x64": "/images/darr/darr-64x64.png",
+        "128x128": "/images/darr/darr-128x128.png",
+        "256x256": "/images/darr/darr-256x256.png"
       },
-      "svg": ""
+      "svg": "/images/darr/darr.svg"
     },
     "verset": {}
   },
@@ -4076,11 +4076,11 @@
     "audio": "/audio/al-hadi.mp3",
     "image": {
       "png": {
-        "64x64": "",
-        "128x128": "",
-        "256x256": ""
+        "64x64": "/images/hadi/hadi-64x64.png",
+        "128x128": "/images/hadi/hadi-128x128.png",
+        "256x256": "/images/hadi/hadi-256x256.png"
       },
-      "svg": ""
+      "svg": "/images/hadi/hadi.svg"
     },
     "verset": {
       "20": [50],
