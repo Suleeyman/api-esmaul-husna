@@ -35,3 +35,6 @@ Here is some verse to check if it can be linked to a Name of Allah :
 | 50   |               11               |
 | 53   |               43               |
 | 57   |               27               |
+| 70   |               35               |
+| 76   |               31               |
+| 89   |               16               |
