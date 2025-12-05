@@ -18,7 +18,31 @@ This project includes:
 - 🔊 Audio pronunciation files
 - 🖼️ Image placeholders for future use
 
-Everything is bundled in a clean JSON format (*ressources/esmaul-husna.json*) and served through an open API (to be optionally self-hosted or integrated).
+Everything is bundled in a clean JSON format (_ressources/esmaul-husna.json_) and served through an open API (to be optionally self-hosted or integrated).
+
+## About the surah al-Fatiha
+
+Although there is a consensus that Surah al-Fatiha contains seven verses, whether the basmala is one of them remains a subject of debate. According to the Qur’anic recitation scholars of Medina, Basra, and Damascus, the basmala is not part of al-Fatiha. In this case, the first verse is:
+
+```
+الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ
+```
+
+and the last verse is:
+
+```
+غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ
+```
+
+This is also the view held by the **Hanafi** and **Maliki** schools. On the other hand, according to the recitation scholars of Mecca and Kufa, the first verse is the _basmala_, and the final verse is:
+
+```
+صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ
+```
+
+The **Shafi‘i** and **Hanbali** schools follow this opinion as well.
+
+Our choice was to follow the Hanafi school. That's why the esma "rahman" and "rahim" in our JSON don't include the first verse (basmala) of the surah al-Fatiha.
 
 ### 📦 Example Entry
 
@@ -66,14 +90,14 @@ Here’s an example object from the dataset:
 ### 🧾 Field Descriptions
 
 - `id`: A unique identifier in UUID format (e.g., `"3525c865-3cb7-11f0-b9b7-6045cb6ed61f"`).
-- `name` (*object*): The name of Allah in different languages:
+- `name` (_object_): The name of Allah in different languages:
   - `ar`: Arabic
   - `ar-enhanced`: Arabic with proper diacritics (tashkeel)
   - `fr`, `en`, `tr: French, English, and Turkish translations
-- `explanation` (*object*): Descriptions of the meaning of the name:
+- `explanation` (_object_): Descriptions of the meaning of the name:
   - `short`: Concise description per language
   - `long`: Extended explanation per language
-- `tranliteration` (*object*): Phonetic transcription of the Arabic name for pronunciation help:
+- `tranliteration` (_object_): Phonetic transcription of the Arabic name for pronunciation help:
   - `fr`, `en`, `tr`: Per-language transliterations
 - `audio`: URL or path to the .mp3 pronunciation file
 - `image`: Name-related icons or representations:
@@ -87,6 +111,7 @@ We welcome all kinds of contributions! Here's how you can help:
 **✅ Improve the Dataset**
 
 If you notice:
+
 - Missing or inaccurate translations
 - Absent explanations in certain languages
 - Missing audio or images

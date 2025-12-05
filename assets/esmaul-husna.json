@@ -82,11 +82,11 @@
     "audio": "/audio/ar-raheem.mp3",
     "image": {
       "png": {
-        "64x64": "",
-        "128x128": "",
-        "256x256": ""
+        "64x64": "/images/raheem/raheem-64x64.png",
+        "128x128": "/images/raheem/raheem-128x128.png",
+        "256x256": "/images/raheem/raheem-256x256.png"
       },
-      "svg": ""
+      "svg": "/images/raheem/raheem.svg"
     },
     "verset": {
       "2": [143],
@@ -156,11 +156,11 @@
     "audio": "/audio/al-malik.mp3",
     "image": {
       "png": {
-        "64x64": "",
-        "128x128": "",
-        "256x256": ""
+        "64x64": "/images/malik/malik-64x64.png",
+        "128x128": "/images/malik/malik-128x128.png",
+        "256x256": "/images/malik/malik-256x256.png"
       },
-      "svg": ""
+      "svg": "/images/malik/malik.svg"
     },
     "verset": {
       "3": [26],
@@ -328,11 +328,11 @@
     "audio": "/audio/al-muhaymin.mp3",
     "image": {
       "png": {
-        "64x64": "",
-        "128x128": "",
-        "256x256": ""
+        "64x64": "/images/muhaymin/muhaymin-64x64.png",
+        "128x128": "/images/muhaymin/muhaymin-128x128.png",
+        "256x256": "/images/muhaymin/muhaymin-256x256.png"
       },
-      "svg": ""
+      "svg": "/images/muhaymin/muhaymin.svg"
     },
     "verset": {
       "59": [23]
@@ -479,11 +479,11 @@
     "audio": "/audio/al-mutakabbir.mp3",
     "image": {
       "png": {
-        "64x64": "",
-        "128x128": "",
-        "256x256": ""
+        "64x64": "/images/mutakabbir/mutakabbir-64x64.png",
+        "128x128": "/images/mutakabbir/mutakabbir-128x128.png",
+        "256x256": "/images/mutakabbir/mutakabbir-256x256.png"
       },
-      "svg": ""
+      "svg": "/images/mutakabbir/mutakabbir.svg"
     },
     "verset": {
       "59": [23]
@@ -1143,11 +1143,11 @@
     "audio": "/audio/al-muizz.mp3",
     "image": {
       "png": {
-        "64x64": "",
-        "128x128": "",
-        "256x256": ""
+        "64x64": "/images/muizz/muizz-64x64.png",
+        "128x128": "/images/muizz/muizz-128x128.png",
+        "256x256": "/images/muizz/muizz-256x256.png"
       },
-      "svg": ""
+      "svg": "/images/muizz/muizz.svg"
     },
     "verset": {}
   },
@@ -1180,11 +1180,11 @@
     "audio": "/audio/al-mudhill.mp3",
     "image": {
       "png": {
-        "64x64": "",
-        "128x128": "",
-        "256x256": ""
+        "64x64": "/images/mudhill/mudhill-64x64.png",
+        "128x128": "/images/mudhill/mudhill-128x128.png",
+        "256x256": "/images/mudhill/mudhill-256x256.png"
       },
-      "svg": ""
+      "svg": "/images/mudhill/mudhill.svg"
     },
     "verset": {}
   },
@@ -1332,11 +1332,11 @@
     "audio": "/audio/al-hakam.mp3",
     "image": {
       "png": {
-        "64x64": "",
-        "128x128": "",
-        "256x256": ""
+        "64x64": "/images/hakam/hakam-64x64.png",
+        "128x128": "/images/hakam/hakam-128x128.png",
+        "256x256": "/images/hakam/hakam-256x256.png"
       },
-      "svg": ""
+      "svg": "/images/hakam/hakam.svg"
     },
     "verset": {}
   },
@@ -1369,11 +1369,11 @@
     "audio": "/audio/al-adl.mp3",
     "image": {
       "png": {
-        "64x64": "",
-        "128x128": "",
-        "256x256": ""
+        "64x64": "/images/adl/adl-64x64.png",
+        "128x128": "/images/adl/adl-128x128.png",
+        "256x256": "/images/adl/adl-256x256.png"
       },
-      "svg": ""
+      "svg": "/images/adl/adl.svg"
     },
     "verset": {}
   },
@@ -1678,11 +1678,11 @@
     "audio": "/audio/ash-shakur.mp3",
     "image": {
       "png": {
-        "64x64": "",
-        "128x128": "",
-        "256x256": ""
+        "64x64": "/images/shakur/shakur-64x64.png",
+        "128x128": "/images/shakur/shakur-128x128.png",
+        "256x256": "/images/shakur/shakur-256x256.png"
       },
-      "svg": ""
+      "svg": "/images/shakur/shakur.svg"
     },
     "verset": {
       "2": [158],
@@ -1890,11 +1890,11 @@
     "audio": "/audio/al-hasib.mp3",
     "image": {
       "png": {
-        "64x64": "",
-        "128x128": "",
-        "256x256": ""
+        "64x64": "/images/hasib/hasib-64x64.png",
+        "128x128": "/images/hasib/hasib-128x128.png",
+        "256x256": "/images/hasib/hasib-256x256.png"
       },
-      "svg": ""
+      "svg": "/images/hasib/hasib.svg"
     },
     "verset": {
       "4": [86],
@@ -1933,11 +1933,11 @@
     "audio": "/audio/al-jalil.mp3",
     "image": {
       "png": {
-        "64x64": "",
-        "128x128": "",
-        "256x256": ""
+        "64x64": "/images/jalil/jalil-64x64.png",
+        "128x128": "/images/jalil/jalil-128x128.png",
+        "256x256": "/images/jalil/jalil-256x256.png"
       },
-      "svg": ""
+      "svg": "/images/jalil/jalil.svg"
     },
     "verset": {}
   },
@@ -2052,11 +2052,11 @@
     "audio": "/audio/al-mujib.mp3",
     "image": {
       "png": {
-        "64x64": "",
-        "128x128": "",
-        "256x256": ""
+        "64x64": "/images/mujib/mujib-64x64.png",
+        "128x128": "/images/mujib/mujib-128x128.png",
+        "256x256": "/images/mujib/mujib-256x256.png"
       },
-      "svg": ""
+      "svg": "/images/mujib/mujib.svg"
     },
     "verset": {
       "11": [61]
@@ -2242,14 +2242,14 @@
       "en": "",
       "tr": "El-Mecîd"
     },
-    "audio": "/audio/al-majid.mp3",
+    "audio": "/audio/al-majeed.mp3",
     "image": {
       "png": {
-        "64x64": "",
-        "128x128": "",
-        "256x256": ""
+        "64x64": "/images/majeed/majeed-64x64.png",
+        "128x128": "/images/majeed/majeed-128x128.png",
+        "256x256": "/images/majeed/majeed-256x256.png"
       },
-      "svg": ""
+      "svg": "/images/majeed/majeed.svg"
     },
     "verset": {
       "11": [73],
@@ -2422,11 +2422,11 @@
     "audio": "/audio/al-wakeel.mp3",
     "image": {
       "png": {
-        "64x64": "",
-        "128x128": "",
-        "256x256": ""
+        "64x64": "/images/wakeel/wakeel-64x64.png",
+        "128x128": "/images/wakeel/wakeel-128x128.png",
+        "256x256": "/images/wakeel/wakeel-256x256.png"
       },
-      "svg": ""
+      "svg": "/images/wakeel/wakeel.svg"
     },
     "verset": {
       "3": [173],
@@ -2559,11 +2559,11 @@
     "audio": "/audio/al-waliyy.mp3",
     "image": {
       "png": {
-        "64x64": "",
-        "128x128": "",
-        "256x256": ""
+        "64x64": "/images/waliyy/waliyy-64x64.png",
+        "128x128": "/images/waliyy/waliyy-128x128.png",
+        "256x256": "/images/waliyy/waliyy-256x256.png"
       },
-      "svg": ""
+      "svg": "/images/waliyy/waliyy.svg"
     },
     "verset": {
       "2": [257],
@@ -3417,11 +3417,11 @@
     "audio": "/audio/az-zahir.mp3",
     "image": {
       "png": {
-        "64x64": "",
-        "128x128": "",
-        "256x256": ""
+        "64x64": "/images/zahir/zahir-64x64.png",
+        "128x128": "/images/zahir/zahir-128x128.png",
+        "256x256": "/images/zahir/zahir-256x256.png"
       },
-      "svg": ""
+      "svg": "/images/zahir/zahir.svg"
     },
     "verset": {
       "57": [3]
@@ -3495,11 +3495,11 @@
     "audio": "/audio/al-wali.mp3",
     "image": {
       "png": {
-        "64x64": "",
-        "128x128": "",
-        "256x256": ""
+        "64x64": "/images/wali/wali-64x64.png",
+        "128x128": "/images/wali/wali-128x128.png",
+        "256x256": "/images/wali/wali-256x256.png"
       },
-      "svg": ""
+      "svg": "/images/wali/wali.svg"
     },
     "verset": {}
   },
@@ -3532,11 +3532,11 @@
     "audio": "/audio/al-muta-ali.mp3",
     "image": {
       "png": {
-        "64x64": "",
-        "128x128": "",
-        "256x256": ""
+        "64x64": "/images/muta-ali/muta-ali-64x64.png",
+        "128x128": "/images/muta-ali/muta-ali-128x128.png",
+        "256x256": "/images/muta-ali/muta-ali-256x256.png"
       },
-      "svg": ""
+      "svg": "/images/muta-ali/muta-ali.svg"
     },
     "verset": {
       "13": [9],
@@ -3863,11 +3863,11 @@
     "audio": "/audio/al-muqsit.mp3",
     "image": {
       "png": {
-        "64x64": "",
-        "128x128": "",
-        "256x256": ""
+        "64x64": "/images/muqsit/muqsit-64x64.png",
+        "128x128": "/images/muqsit/muqsit-128x128.png",
+        "256x256": "/images/muqsit/muqsit-256x256.png"
       },
-      "svg": ""
+      "svg": "/images/muqsit/muqsit.svg"
     },
     "verset": {}
   },
@@ -3988,11 +3988,11 @@
     "audio": "/audio/al-mughni.mp3",
     "image": {
       "png": {
-        "64x64": "",
-        "128x128": "",
-        "256x256": ""
+        "64x64": "/images/mughni/mughni-64x64.png",
+        "128x128": "/images/mughni/mughni-128x128.png",
+        "256x256": "/images/mughni/mughni-256x256.png"
       },
-      "svg": ""
+      "svg": "/images/mughni/mughni.svg"
     },
     "verset": {}
   },
