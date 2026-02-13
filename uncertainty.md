@@ -7,6 +7,7 @@ Here is some verse to check if it can be linked to a Name of Allah :
 | 4    |                      122, 168, 175                      |
 | 5    |                        1, 2, 50                         |
 | 6    |                           52                            |
+| 7    |                    72, 150, 151, 155                    |
 | 10   |                           59                            |
 | 11   |                         47, 119                         |
 | 12   |                       39, 64, 92                        |
