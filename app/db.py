@@ -17,7 +17,7 @@ def import_json_to_tinydb() -> None:
         msg = f"Fichier source {SOURCE_JSON} introuvable."
         raise FileNotFoundError(msg)
 
-    with Path(SOURCE_JSON).open("r") as f:
+    with p.open("r") as f:
         items = json.load(f)
 
     db = TinyDB(TINYDB_FILE)

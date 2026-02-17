@@ -1,18 +1,19 @@
 [
   {
+    "slug": "ar-rahman",
     "id": 1,
     "name": {
       "ar": "الرحمن",
-      "ar-enhanced": "ٱلْرَّحْمَـانُ",
+      "ar-enhanced": "الرَّحْمنُ",
       "fr": "Le Tout-Miséricordieux",
-      "en": "",
-      "tr": ""
+      "en": "The Most Merciful",
+      "tr": "Çok rahmet sahibi"
     },
     "explanation": {
       "short": {
         "fr": "Il est le plus miséricordieux, le plus aimable et le plus aimant envers toute la création.",
-        "en": "",
-        "tr": ""
+        "en": "He who wills goodness and mercy for all His creatures",
+        "tr": "Sonsuz merhametiyle lütuf ve ihsanda bulunan."
       },
       "long": {
         "fr": "Il est celui qui bénit toute sa création avec prospérité et sans disparité. Il est le plus miséricordieux, le plus aimable et le plus aimant envers toute la création. Son Rahma est tout inclusif et englobe tout le monde.",
@@ -22,7 +23,7 @@
     },
     "transliteration": {
       "fr": "Ar-Rahman",
-      "en": "",
+      "en": "Ar-Rahman",
       "tr": "Er-Rahmân"
     },
     "audio": "/audio/ar-rahman.mp3",
@@ -56,19 +57,20 @@
     }
   },
   {
+    "slug": "ar-raheem",
     "id": 2,
     "name": {
       "ar": "الرحيم",
       "ar-enhanced": "ٱلْرَّحِيْمُ",
       "fr": "Le Miséricordieux",
-      "en": "",
-      "tr": ""
+      "en": "The Especially Merciful",
+      "tr": "Çok merhamet edici"
     },
     "explanation": {
       "short": {
         "fr": "Celui qui agit avec une extrême bienveillance.",
-        "en": "",
-        "tr": ""
+        "en": "He who acts with extreme kindness",
+        "tr": "Rahmetiyle her şeyi kuşatan."
       },
       "long": {
         "fr": "Le nom Ar-Raheem dérive de la même racine que Ar-Rahman qui se réfère à l'attribut d'Allah d'être miséricordieux. Bien que ces deux termes soient apparentés, leurs significations sont différentes. Ar-Rahman peut être compris comme se référant à Allah en tant qu'origine/source de toute miséricorde, tandis que Ar-Raheem se réfère à son caractère durable/infini. Certains considèrent que le nom d'Ar-Raheem fait référence à la miséricorde envers Sa création qui mérite la miséricorde; principalement la miséricorde réservée aux croyants.",
@@ -78,8 +80,8 @@
     },
     "transliteration": {
       "fr": "Ar-Raheem",
-      "en": "",
-      "tr": ""
+      "en": "Ar-Raheem",
+      "tr": "Er-Rahîm"
     },
     "audio": "/audio/ar-raheem.mp3",
     "image": {
@@ -137,30 +139,31 @@
     }
   },
   {
+    "slug": "al-malik",
     "id": 3,
     "name": {
       "ar": "الملك",
       "ar-enhanced": "ٱلْمَلِكُ",
       "fr": "Le Souverain",
-      "en": "",
+      "en": "The King",
       "tr": ""
     },
     "explanation": {
       "short": {
         "fr": "Le Seigneur Souverain, Celui ayant la domination complète, Celui dont la domination est sans aucune imperfection.",
-        "en": "",
-        "tr": ""
+        "en": "The Sovereign Lord, The One with the complete Dominion, the One Whose Dominion is clear from imperfection",
+        "tr": "Bütün varlıkların sahibi, hükümdârı."
       },
       "long": {
         "fr": "Allah est Al-Malik, dont le sens littéral en arabe est \"Le Roi.\" Il est celui qui régit la domination des cieux et de la terre et de tout ce qui y réside. Rien n'est au-dessus de lui et il est seul.",
-        "en": "",
+        "en": "Allah is Al-Malik, whose literal meaning in Arabic is \"The King.\" He is the one who governs the dominion of the heavens and the earth and all that resides in them. Nothing is above Him and He is alone.",
         "tr": ""
       }
     },
     "transliteration": {
       "fr": "Al-Malik",
-      "en": "",
-      "tr": ""
+      "en": "Al-Malik",
+      "tr": "El-Melik"
     },
     "audio": "/audio/al-malik.mp3",
     "image": {
@@ -192,6 +195,7 @@
     }
   },
   {
+    "slug": "al-quddus",
     "id": 4,
     "name": {
       "ar": "القدوس",
@@ -203,8 +207,8 @@
     "explanation": {
       "short": {
         "fr": "Celui qui est exempt de toute imperfection, faiblesse ou déficience.",
-        "en": "",
-        "tr": ""
+        "en": "The One who is free from all imperfections, weaknesses, and deficiencies.",
+        "tr": "Tüm noksanlıklardan, zayıflıklardan ve eksikliklerden arınmış Olan."
       },
       "long": {
         "fr": "Allah est Al-Quddus, signifiant le plus pur ou le plus sacré. Il est en effet exempt de toute imperfection et ne souffre d'aucune déficience. Le simple fait de dire qu'il est exempt de défauts relève de l'insulte, puisque cela implique la possibilité d'une imperfection. Il transcende tout ce que nous percevons comme la perfection, et tous les attributs sublimes lui appartiennent.",
@@ -214,8 +218,8 @@
     },
     "transliteration": {
       "fr": "Al-Quddus",
-      "en": "",
-      "tr": ""
+      "en": "Al-Quddus",
+      "tr": "El-Kuddûs"
     },
     "audio": "/audio/al-quddus.mp3",
     "image": {
@@ -232,6 +236,7 @@
     }
   },
   {
+    "slug": "as-salam",
     "id": 5,
     "name": {
       "ar": "السلام",
@@ -254,8 +259,8 @@
     },
     "transliteration": {
       "fr": "As-Salam",
-      "en": "",
-      "tr": ""
+      "en": "As-Salam",
+      "tr": "Es-Selâm"
     },
     "audio": "/audio/as-salam.mp3",
     "image": {
@@ -273,6 +278,7 @@
     }
   },
   {
+    "slug": "al-mumin",
     "id": 6,
     "name": {
       "ar": "المؤمن",
@@ -295,8 +301,8 @@
     },
     "transliteration": {
       "fr": "Al-Mumin",
-      "en": "",
-      "tr": ""
+      "en": "Al-Mumin",
+      "tr": "El-Mü'min"
     },
     "audio": "/audio/al-mumin.mp3",
     "image": {
@@ -312,6 +318,7 @@
     }
   },
   {
+    "slug": "al-muhaymin",
     "id": 7,
     "name": {
       "ar": "المهيمن",
@@ -334,8 +341,8 @@
     },
     "transliteration": {
       "fr": "Al-Muhaymin",
-      "en": "",
-      "tr": ""
+      "en": "Al-Muhaymin",
+      "tr": "El-Müheymin"
     },
     "audio": "/audio/al-muhaymin.mp3",
     "image": {
@@ -351,6 +358,7 @@
     }
   },
   {
+    "slug": "al-aziz",
     "id": 8,
     "name": {
       "ar": "العزيز",
@@ -373,8 +381,8 @@
     },
     "transliteration": {
       "fr": "Al-Aziz",
-      "en": "",
-      "tr": ""
+      "en": "Al-Aziz",
+      "tr": "El-Aziz"
     },
     "audio": "/audio/al-aziz.mp3",
     "image": {
@@ -429,6 +437,7 @@
     }
   },
   {
+    "slug": "al-jabbar",
     "id": 9,
     "name": {
       "ar": "الجبار",
@@ -468,6 +477,7 @@
     }
   },
   {
+    "slug": "al-mutakabbir",
     "id": 10,
     "name": {
       "ar": "المتكبر",
@@ -507,6 +517,7 @@
     }
   },
   {
+    "slug": "al-khaliq",
     "id": 11,
     "name": {
       "ar": "الخالق",
@@ -601,6 +612,7 @@
     }
   },
   {
+    "slug": "al-bari",
     "id": 12,
     "name": {
       "ar": "البارئ",
@@ -640,6 +652,7 @@
     }
   },
   {
+    "slug": "al-musawwir",
     "id": 13,
     "name": {
       "ar": "المصور",
@@ -681,6 +694,7 @@
     }
   },
   {
+    "slug": "al-ghaffar",
     "id": 14,
     "name": {
       "ar": "الغفار",
@@ -724,6 +738,7 @@
     }
   },
   {
+    "slug": "al-qahhar",
     "id": 15,
     "name": {
       "ar": "القهار",
@@ -767,6 +782,7 @@
     }
   },
   {
+    "slug": "al-wahhab",
     "id": 16,
     "name": {
       "ar": "الوهاب",
@@ -807,6 +823,7 @@
     }
   },
   {
+    "slug": "ar-razzaq",
     "id": 17,
     "name": {
       "ar": "الرزاق",
@@ -867,6 +884,7 @@
     }
   },
   {
+    "slug": "al-fattah",
     "id": 18,
     "name": {
       "ar": "الفتاح",
@@ -906,6 +924,7 @@
     }
   },
   {
+    "slug": "al-alim",
     "id": 19,
     "name": {
       "ar": "العليم",
@@ -1002,6 +1021,7 @@
     }
   },
   {
+    "slug": "al-qabid",
     "id": 20,
     "name": {
       "ar": "القابض",
@@ -1041,6 +1061,7 @@
     }
   },
   {
+    "slug": "al-basit",
     "id": 21,
     "name": {
       "ar": "الباسط",
@@ -1080,6 +1101,7 @@
     }
   },
   {
+    "slug": "al-khafid",
     "id": 22,
     "name": {
       "ar": "الخافض",
@@ -1117,6 +1139,7 @@
     "verset": {}
   },
   {
+    "slug": "ar-rafi",
     "id": 23,
     "name": {
       "ar": "الرافع",
@@ -1156,6 +1179,7 @@
     }
   },
   {
+    "slug": "al-muizz",
     "id": 24,
     "name": {
       "ar": "المعزّ",
@@ -1193,6 +1217,7 @@
     "verset": {}
   },
   {
+    "slug": "al-mudhill",
     "id": 25,
     "name": {
       "ar": "المذلّ",
@@ -1230,6 +1255,7 @@
     "verset": {}
   },
   {
+    "slug": "as-sami",
     "id": 26,
     "name": {
       "ar": "السميع",
@@ -1293,6 +1319,7 @@
     }
   },
   {
+    "slug": "al-basir",
     "id": 27,
     "name": {
       "ar": "البصير",
@@ -1352,6 +1379,7 @@
     }
   },
   {
+    "slug": "al-hakam",
     "id": 28,
     "name": {
       "ar": "الحكم",
@@ -1392,6 +1420,7 @@
     }
   },
   {
+    "slug": "al-adl",
     "id": 29,
     "name": {
       "ar": "العدل",
@@ -1429,6 +1458,7 @@
     "verset": {}
   },
   {
+    "slug": "al-latif",
     "id": 30,
     "name": {
       "ar": "اللطيف",
@@ -1474,6 +1504,7 @@
     }
   },
   {
+    "slug": "al-khabir",
     "id": 31,
     "name": {
       "ar": "الخبير",
@@ -1538,6 +1569,7 @@
     }
   },
   {
+    "slug": "al-halim",
     "id": 32,
     "name": {
       "ar": "الحليم",
@@ -1584,6 +1616,7 @@
     }
   },
   {
+    "slug": "al-azeem",
     "id": 33,
     "name": {
       "ar": "العظيم",
@@ -1629,6 +1662,7 @@
     }
   },
   {
+    "slug": "al-ghafur",
     "id": 34,
     "name": {
       "ar": "الغفور",
@@ -1713,6 +1747,7 @@
     }
   },
   {
+    "slug": "ash-shakur",
     "id": 35,
     "name": {
       "ar": "الشكور",
@@ -1755,6 +1790,7 @@
     }
   },
   {
+    "slug": "al-ali",
     "id": 36,
     "name": {
       "ar": "العليّ",
@@ -1800,6 +1836,7 @@
     }
   },
   {
+    "slug": "al-kabir",
     "id": 37,
     "name": {
       "ar": "الكبير",
@@ -1846,6 +1883,7 @@
     }
   },
   {
+    "slug": "al-hafiz",
     "id": 38,
     "name": {
       "ar": "الحفيظ",
@@ -1888,6 +1926,7 @@
     }
   },
   {
+    "slug": "al-muqit",
     "id": 39,
     "name": {
       "ar": "المقيت",
@@ -1927,6 +1966,7 @@
     }
   },
   {
+    "slug": "al-hasib",
     "id": 40,
     "name": {
       "ar": "الحسيب",
@@ -1973,6 +2013,7 @@
     }
   },
   {
+    "slug": "al-jalil",
     "id": 41,
     "name": {
       "ar": "الجليل",
@@ -2010,6 +2051,7 @@
     "verset": {}
   },
   {
+    "slug": "al-karim",
     "id": 42,
     "name": {
       "ar": "الكريم",
@@ -2051,6 +2093,7 @@
     }
   },
   {
+    "slug": "ar-raqib",
     "id": 43,
     "name": {
       "ar": "الرقيب",
@@ -2092,6 +2135,7 @@
     }
   },
   {
+    "slug": "al-mujib",
     "id": 44,
     "name": {
       "ar": "المجيب",
@@ -2131,6 +2175,7 @@
     }
   },
   {
+    "slug": "al-wasi",
     "id": 45,
     "name": {
       "ar": "الواسع",
@@ -2173,6 +2218,7 @@
     }
   },
   {
+    "slug": "al-hakim",
     "id": 46,
     "name": {
       "ar": "الحكيم",
@@ -2253,6 +2299,7 @@
     }
   },
   {
+    "slug": "al-wadud",
     "id": 47,
     "name": {
       "ar": "الودود",
@@ -2293,6 +2340,7 @@
     }
   },
   {
+    "slug": "al-majeed",
     "id": 48,
     "name": {
       "ar": "المجيد",
@@ -2333,6 +2381,7 @@
     }
   },
   {
+    "slug": "al-baith",
     "id": 49,
     "name": {
       "ar": "",
@@ -2373,6 +2422,7 @@
     }
   },
   {
+    "slug": "ash-shahid",
     "id": 50,
     "name": {
       "ar": "",
@@ -2427,6 +2477,7 @@
     }
   },
   {
+    "slug": "al-haqq",
     "id": 51,
     "name": {
       "ar": "الحق",
@@ -2473,6 +2524,7 @@
     }
   },
   {
+    "slug": "al-wakeel",
     "id": 52,
     "name": {
       "ar": "",
@@ -2521,6 +2573,7 @@
     }
   },
   {
+    "slug": "al-qawi",
     "id": 53,
     "name": {
       "ar": "",
@@ -2570,6 +2623,7 @@
     }
   },
   {
+    "slug": "al-matin",
     "id": 54,
     "name": {
       "ar": "",
@@ -2612,6 +2666,7 @@
     }
   },
   {
+    "slug": "al-waliyy",
     "id": 55,
     "name": {
       "ar": "",
@@ -2659,6 +2714,7 @@
     }
   },
   {
+    "slug": "al-hamid",
     "id": 56,
     "name": {
       "ar": "",
@@ -2709,6 +2765,7 @@
     }
   },
   {
+    "slug": "al-muhsi",
     "id": 57,
     "name": {
       "ar": "",
@@ -2753,6 +2810,7 @@
     }
   },
   {
+    "slug": "al-mubdi",
     "id": 58,
     "name": {
       "ar": "",
@@ -2792,6 +2850,7 @@
     }
   },
   {
+    "slug": "al-muid",
     "id": 59,
     "name": {
       "ar": "",
@@ -2831,6 +2890,7 @@
     }
   },
   {
+    "slug": "al-muhyi",
     "id": 60,
     "name": {
       "ar": "",
@@ -2885,6 +2945,7 @@
     }
   },
   {
+    "slug": "al-mumit",
     "id": 61,
     "name": {
       "ar": "",
@@ -2937,6 +2998,7 @@
     }
   },
   {
+    "slug": "al-hayy",
     "id": 62,
     "name": {
       "ar": "",
@@ -2980,6 +3042,7 @@
     }
   },
   {
+    "slug": "al-qayyum",
     "id": 63,
     "name": {
       "ar": "",
@@ -3021,6 +3084,7 @@
     }
   },
   {
+    "slug": "al-wajid",
     "id": 64,
     "name": {
       "ar": "",
@@ -3058,6 +3122,7 @@
     "verset": {}
   },
   {
+    "slug": "al-majid",
     "id": 65,
     "name": {
       "ar": "",
@@ -3097,6 +3162,7 @@
     }
   },
   {
+    "slug": "al-wahid",
     "id": 66,
     "name": {
       "ar": "الواحد",
@@ -3146,6 +3212,7 @@
     }
   },
   {
+    "slug": "al-ahad",
     "id": 67,
     "name": {
       "ar": "",
@@ -3185,6 +3252,7 @@
     }
   },
   {
+    "slug": "as-samad",
     "id": 68,
     "name": {
       "ar": "الصمد",
@@ -3224,6 +3292,7 @@
     }
   },
   {
+    "slug": "al-qadir",
     "id": 69,
     "name": {
       "ar": "",
@@ -3295,6 +3364,7 @@
     }
   },
   {
+    "slug": "al-muqtadir",
     "id": 70,
     "name": {
       "ar": "",
@@ -3335,6 +3405,7 @@
     }
   },
   {
+    "slug": "al-muqaddim",
     "id": 71,
     "name": {
       "ar": "",
@@ -3372,6 +3443,7 @@
     "verset": {}
   },
   {
+    "slug": "al-muakhkhir",
     "id": 72,
     "name": {
       "ar": "",
@@ -3409,6 +3481,7 @@
     "verset": {}
   },
   {
+    "slug": "al-awwal",
     "id": 73,
     "name": {
       "ar": "الأول",
@@ -3449,6 +3522,7 @@
     }
   },
   {
+    "slug": "al-akhir",
     "id": 74,
     "name": {
       "ar": "الآخر",
@@ -3488,6 +3562,7 @@
     }
   },
   {
+    "slug": "az-zahir",
     "id": 75,
     "name": {
       "ar": "الظاهر",
@@ -3527,6 +3602,7 @@
     }
   },
   {
+    "slug": "al-batin",
     "id": 76,
     "name": {
       "ar": "الباطن",
@@ -3566,6 +3642,7 @@
     }
   },
   {
+    "slug": "al-wali",
     "id": 77,
     "name": {
       "ar": "",
@@ -3603,6 +3680,7 @@
     "verset": {}
   },
   {
+    "slug": "al-muta-ali",
     "id": 78,
     "name": {
       "ar": "",
@@ -3625,8 +3703,8 @@
     },
     "transliteration": {
       "fr": "Al-Mutaali",
-      "en": "",
-      "tr": ""
+      "en": "Al-Muta-ali",
+      "tr": "El-Müteâlî"
     },
     "audio": "/audio/al-muta-ali.mp3",
     "image": {
@@ -3646,6 +3724,7 @@
     }
   },
   {
+    "slug": "al-barr",
     "id": 79,
     "name": {
       "ar": "",
@@ -3668,8 +3747,8 @@
     },
     "transliteration": {
       "fr": "Al-Barr",
-      "en": "",
-      "tr": ""
+      "en": "Al-Barr",
+      "tr": "El-Bar"
     },
     "audio": "/audio/al-barr.mp3",
     "image": {
@@ -3685,6 +3764,7 @@
     }
   },
   {
+    "slug": "at-tawwab",
     "id": 80,
     "name": {
       "ar": "",
@@ -3707,8 +3787,8 @@
     },
     "transliteration": {
       "fr": "At-Tawwab",
-      "en": "",
-      "tr": ""
+      "en": "At-Tawwab",
+      "tr": "El-Tevvâb"
     },
     "audio": "/audio/at-tawwab.mp3",
     "image": {
@@ -3729,6 +3809,7 @@
     }
   },
   {
+    "slug": "al-muntaqim",
     "id": 81,
     "name": {
       "ar": "",
@@ -3751,8 +3832,8 @@
     },
     "transliteration": {
       "fr": "Al-Muntaqim",
-      "en": "",
-      "tr": ""
+      "en": "Al-Muntaqim",
+      "tr": "El-Müntekim"
     },
     "audio": "/audio/al-muntaqim.mp3",
     "image": {
@@ -3770,6 +3851,7 @@
     }
   },
   {
+    "slug": "al-afuw",
     "id": 82,
     "name": {
       "ar": "",
@@ -3792,8 +3874,8 @@
     },
     "transliteration": {
       "fr": "Al-Afuw",
-      "en": "",
-      "tr": ""
+      "en": "Al-Afuw",
+      "tr": "El-'Afuv"
     },
     "audio": "/audio/al-afuw.mp3",
     "image": {
@@ -3815,6 +3897,7 @@
     }
   },
   {
+    "slug": "ar-rauf",
     "id": 83,
     "name": {
       "ar": "",
@@ -3837,8 +3920,8 @@
     },
     "transliteration": {
       "fr": "Ar-Rauf",
-      "en": "",
-      "tr": ""
+      "en": "Ar-Rauf",
+      "tr": "Er-Rauf"
     },
     "audio": "/audio/ar-rauf.mp3",
     "image": {
@@ -3861,6 +3944,7 @@
     }
   },
   {
+    "slug": "malikul-mulk",
     "id": 84,
     "name": {
       "ar": "",
@@ -3883,17 +3967,17 @@
     },
     "transliteration": {
       "fr": "Malikul-Mulk",
-      "en": "",
-      "tr": ""
+      "en": "Malikul-Mulk",
+      "tr": "Mâlikül-Mülk"
     },
-    "audio": "/audio/malikulmulk.mp3",
+    "audio": "/audio/malikul-mulk.mp3",
     "image": {
       "png": {
-        "64x64": "/images/malikulmulk/malikulmulk-64x64.png",
-        "128x128": "/images/malikulmulk/malikulmulk-128x128.png",
-        "256x256": "/images/malikulmulk/malikulmulk-256x256.png"
+        "64x64": "/images/malikul-mulk/malikul-mulk-64x64.png",
+        "128x128": "/images/malikul-mulk/malikul-mulk-128x128.png",
+        "256x256": "/images/malikul-mulk/malikul-mulk-256x256.png"
       },
-      "svg": "/images/malikulmulk/malikulmulk.svg"
+      "svg": "/images/malikul-mulk/malikul-mulk.svg"
     },
     "verset": {
       "3": [26],
@@ -3901,6 +3985,7 @@
     }
   },
   {
+    "slug": "dhul-jalali-wal-ikram",
     "id": 85,
     "name": {
       "ar": "",
@@ -3923,8 +4008,8 @@
     },
     "transliteration": {
       "fr": "Dhul-Jalaali-Wal-Ikram",
-      "en": "",
-      "tr": ""
+      "en": "Dhul-Jalali-Wal-Ikram",
+      "tr": "Zül Celâli ve'l-İkrâm"
     },
     "audio": "/audio/dhul-jalali-wal-ikram.mp3",
     "image": {
@@ -3940,6 +4025,7 @@
     }
   },
   {
+    "slug": "al-muqsit",
     "id": 86,
     "name": {
       "ar": "",
@@ -3962,8 +4048,8 @@
     },
     "transliteration": {
       "fr": "Al-Muqsit",
-      "en": "",
-      "tr": ""
+      "en": "Al-Muqsit",
+      "tr": "El-Muksit"
     },
     "audio": "/audio/al-muqsit.mp3",
     "image": {
@@ -3977,6 +4063,7 @@
     "verset": {}
   },
   {
+    "slug": "al-jami",
     "id": 87,
     "name": {
       "ar": "",
@@ -3999,8 +4086,8 @@
     },
     "transliteration": {
       "fr": "Al-Jami",
-      "en": "",
-      "tr": ""
+      "en": "Al-Jami",
+      "tr": "El-Câmî"
     },
     "audio": "/audio/al-jami.mp3",
     "image": {
@@ -4014,6 +4101,7 @@
     "verset": {}
   },
   {
+    "slug": "al-ghaniyy",
     "id": 88,
     "name": {
       "ar": "",
@@ -4036,8 +4124,8 @@
     },
     "transliteration": {
       "fr": "Al-Ghaniy",
-      "en": "",
-      "tr": ""
+      "en": "Al-Ghaniyy",
+      "tr": "El-Ganî"
     },
     "audio": "/audio/al-ghaniyy.mp3",
     "image": {
@@ -4066,6 +4154,7 @@
     }
   },
   {
+    "slug": "al-mughni",
     "id": 89,
     "name": {
       "ar": "",
@@ -4088,8 +4177,8 @@
     },
     "transliteration": {
       "fr": "Al-Mughni",
-      "en": "",
-      "tr": ""
+      "en": "Al-Mughni",
+      "tr": "El-Mu'nî"
     },
     "audio": "/audio/al-mughni.mp3",
     "image": {
@@ -4103,6 +4192,7 @@
     "verset": {}
   },
   {
+    "slug": "al-mani",
     "id": 90,
     "name": {
       "ar": "",
@@ -4125,8 +4215,8 @@
     },
     "transliteration": {
       "fr": "Al-Mani",
-      "en": "",
-      "tr": ""
+      "en": "Al-Mani",
+      "tr": "El-Mânî"
     },
     "audio": "/audio/al-mani.mp3",
     "image": {
@@ -4140,6 +4230,7 @@
     "verset": {}
   },
   {
+    "slug": "ad-darr",
     "id": 91,
     "name": {
       "ar": "",
@@ -4162,8 +4253,8 @@
     },
     "transliteration": {
       "fr": "Ad-Darr",
-      "en": "",
-      "tr": ""
+      "en": "Ad-Darr",
+      "tr": "Ed-Dâr"
     },
     "audio": "/audio/ad-darr.mp3",
     "image": {
@@ -4177,6 +4268,7 @@
     "verset": {}
   },
   {
+    "slug": "an-nafi",
     "id": 92,
     "name": {
       "ar": "",
@@ -4199,8 +4291,8 @@
     },
     "transliteration": {
       "fr": "An-Naafi",
-      "en": "",
-      "tr": ""
+      "en": "An-Nafi",
+      "tr": "En-Nâfî"
     },
     "audio": "/audio/an-nafi.mp3",
     "image": {
@@ -4214,6 +4306,7 @@
     "verset": {}
   },
   {
+    "slug": "an-nur",
     "id": 93,
     "name": {
       "ar": "",
@@ -4236,8 +4329,8 @@
     },
     "transliteration": {
       "fr": "An-Noor",
-      "en": "",
-      "tr": ""
+      "en": "An-Nur",
+      "tr": "En-Nûr"
     },
     "audio": "/audio/an-nur.mp3",
     "image": {
@@ -4257,6 +4350,7 @@
     }
   },
   {
+    "slug": "al-hadi",
     "id": 94,
     "name": {
       "ar": "",
@@ -4279,8 +4373,8 @@
     },
     "transliteration": {
       "fr": "Al-Hadi",
-      "en": "",
-      "tr": ""
+      "en": "Al-Hadi",
+      "tr": "El-Hâdî"
     },
     "audio": "/audio/al-hadi.mp3",
     "image": {
@@ -4308,6 +4402,7 @@
     }
   },
   {
+    "slug": "al-badi",
     "id": 95,
     "name": {
       "ar": "",
@@ -4330,8 +4425,8 @@
     },
     "transliteration": {
       "fr": "Al-Badi",
-      "en": "",
-      "tr": ""
+      "en": "Al-Badi",
+      "tr": "El-Badî"
     },
     "audio": "/audio/al-badi.mp3",
     "image": {
@@ -4348,6 +4443,7 @@
     }
   },
   {
+    "slug": "al-baqi",
     "id": 96,
     "name": {
       "ar": "",
@@ -4370,8 +4466,8 @@
     },
     "transliteration": {
       "fr": "Al-Baaqi",
-      "en": "",
-      "tr": ""
+      "en": "Al-Baqi",
+      "tr": "El-Bakî"
     },
     "audio": "/audio/al-baqi.mp3",
     "image": {
@@ -4385,6 +4481,7 @@
     "verset": {}
   },
   {
+    "slug": "al-warith",
     "id": 97,
     "name": {
       "ar": "الوارث",
@@ -4407,7 +4504,7 @@
     },
     "transliteration": {
       "fr": "Al-Warith",
-      "en": "",
+      "en": "Al-Warith",
       "tr": "El-Vâris"
     },
     "audio": "/audio/al-warith.mp3",
@@ -4428,6 +4525,7 @@
     }
   },
   {
+    "slug": "ar-rashid",
     "id": 98,
     "name": {
       "ar": "الرشيد",
@@ -4450,7 +4548,7 @@
     },
     "transliteration": {
       "fr": "Ar-Rasheed",
-      "en": "",
+      "en": "Ar-Rashid",
       "tr": "Er-Reşîd"
     },
     "audio": "/audio/ar-rashid.mp3",
@@ -4469,6 +4567,7 @@
     }
   },
   {
+    "slug": "as-sabur",
     "id": 99,
     "name": {
       "ar": "الصبور",
@@ -4491,7 +4590,7 @@
     },
     "transliteration": {
       "fr": "As-Sabur",
-      "en": "",
+      "en": "As-Sabur",
       "tr": "Es-Sabûr"
     },
     "audio": "/audio/as-sabur.mp3",

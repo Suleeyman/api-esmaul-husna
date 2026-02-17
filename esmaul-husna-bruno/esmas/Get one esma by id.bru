@@ -1,15 +1,16 @@
 meta {
-  name: Get one esma
+  name: Get one esma by id
   type: http
   seq: 3
 }
 
 get {
-  url: {{baseUrl}}/{{collection}}/35238f20-3cb7-11f0-81bf-6045cb6ed61f
+  url: {{baseUrl}}/{{collection}}/35
   body: none
   auth: inherit
 }
 
 settings {
   encodeUrl: true
+  timeout: 0
 }

@@ -9,8 +9,12 @@ client = TestClient(app)
 
 def test_read_main() -> None:
     response = client.get("/")
+    data = response.json()
+
     assert response.status_code == HTTPStatus.OK
-    assert response.json() == {
+    assert data == {
         "message": "API Esmaul Husna",
         "link": "https://github.com/Suleeyman/api-esmaul-husna",
+        "swagger": "/docs",
+        "redocly": "/redoc",
     }

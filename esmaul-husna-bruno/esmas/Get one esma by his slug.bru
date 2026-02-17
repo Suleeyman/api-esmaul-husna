@@ -1,0 +1,16 @@
+meta {
+  name: Get one esma by his slug
+  type: http
+  seq: 4
+}
+
+get {
+  url: {{baseUrl}}/{{collection}}/name/al-wali
+  body: none
+  auth: inherit
+}
+
+settings {
+  encodeUrl: true
+  timeout: 0
+}

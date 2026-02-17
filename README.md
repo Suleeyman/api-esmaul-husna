@@ -140,3 +140,8 @@ This project is licensed under the [MIT License](https://opensource.org/license/
 ## 💬 Feedback
 
 Have suggestions, feedback, or need support? Open an issue or start a discussion — we’d love to hear from you.
+
+## Commands
+
+Local test : `uv run pytest tests -v --durations=0 --cov --cov-report term-missing`
+Local run : `uv run fastapi run --reload`
