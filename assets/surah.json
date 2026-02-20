@@ -1,0 +1,1396 @@
+[
+  {
+    "number": 1,
+    "verses": 7,
+    "esma_ids": [1, 2, 3],
+    "ar": "الفاتحة",
+    "ar-enhanced": "ٱلْفَاتِحَةِ",
+    "name": {
+      "tr": "Açılış",
+      "fr": "L'ouverture",
+      "en": "The Opener"
+    }
+  },
+  {
+    "number": 2,
+    "verses": 286,
+    "esma_ids": [
+      1, 2, 3, 8, 11, 17, 19, 20, 21, 26, 27, 28, 31, 32, 33, 34, 35, 36, 45,
+      46, 53, 55, 56, 57, 60, 61, 62, 63, 66, 69, 80, 82, 83, 88, 94, 95, 98
+    ],
+    "ar": "البقرة",
+    "ar-enhanced": "ٱلْبَقَرَةِ",
+    "name": {
+      "tr": "İnek",
+      "fr": "La Vache",
+      "en": "The Cow"
+    }
+  },
+  {
+    "number": 3,
+    "verses": 200,
+    "esma_ids": [
+      2, 3, 8, 11, 13, 16, 17, 19, 26, 27, 31, 32, 33, 34, 40, 45, 46, 50, 52,
+      55, 60, 61, 62, 63, 69, 81, 82, 83, 84, 94, 97
+    ],
+    "ar": "آل عمران",
+    "ar-enhanced": "آلِ عِمْرَانَ",
+    "name": {
+      "tr": "İmran Ailesi",
+      "fr": "La Famille d'Imran",
+      "en": "The Family of Imran"
+    }
+  },
+  {
+    "number": 4,
+    "verses": 176,
+    "esma_ids": [
+      2, 8, 11, 19, 26, 27, 28, 31, 32, 35, 36, 37, 39, 40, 43, 45, 46, 50, 52,
+      55, 56, 66, 69, 80, 82, 88, 94
+    ],
+    "ar": "النساء",
+    "ar-enhanced": "ٱلنِّسَاءِ",
+    "name": {
+      "tr": "Kadınlar",
+      "fr": "Les Femmes",
+      "en": "The Women"
+    }
+  },
+  {
+    "number": 5,
+    "verses": 120,
+    "esma_ids": [
+      2, 3, 8, 11, 17, 19, 26, 31, 32, 34, 40, 43, 45, 46, 50, 55, 66, 69, 82,
+      93
+    ],
+    "ar": "المائدة",
+    "ar-enhanced": "ٱلْمَائِدَةِ",
+    "name": {
+      "tr": "Sofra",
+      "fr": "La Table Servie",
+      "en": "The Table Spread"
+    }
+  },
+  {
+    "number": 6,
+    "verses": 165,
+    "esma_ids": [
+      2, 8, 11, 19, 26, 30, 31, 34, 40, 46, 49, 50, 51, 52, 55, 60, 61, 66, 69,
+      88, 94, 95
+    ],
+    "ar": "الأنعام",
+    "ar-enhanced": "ٱلْأَنْعَامِ",
+    "name": {
+      "tr": "Hayvanlar",
+      "fr": "Les Bestiaux",
+      "en": "The Cattle"
+    }
+  },
+  {
+    "number": 7,
+    "verses": 206,
+    "esma_ids": [1, 2, 11, 17, 19, 26, 34, 46, 54, 55, 60, 61, 94],
+    "ar": "الأعراف",
+    "ar-enhanced": "ٱلْأَعْرَافِ",
+    "name": {
+      "tr": "Araf",
+      "fr": "Al-A'raf",
+      "en": "The Heights"
+    }
+  },
+  {
+    "number": 8,
+    "verses": 75,
+    "esma_ids": [2, 8, 17, 19, 26, 27, 34, 46, 53, 69],
+    "ar": "الأنفال",
+    "ar-enhanced": "ٱلْأَنْفَالِ",
+    "name": {
+      "tr": "Ganimetler",
+      "fr": "Le Butin",
+      "en": "The Spoils of War"
+    }
+  },
+  {
+    "number": 9,
+    "verses": 129,
+    "esma_ids": [2, 8, 19, 26, 34, 46, 50, 80, 83],
+    "ar": "التوبة",
+    "ar-enhanced": "ٱلتَّوْبَةِ",
+    "name": {
+      "tr": "Tevbe",
+      "fr": "Le Repentir",
+      "en": "The Repentance"
+    }
+  },
+  {
+    "number": 10,
+    "verses": 109,
+    "esma_ids": [2, 19, 26, 34, 46, 51, 60, 61, 88],
+    "ar": "يونس",
+    "ar-enhanced": "يُونُسَ",
+    "name": {
+      "tr": "Yunus",
+      "fr": "Jonas",
+      "en": "Jonah"
+    }
+  },
+  {
+    "number": 11,
+    "verses": 123,
+    "esma_ids": [2, 8, 17, 19, 31, 34, 38, 44, 46, 47, 48, 52, 53, 65, 69],
+    "ar": "هود",
+    "ar-enhanced": "هُودٍ",
+    "name": {
+      "tr": "Hud",
+      "fr": "Hud",
+      "en": "Hud"
+    }
+  },
+  {
+    "number": 12,
+    "verses": 111,
+    "esma_ids": [2, 19, 26, 30, 34, 38, 46, 50, 52],
+    "ar": "يوسف",
+    "ar-enhanced": "يُوسُفَ",
+    "name": {
+      "tr": "Yusuf",
+      "fr": "Joseph",
+      "en": "Joseph"
+    }
+  },
+  {
+    "number": 13,
+    "verses": 43,
+    "esma_ids": [1, 15, 37, 66, 78],
+    "ar": "الرعد",
+    "ar-enhanced": "ٱلرَّعْدِ",
+    "name": {
+      "tr": "Gök Gürültüsü",
+      "fr": "Le Tonnerre",
+      "en": "The Thunder"
+    }
+  },
+  {
+    "number": 14,
+    "verses": 52,
+    "esma_ids": [2, 8, 15, 26, 34, 46, 56, 57, 66, 88],
+    "ar": "ابراهيم",
+    "ar-enhanced": "إِبْرَاهِيمَ",
+    "name": {
+      "tr": "İbrahim",
+      "fr": "Abraham",
+      "en": "Abraham"
+    }
+  },
+  {
+    "number": 15,
+    "verses": 99,
+    "esma_ids": [2, 11, 19, 34, 46, 97],
+    "ar": "الحجر",
+    "ar-enhanced": "ٱلْحِجْرِ",
+    "name": {
+      "tr": "Hicr",
+      "fr": "Al-Hijr",
+      "en": "The Rocky Tract"
+    }
+  },
+  {
+    "number": 16,
+    "verses": 128,
+    "esma_ids": [2, 8, 11, 19, 34, 46, 66, 69, 83],
+    "ar": "النحل",
+    "ar-enhanced": "ٱلنَّحْلِ",
+    "name": {
+      "tr": "Arı",
+      "fr": "Les Abeilles",
+      "en": "The Bee"
+    }
+  },
+  {
+    "number": 17,
+    "verses": 111,
+    "esma_ids": [1, 2, 26, 27, 31, 32, 34, 37, 50, 52],
+    "ar": "الإسراء",
+    "ar-enhanced": "ٱلْإِسْرَاءِ",
+    "name": {
+      "tr": "İsra",
+      "fr": "Le Voyage Nocturne",
+      "en": "The Night Journey"
+    }
+  },
+  {
+    "number": 18,
+    "verses": 110,
+    "esma_ids": [57, 70, 98],
+    "ar": "الكهف",
+    "ar-enhanced": "ٱلْكَهْفِ",
+    "name": {
+      "tr": "Mağara",
+      "fr": "La Caverne",
+      "en": "The Cave"
+    }
+  },
+  {
+    "number": 19,
+    "verses": 98,
+    "esma_ids": [1],
+    "ar": "مريم",
+    "ar-enhanced": "مَرْيَمَ",
+    "name": {
+      "tr": "Meryem",
+      "fr": "Marie",
+      "en": "Mary"
+    }
+  },
+  {
+    "number": 20,
+    "verses": 135,
+    "esma_ids": [1, 3, 14, 34, 62, 63, 94],
+    "ar": "طه",
+    "ar-enhanced": "طه",
+    "name": {
+      "tr": "Ta-Ha",
+      "fr": "Ta-Ha",
+      "en": "Ta-Ha"
+    }
+  },
+  {
+    "number": 21,
+    "verses": 112,
+    "esma_ids": [1, 2, 19, 26, 40, 97],
+    "ar": "الأنبياء",
+    "ar-enhanced": "ٱلْأَنْبِيَاءِ",
+    "name": {
+      "tr": "Peygamberler",
+      "fr": "Les Prophètes",
+      "en": "The Prophets"
+    }
+  },
+  {
+    "number": 22,
+    "verses": 78,
+    "esma_ids": [
+      2, 8, 17, 19, 26, 27, 30, 31, 32, 34, 36, 37, 46, 50, 51, 53, 56, 69, 78,
+      82, 83, 88
+    ],
+    "ar": "الحج",
+    "ar-enhanced": "ٱلْحَجِّ",
+    "name": {
+      "tr": "Hac",
+      "fr": "Le Pèlerinage",
+      "en": "The Pilgrimage"
+    }
+  },
+  {
+    "number": 23,
+    "verses": 118,
+    "esma_ids": [3, 11, 17, 51, 69],
+    "ar": "المؤمنون",
+    "ar-enhanced": "ٱلْمُؤْمِنُونَ",
+    "name": {
+      "tr": "Müminler",
+      "fr": "Les Croyants",
+      "en": "The Believers"
+    }
+  },
+  {
+    "number": 24,
+    "verses": 64,
+    "esma_ids": [2, 11, 17, 19, 26, 31, 34, 46, 51, 69, 80, 83, 84, 93],
+    "ar": "النور",
+    "ar-enhanced": "ٱلنُّورِ",
+    "name": {
+      "tr": "Nur",
+      "fr": "La Lumière",
+      "en": "The Light"
+    }
+  },
+  {
+    "number": 25,
+    "verses": 77,
+    "esma_ids": [1, 2, 11, 19, 27, 31, 34, 62, 69],
+    "ar": "الفرقان",
+    "ar-enhanced": "ٱلْفُرْقَانِ",
+    "name": {
+      "tr": "Furkan",
+      "fr": "Le Discernement",
+      "en": "The Criterion"
+    }
+  },
+  {
+    "number": 26,
+    "verses": 227,
+    "esma_ids": [1, 2, 8, 19, 26],
+    "ar": "الشعراء",
+    "ar-enhanced": "ٱلشُّعَرَاءِ",
+    "name": {
+      "tr": "Şairler",
+      "fr": "Les Poètes",
+      "en": "The Poets"
+    }
+  },
+  {
+    "number": 27,
+    "verses": 93,
+    "esma_ids": [1, 2, 8, 11, 19, 31, 34, 42, 46, 78, 88],
+    "ar": "النمل",
+    "ar-enhanced": "ٱلنَّمْلِ",
+    "name": {
+      "tr": "Karıncalar",
+      "fr": "Les Fourmis",
+      "en": "The Ant"
+    }
+  },
+  {
+    "number": 28,
+    "verses": 88,
+    "esma_ids": [2, 34, 52, 53, 97],
+    "ar": "القصص",
+    "ar-enhanced": "ٱلْقَصَصِ",
+    "name": {
+      "tr": "Kasas",
+      "fr": "Les Récits",
+      "en": "The Stories"
+    }
+  },
+  {
+    "number": 29,
+    "verses": 69,
+    "esma_ids": [8, 11, 17, 19, 26, 46, 50, 69, 88],
+    "ar": "العنكبوت",
+    "ar-enhanced": "ٱلْعَنكَبُوتِ",
+    "name": {
+      "tr": "Örümcek",
+      "fr": "L'Araignée",
+      "en": "The Spider"
+    }
+  },
+  {
+    "number": 30,
+    "verses": 60,
+    "esma_ids": [2, 8, 11, 17, 19, 46, 60, 61, 69],
+    "ar": "الروم",
+    "ar-enhanced": "ٱلرُّومِ",
+    "name": {
+      "tr": "Rumlar",
+      "fr": "Les Romains",
+      "en": "The Romans"
+    }
+  },
+  {
+    "number": 31,
+    "verses": 34,
+    "esma_ids": [8, 11, 19, 26, 27, 30, 31, 37, 46, 51, 56, 88],
+    "ar": "لقمان",
+    "ar-enhanced": "لُقْمَانَ",
+    "name": {
+      "tr": "Lokman",
+      "fr": "Luqman",
+      "en": "Luqman"
+    }
+  },
+  {
+    "number": 32,
+    "verses": 30,
+    "esma_ids": [2, 8, 11, 19],
+    "ar": "السجدة",
+    "ar-enhanced": "ٱلسَّجْدَةِ",
+    "name": {
+      "tr": "Secde",
+      "fr": "La Prosternation",
+      "en": "The Prostration"
+    }
+  },
+  {
+    "number": 33,
+    "verses": 73,
+    "esma_ids": [2, 8, 19, 27, 30, 31, 32, 34, 40, 43, 46, 50, 52, 53, 69],
+    "ar": "الأحزاب",
+    "ar-enhanced": "ٱلْأَحْزَابِ",
+    "name": {
+      "tr": "Ahzab",
+      "fr": "Les Coalisés",
+      "en": "The Combined Forces"
+    }
+  },
+  {
+    "number": 34,
+    "verses": 54,
+    "esma_ids": [2, 8, 17, 18, 19, 26, 27, 31, 34, 36, 37, 38, 46, 50, 56],
+    "ar": "سبأ",
+    "ar-enhanced": "سَبَإٍ",
+    "name": {
+      "tr": "Sebe",
+      "fr": "Saba",
+      "en": "Sheba"
+    }
+  },
+  {
+    "number": 35,
+    "verses": 45,
+    "esma_ids": [8, 11, 17, 19, 27, 31, 32, 34, 35, 46, 56, 60, 69, 88],
+    "ar": "فاطر",
+    "ar-enhanced": "فَاطِرٍ",
+    "name": {
+      "tr": "Fatır",
+      "fr": "Le Créateur",
+      "en": "Originator"
+    }
+  },
+  {
+    "number": 36,
+    "verses": 83,
+    "esma_ids": [1, 2, 5, 8, 11, 17, 19, 57, 60, 69],
+    "ar": "يس",
+    "ar-enhanced": "يس",
+    "name": {
+      "tr": "Yasin",
+      "fr": "Ya-Sin",
+      "en": "Ya-Sin"
+    }
+  },
+  {
+    "number": 37,
+    "verses": 182,
+    "esma_ids": [5, 11, 66, 73, 94],
+    "ar": "الصافات",
+    "ar-enhanced": "ٱلصَّافَّاتِ",
+    "name": {
+      "tr": "Saffat",
+      "fr": "Les Rangés",
+      "en": "Those Who Set The Ranks"
+    }
+  },
+  {
+    "number": 38,
+    "verses": 88,
+    "esma_ids": [8, 11, 14, 15, 16, 34, 51, 66],
+    "ar": "ص",
+    "ar-enhanced": "ص",
+    "name": {
+      "tr": "Sad",
+      "fr": "Sad",
+      "en": "Sad"
+    }
+  },
+  {
+    "number": 39,
+    "verses": 75,
+    "esma_ids": [2, 8, 11, 14, 15, 17, 19, 34, 46, 52, 66, 93, 94],
+    "ar": "الزمر",
+    "ar-enhanced": "ٱلزُّمَرِ",
+    "name": {
+      "tr": "Zümer",
+      "fr": "Les Groupes",
+      "en": "The Groups"
+    }
+  },
+  {
+    "number": 40,
+    "verses": 85,
+    "esma_ids": [
+      8, 11, 14, 15, 17, 19, 26, 27, 34, 36, 37, 40, 46, 51, 53, 60, 61, 62, 66
+    ],
+    "ar": "غافر",
+    "ar-enhanced": "غَافِرٍ",
+    "name": {
+      "tr": "Gafir",
+      "fr": "Le Pardonneur",
+      "en": "The Forgiver"
+    }
+  },
+  {
+    "number": 41,
+    "verses": 54,
+    "esma_ids": [1, 2, 8, 11, 19, 26, 27, 34, 46, 50, 56, 69],
+    "ar": "فصلت",
+    "ar-enhanced": "فُصِّلَتْ",
+    "name": {
+      "tr": "Fussilet",
+      "fr": "Les Versets Détaillés",
+      "en": "Explained in Detail"
+    }
+  },
+  {
+    "number": 42,
+    "verses": 53,
+    "esma_ids": [
+      2, 8, 11, 17, 19, 26, 27, 30, 31, 33, 34, 35, 36, 38, 46, 53, 55, 56, 60,
+      69, 78, 82
+    ],
+    "ar": "الشورى",
+    "ar-enhanced": "ٱلشُّورَىٰ",
+    "name": {
+      "tr": "Şura",
+      "fr": "La Consultation",
+      "en": "The Consultation"
+    }
+  },
+  {
+    "number": 43,
+    "verses": 89,
+    "esma_ids": [1, 3, 8, 11, 19, 46, 81, 94],
+    "ar": "الزخرف",
+    "ar-enhanced": "ٱلزُّخْرُفِ",
+    "name": {
+      "tr": "Zuhruf",
+      "fr": "L'Ornement",
+      "en": "The Ornaments of Gold"
+    }
+  },
+  {
+    "number": 44,
+    "verses": 59,
+    "esma_ids": [2, 8, 19, 26, 60, 61, 81],
+    "ar": "الدخان",
+    "ar-enhanced": "ٱلدُّخَانِ",
+    "name": {
+      "tr": "Duhan",
+      "fr": "La Fumée",
+      "en": "The Smoke"
+    }
+  },
+  {
+    "number": 45,
+    "verses": 37,
+    "esma_ids": [3, 8, 11, 17, 37, 46, 55, 60, 61],
+    "ar": "الجاثية",
+    "ar-enhanced": "ٱلْجَاثِيَةِ",
+    "name": {
+      "tr": "Casiye",
+      "fr": "L'Agenouillée",
+      "en": "The Kneeling"
+    }
+  },
+  {
+    "number": 46,
+    "verses": 35,
+    "esma_ids": [2, 8, 11, 34, 46, 60, 69],
+    "ar": "الأحقاف",
+    "ar-enhanced": "ٱلْأَحْقَافِ",
+    "name": {
+      "tr": "Ahkaf",
+      "fr": "Al-Ahqaf",
+      "en": "The Wind-Curved Sandhills"
+    }
+  },
+  {
+    "number": 47,
+    "verses": 38,
+    "esma_ids": [19, 34, 55, 88],
+    "ar": "محمد",
+    "ar-enhanced": "مُحَمَّدٌ",
+    "name": {
+      "tr": "Muhammed",
+      "fr": "Muhammad",
+      "en": "Muhammad"
+    }
+  },
+  {
+    "number": 48,
+    "verses": 29,
+    "esma_ids": [2, 3, 8, 19, 27, 31, 34, 46, 50, 69],
+    "ar": "الفتح",
+    "ar-enhanced": "ٱلْفَتْحِ",
+    "name": {
+      "tr": "Fetih",
+      "fr": "La Victoire Éclatante",
+      "en": "The Victory"
+    }
+  },
+  {
+    "number": 49,
+    "verses": 18,
+    "esma_ids": [2, 11, 19, 26, 27, 31, 34, 46, 80],
+    "ar": "الحجرات",
+    "ar-enhanced": "ٱلْحُجُرَاتِ",
+    "name": {
+      "tr": "Hucurat",
+      "fr": "Les Appartements",
+      "en": "The Rooms"
+    }
+  },
+  {
+    "number": 50,
+    "verses": 45,
+    "esma_ids": [1, 11, 19, 60, 61],
+    "ar": "ق",
+    "ar-enhanced": "ق",
+    "name": {
+      "tr": "Kaf",
+      "fr": "Qaf",
+      "en": "Qaf"
+    }
+  },
+  {
+    "number": 51,
+    "verses": 60,
+    "esma_ids": [11, 17, 19, 46, 53, 54],
+    "ar": "الذاريات",
+    "ar-enhanced": "ٱلذَّارِيَاتِ",
+    "name": {
+      "tr": "Zariyat",
+      "fr": "Qui Éparpillent",
+      "en": "The Winnowing Winds"
+    }
+  },
+  {
+    "number": 52,
+    "verses": 49,
+    "esma_ids": [2, 79],
+    "ar": "الطور",
+    "ar-enhanced": "ٱلطُّورِ",
+    "name": {
+      "tr": "Tur",
+      "fr": "Le Mont",
+      "en": "The Mount"
+    }
+  },
+  {
+    "number": 53,
+    "verses": 62,
+    "esma_ids": [11, 19, 34, 60, 61],
+    "ar": "النجم",
+    "ar-enhanced": "ٱلنَّجْمِ",
+    "name": {
+      "tr": "Necm",
+      "fr": "L'Étoile",
+      "en": "The Star"
+    }
+  },
+  {
+    "number": 54,
+    "verses": 55,
+    "esma_ids": [3, 8, 11, 70],
+    "ar": "القمر",
+    "ar-enhanced": "ٱلْقَمَرِ",
+    "name": {
+      "tr": "Kamer",
+      "fr": "La Lune",
+      "en": "The Moon"
+    }
+  },
+  {
+    "number": 55,
+    "verses": 78,
+    "esma_ids": [1, 11, 33, 85],
+    "ar": "الرحمن",
+    "ar-enhanced": "ٱلرَّحْمَٰنِ",
+    "name": {
+      "tr": "Rahman",
+      "fr": "Le Tout Miséricordieux",
+      "en": "The Most Merciful"
+    }
+  },
+  {
+    "number": 56,
+    "verses": 96,
+    "esma_ids": [11, 61],
+    "ar": "الواقعة",
+    "ar-enhanced": "ٱلْوَاقِعَةِ",
+    "name": {
+      "tr": "Vakıa",
+      "fr": "L'Événement",
+      "en": "The Inevitable"
+    }
+  },
+  {
+    "number": 57,
+    "verses": 29,
+    "esma_ids": [
+      2, 3, 8, 11, 19, 27, 31, 33, 34, 46, 53, 54, 56, 61, 69, 73, 74, 75, 76,
+      83, 88, 97
+    ],
+    "ar": "الحديد",
+    "ar-enhanced": "ٱلْحَدِيدِ",
+    "name": {
+      "tr": "Hadid",
+      "fr": "Le Fer",
+      "en": "The Iron"
+    }
+  },
+  {
+    "number": 58,
+    "verses": 22,
+    "esma_ids": [2, 8, 19, 26, 27, 31, 34, 50, 53, 82],
+    "ar": "المجادلة",
+    "ar-enhanced": "ٱلْمُجَادِلَةِ",
+    "name": {
+      "tr": "Mücadele",
+      "fr": "La Discussion",
+      "en": "The Pleading Woman"
+    }
+  },
+  {
+    "number": 59,
+    "verses": 24,
+    "esma_ids": [2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 19, 31, 46, 69, 83],
+    "ar": "الحشر",
+    "ar-enhanced": "ٱلْحَشْرِ",
+    "name": {
+      "tr": "Haşr",
+      "fr": "L'Exode",
+      "en": "The Exile"
+    }
+  },
+  {
+    "number": 60,
+    "verses": 13,
+    "esma_ids": [2, 8, 19, 27, 34, 46, 56, 69, 88],
+    "ar": "الممتحنة",
+    "ar-enhanced": "ٱلْمُمْتَحَنَةِ",
+    "name": {
+      "tr": "Mümtehine",
+      "fr": "L'Éprouvée",
+      "en": "She That Is To Be Examined"
+    }
+  },
+  {
+    "number": 61,
+    "verses": 14,
+    "esma_ids": [8, 34, 46, 93, 94],
+    "ar": "الصف",
+    "ar-enhanced": "ٱلصَّفِّ",
+    "name": {
+      "tr": "Saff",
+      "fr": "Le Rang",
+      "en": "The Ranks"
+    }
+  },
+  {
+    "number": 62,
+    "verses": 11,
+    "esma_ids": [3, 4, 8, 17, 19, 33, 46, 49],
+    "ar": "الجمعة",
+    "ar-enhanced": "ٱلْجُمُعَةِ",
+    "name": {
+      "tr": "Cuma",
+      "fr": "Le Vendredi",
+      "en": "The Congregation"
+    }
+  },
+  {
+    "number": 63,
+    "verses": 11,
+    "esma_ids": [19, 31, 34, 50],
+    "ar": "المنافقون",
+    "ar-enhanced": "ٱلْمُنَافِقُونَ",
+    "name": {
+      "tr": "Münafikun",
+      "fr": "Les Hypocrites",
+      "en": "The Hypocrites"
+    }
+  },
+  {
+    "number": 64,
+    "verses": 18,
+    "esma_ids": [2, 3, 8, 11, 13, 19, 27, 31, 34, 46, 56, 69, 88, 94],
+    "ar": "التغابن",
+    "ar-enhanced": "ٱلتَّغَابُنِ",
+    "name": {
+      "tr": "Tegabun",
+      "fr": "La Grande Perte",
+      "en": "Mutual Disillusion"
+    }
+  },
+  {
+    "number": 65,
+    "verses": 12,
+    "esma_ids": [11, 17, 19, 69],
+    "ar": "الطلاق",
+    "ar-enhanced": "ٱلطَّلَاقِ",
+    "name": {
+      "tr": "Talak",
+      "fr": "Le Divorce",
+      "en": "The Divorce"
+    }
+  },
+  {
+    "number": 66,
+    "verses": 12,
+    "esma_ids": [2, 19, 31, 34, 46, 69, 93],
+    "ar": "التحريم",
+    "ar-enhanced": "ٱلتَّحْرِيمِ",
+    "name": {
+      "tr": "Tahrim",
+      "fr": "L'Interdiction",
+      "en": "The Prohibition"
+    }
+  },
+  {
+    "number": 67,
+    "verses": 30,
+    "esma_ids": [1, 3, 8, 11, 17, 19, 27, 30, 31, 34, 69],
+    "ar": "الملك",
+    "ar-enhanced": "ٱلْمُلْكِ",
+    "name": {
+      "tr": "Mülk",
+      "fr": "La Royauté",
+      "en": "The Sovereignty"
+    }
+  },
+  {
+    "number": 68,
+    "verses": 52,
+    "esma_ids": [19, 54],
+    "ar": "القلم",
+    "ar-enhanced": "ٱلْقَلَمِ",
+    "name": {
+      "tr": "Kalem",
+      "fr": "La Plume",
+      "en": "The Pen"
+    }
+  },
+  {
+    "number": 69,
+    "verses": 52,
+    "esma_ids": [33],
+    "ar": "الحاقة",
+    "ar-enhanced": "ٱلْحَاقَّةِ",
+    "name": {
+      "tr": "Hakka",
+      "fr": "L'Inévitable",
+      "en": "The Reality"
+    }
+  },
+  {
+    "number": 70,
+    "verses": 44,
+    "esma_ids": [11, 69],
+    "ar": "المعارج",
+    "ar-enhanced": "ٱلْمَعَارِجِ",
+    "name": {
+      "tr": "Mearic",
+      "fr": "Les Voies d'Ascension",
+      "en": "The Ascending Stairways"
+    }
+  },
+  {
+    "number": 71,
+    "verses": 28,
+    "esma_ids": [11, 14, 34],
+    "ar": "نوح",
+    "ar-enhanced": "نُوحٍ",
+    "name": {
+      "tr": "Nuh",
+      "fr": "Noé",
+      "en": "Noah"
+    }
+  },
+  {
+    "number": 72,
+    "verses": 28,
+    "esma_ids": [57, 98],
+    "ar": "الجن",
+    "ar-enhanced": "ٱلْجِنِّ",
+    "name": {
+      "tr": "Cin",
+      "fr": "Les Djinns",
+      "en": "The Jinn"
+    }
+  },
+  {
+    "number": 73,
+    "verses": 20,
+    "esma_ids": [2, 34, 52],
+    "ar": "المزمل",
+    "ar-enhanced": "ٱلْمُزَّمِّلِ",
+    "name": {
+      "tr": "Müzzemmil",
+      "fr": "L'Enveloppé",
+      "en": "The Enshrouded One"
+    }
+  },
+  {
+    "number": 74,
+    "verses": 56,
+    "esma_ids": [11, 34],
+    "ar": "المدثر",
+    "ar-enhanced": "ٱلْمُدَّثِّرِ",
+    "name": {
+      "tr": "Müddessir",
+      "fr": "Le Revêtu d'un Manteau",
+      "en": "The Cloaked One"
+    }
+  },
+  {
+    "number": 75,
+    "verses": 40,
+    "esma_ids": [11, 60, 69],
+    "ar": "القيامة",
+    "ar-enhanced": "ٱلْقِيَامَةِ",
+    "name": {
+      "tr": "Kıyamet",
+      "fr": "La Résurrection",
+      "en": "The Resurrection"
+    }
+  },
+  {
+    "number": 76,
+    "verses": 31,
+    "esma_ids": [11, 19, 46, 94],
+    "ar": "الإنسان",
+    "ar-enhanced": "ٱلْإِنسَانِ",
+    "name": {
+      "tr": "İnsan",
+      "fr": "L'Homme",
+      "en": "Man"
+    }
+  },
+  {
+    "number": 77,
+    "verses": 50,
+    "esma_ids": [11, 69],
+    "ar": "المرسلات",
+    "ar-enhanced": "ٱلْمُرْسَلَاتِ",
+    "name": {
+      "tr": "Mürselat",
+      "fr": "Les Envoyés",
+      "en": "The Emissaries"
+    }
+  },
+  {
+    "number": 78,
+    "verses": 40,
+    "esma_ids": [1, 11, 57],
+    "ar": "النبأ",
+    "ar-enhanced": "ٱلنَّبَإِ",
+    "name": {
+      "tr": "Nebe",
+      "fr": "La Nouvelle",
+      "en": "The Tidings"
+    }
+  },
+  {
+    "number": 79,
+    "verses": 46,
+    "esma_ids": [],
+    "ar": "النازعات",
+    "ar-enhanced": "ٱلنَّازِعَاتِ",
+    "name": {
+      "tr": "Naziat",
+      "fr": "Les Anges Qui Arrachent",
+      "en": "Those Who Drag Forth"
+    }
+  },
+  {
+    "number": 80,
+    "verses": 42,
+    "esma_ids": [11, 50, 61],
+    "ar": "عبس",
+    "ar-enhanced": "عَبَسَ",
+    "name": {
+      "tr": "Abese",
+      "fr": "Il s'est Renfrogné",
+      "en": "He Frowned"
+    }
+  },
+  {
+    "number": 81,
+    "verses": 29,
+    "esma_ids": [],
+    "ar": "التكوير",
+    "ar-enhanced": "ٱلتَّكْوِيرِ",
+    "name": {
+      "tr": "Tekvir",
+      "fr": "L'Obscurcissement",
+      "en": "The Overthrowing"
+    }
+  },
+  {
+    "number": 82,
+    "verses": 19,
+    "esma_ids": [11, 42],
+    "ar": "الانفطار",
+    "ar-enhanced": "ٱلْإِنفِطَارِ",
+    "name": {
+      "tr": "İnfitar",
+      "fr": "La Rupture",
+      "en": "The Cleaving"
+    }
+  },
+  {
+    "number": 83,
+    "verses": 36,
+    "esma_ids": [],
+    "ar": "المطففين",
+    "ar-enhanced": "ٱلْمُطَفِّفِينَ",
+    "name": {
+      "tr": "Mutaffifin",
+      "fr": "Les Fraudeurs",
+      "en": "Defrauding"
+    }
+  },
+  {
+    "number": 84,
+    "verses": 25,
+    "esma_ids": [],
+    "ar": "الانشقاق",
+    "ar-enhanced": "ٱلْإِنشِقَاقِ",
+    "name": {
+      "tr": "İnşikak",
+      "fr": "La Déchirure",
+      "en": "The Splitting Open"
+    }
+  },
+  {
+    "number": 85,
+    "verses": 22,
+    "esma_ids": [3, 34, 47, 48, 58, 59],
+    "ar": "البروج",
+    "ar-enhanced": "ٱلْبُرُوجِ",
+    "name": {
+      "tr": "Buruc",
+      "fr": "Les Constellations",
+      "en": "The Mansions of the Stars"
+    }
+  },
+  {
+    "number": 86,
+    "verses": 17,
+    "esma_ids": [11, 69],
+    "ar": "الطارق",
+    "ar-enhanced": "ٱلطَّارِقِ",
+    "name": {
+      "tr": "Tarık",
+      "fr": "L'Astre Nocturne",
+      "en": "The Nightcomer"
+    }
+  },
+  {
+    "number": 87,
+    "verses": 19,
+    "esma_ids": [11, 19, 36, 69, 94],
+    "ar": "الأعلى",
+    "ar-enhanced": "ٱلْأَعْلَىٰ",
+    "name": {
+      "tr": "Ala",
+      "fr": "Le Très-Haut",
+      "en": "The Most High"
+    }
+  },
+  {
+    "number": 88,
+    "verses": 26,
+    "esma_ids": [11, 23, 40],
+    "ar": "الغاشية",
+    "ar-enhanced": "ٱلْغَاشِيَةِ",
+    "name": {
+      "tr": "Gaşiye",
+      "fr": "L'Enveloppante",
+      "en": "The Overwhelming"
+    }
+  },
+  {
+    "number": 89,
+    "verses": 30,
+    "esma_ids": [11],
+    "ar": "الفجر",
+    "ar-enhanced": "ٱلْفَجْرِ",
+    "name": {
+      "tr": "Fecr",
+      "fr": "L'Aube",
+      "en": "The Dawn"
+    }
+  },
+  {
+    "number": 90,
+    "verses": 20,
+    "esma_ids": [11],
+    "ar": "البلد",
+    "ar-enhanced": "ٱلْبَلَدِ",
+    "name": {
+      "tr": "Beled",
+      "fr": "La Cité",
+      "en": "The City"
+    }
+  },
+  {
+    "number": 91,
+    "verses": 15,
+    "esma_ids": [],
+    "ar": "الشمس",
+    "ar-enhanced": "ٱلشَّمْسِ",
+    "name": {
+      "tr": "Şems",
+      "fr": "Le Soleil",
+      "en": "The Sun"
+    }
+  },
+  {
+    "number": 92,
+    "verses": 21,
+    "esma_ids": [11, 78],
+    "ar": "الليل",
+    "ar-enhanced": "ٱلَّيْلِ",
+    "name": {
+      "tr": "Leyl",
+      "fr": "La Nuit",
+      "en": "The Night"
+    }
+  },
+  {
+    "number": 93,
+    "verses": 11,
+    "esma_ids": [],
+    "ar": "الضحى",
+    "ar-enhanced": "ٱلضُّحَىٰ",
+    "name": {
+      "tr": "Duha",
+      "fr": "Le Jour Montant",
+      "en": "The Morning Hours"
+    }
+  },
+  {
+    "number": 94,
+    "verses": 8,
+    "esma_ids": [],
+    "ar": "الشرح",
+    "ar-enhanced": "ٱلشَّرْحِ",
+    "name": {
+      "tr": "İnşirah",
+      "fr": "L'Ouverture",
+      "en": "The Relief"
+    }
+  },
+  {
+    "number": 95,
+    "verses": 8,
+    "esma_ids": [11, 46],
+    "ar": "التين",
+    "ar-enhanced": "ٱلتِّينِ",
+    "name": {
+      "tr": "Tin",
+      "fr": "Le Figuier",
+      "en": "The Fig"
+    }
+  },
+  {
+    "number": 96,
+    "verses": 19,
+    "esma_ids": [11, 42],
+    "ar": "العلق",
+    "ar-enhanced": "ٱلْعَلَقِ",
+    "name": {
+      "tr": "Alak",
+      "fr": "L'Adhérence",
+      "en": "The Clot"
+    }
+  },
+  {
+    "number": 97,
+    "verses": 5,
+    "esma_ids": [],
+    "ar": "القدر",
+    "ar-enhanced": "ٱلْقَدْرِ",
+    "name": {
+      "tr": "Kadir",
+      "fr": "La Destinée",
+      "en": "The Power"
+    }
+  },
+  {
+    "number": 98,
+    "verses": 8,
+    "esma_ids": [],
+    "ar": "البينة",
+    "ar-enhanced": "ٱلْبَيِّنَةِ",
+    "name": {
+      "tr": "Beyyine",
+      "fr": "La Preuve",
+      "en": "The Clear Proof"
+    }
+  },
+  {
+    "number": 99,
+    "verses": 8,
+    "esma_ids": [],
+    "ar": "الزلزلة",
+    "ar-enhanced": "ٱلزَّلْزَلَةِ",
+    "name": {
+      "tr": "Zilzal",
+      "fr": "La Secousse",
+      "en": "The Earthquake"
+    }
+  },
+  {
+    "number": 100,
+    "verses": 11,
+    "esma_ids": [31],
+    "ar": "العاديات",
+    "ar-enhanced": "ٱلْعَادِيَاتِ",
+    "name": {
+      "tr": "Adiyat",
+      "fr": "Les Coursiers",
+      "en": "The Courser"
+    }
+  },
+  {
+    "number": 101,
+    "verses": 11,
+    "esma_ids": [],
+    "ar": "القارعة",
+    "ar-enhanced": "ٱلْقَارِعَةِ",
+    "name": {
+      "tr": "Karia",
+      "fr": "Le Fracas",
+      "en": "The Calamity"
+    }
+  },
+  {
+    "number": 102,
+    "verses": 8,
+    "esma_ids": [],
+    "ar": "التكاثر",
+    "ar-enhanced": "ٱلتَّكَاثُرِ",
+    "name": {
+      "tr": "Tekasür",
+      "fr": "La Course aux Richesses",
+      "en": "Rivalry in Worldly Increase"
+    }
+  },
+  {
+    "number": 103,
+    "verses": 3,
+    "esma_ids": [],
+    "ar": "العصر",
+    "ar-enhanced": "ٱلْعَصْرِ",
+    "name": {
+      "tr": "Asr",
+      "fr": "Le Temps",
+      "en": "The Declining Day"
+    }
+  },
+  {
+    "number": 104,
+    "verses": 9,
+    "esma_ids": [],
+    "ar": "الهمزة",
+    "ar-enhanced": "ٱلْهُمَزَةِ",
+    "name": {
+      "tr": "Hümeze",
+      "fr": "Les Calomniateurs",
+      "en": "The Traducer"
+    }
+  },
+  {
+    "number": 105,
+    "verses": 5,
+    "esma_ids": [],
+    "ar": "الفيل",
+    "ar-enhanced": "ٱلْفِيلِ",
+    "name": {
+      "tr": "Fil",
+      "fr": "L'Éléphant",
+      "en": "The Elephant"
+    }
+  },
+  {
+    "number": 106,
+    "verses": 4,
+    "esma_ids": [],
+    "ar": "قريش",
+    "ar-enhanced": "قُرَيْشٍ",
+    "name": {
+      "tr": "Kureyş",
+      "fr": "Quraysh",
+      "en": "Quraysh"
+    }
+  },
+  {
+    "number": 107,
+    "verses": 7,
+    "esma_ids": [],
+    "ar": "الماعون",
+    "ar-enhanced": "ٱلْمَاعُونِ",
+    "name": {
+      "tr": "Maun",
+      "fr": "L'Ustensile",
+      "en": "Small Kindnesses"
+    }
+  },
+  {
+    "number": 108,
+    "verses": 3,
+    "esma_ids": [],
+    "ar": "الكوثر",
+    "ar-enhanced": "ٱلْكَوْثَرِ",
+    "name": {
+      "tr": "Kevser",
+      "fr": "L'Abondance",
+      "en": "Abundance"
+    }
+  },
+  {
+    "number": 109,
+    "verses": 6,
+    "esma_ids": [],
+    "ar": "الكافرون",
+    "ar-enhanced": "ٱلْكَافِرُونَ",
+    "name": {
+      "tr": "Kafirun",
+      "fr": "Les Mécréants",
+      "en": "The Disbelievers"
+    }
+  },
+  {
+    "number": 110,
+    "verses": 3,
+    "esma_ids": [34, 80],
+    "ar": "النصر",
+    "ar-enhanced": "ٱلنَّصْرِ",
+    "name": {
+      "tr": "Nasr",
+      "fr": "Le Secours",
+      "en": "Divine Support"
+    }
+  },
+  {
+    "number": 111,
+    "verses": 5,
+    "esma_ids": [],
+    "ar": "المسد",
+    "ar-enhanced": "ٱلْمَسَدِ",
+    "name": {
+      "tr": "Mesed",
+      "fr": "Les Fibres",
+      "en": "The Palm Fiber"
+    }
+  },
+  {
+    "number": 112,
+    "verses": 4,
+    "esma_ids": [67, 68],
+    "ar": "الإخلاص",
+    "ar-enhanced": "ٱلْإِخْلَاصِ",
+    "name": {
+      "tr": "İhlas",
+      "fr": "La Sincérité",
+      "en": "Sincerity"
+    }
+  },
+  {
+    "number": 113,
+    "verses": 5,
+    "esma_ids": [],
+    "ar": "الفلق",
+    "ar-enhanced": "ٱلْفَلَقِ",
+    "name": {
+      "tr": "Felak",
+      "fr": "L'Aube Naissante",
+      "en": "The Daybreak"
+    }
+  },
+  {
+    "number": 114,
+    "verses": 6,
+    "esma_ids": [3],
+    "ar": "الناس",
+    "ar-enhanced": "ٱلنَّاسِ",
+    "name": {
+      "tr": "Nas",
+      "fr": "Les Hommes",
+      "en": "Mankind"
+    }
+  }
+]

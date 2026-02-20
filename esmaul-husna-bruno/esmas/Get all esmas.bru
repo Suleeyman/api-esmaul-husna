@@ -5,11 +5,18 @@ meta {
 }
 
 get {
-  url: {{baseUrl}}/{{collection}}
+  url: {{baseUrl}}/{{collection}}?limit=20&lg=en&page=100
   body: none
   auth: inherit
 }
 
+params:query {
+  limit: 20
+  lg: en
+  page: 100
+}
+
 settings {
   encodeUrl: true
+  timeout: 0
 }

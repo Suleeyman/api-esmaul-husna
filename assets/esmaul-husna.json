@@ -2,9 +2,9 @@
   {
     "slug": "ar-rahman",
     "id": 1,
+    "ar": "الرحمن",
+    "ar-enhanced": "الرَّحْمنُ",
     "name": {
-      "ar": "الرحمن",
-      "ar-enhanced": "الرَّحْمنُ",
       "fr": "Le Tout-Miséricordieux",
       "en": "The Most Merciful",
       "tr": "Çok rahmet sahibi"
@@ -22,10 +22,14 @@
       }
     },
     "transliteration": {
-      "fr": "Ar-Rahman",
-      "en": "Ar-Rahman",
-      "tr": "Er-Rahmân"
+      "iso": "Ar-Raḥmān",
+      "popular": {
+        "en": "Ar-Rahman",
+        "fr": "Ar-Rahman",
+        "tr": "Er-Rahmân"
+      }
     },
+    "ipa": "/ar.raħˈmaːn/",
     "audio": "/audio/ar-rahman.mp3",
     "image": {
       "png": {
@@ -35,7 +39,7 @@
       },
       "svg": "/images/rahman/rahman.svg"
     },
-    "verset": {
+    "verse": {
       "1": [2],
       "2": [163],
       "7": [156],
@@ -59,9 +63,9 @@
   {
     "slug": "ar-raheem",
     "id": 2,
+    "ar": "الرحيم",
+    "ar-enhanced": "ٱلْرَّحِيْمُ",
     "name": {
-      "ar": "الرحيم",
-      "ar-enhanced": "ٱلْرَّحِيْمُ",
       "fr": "Le Miséricordieux",
       "en": "The Especially Merciful",
       "tr": "Çok merhamet edici"
@@ -79,10 +83,15 @@
       }
     },
     "transliteration": {
-      "fr": "Ar-Raheem",
-      "en": "Ar-Raheem",
-      "tr": "Er-Rahîm"
+      "iso": "Ar-Raḥīm",
+      "popular": {
+        "en": "Ar-Raheem",
+        "fr": "Ar-Rahim",
+        "tr": "Er-Rahîm"
+      }
     },
+    "ipa": "/ar.raˈħiːm/",
+
     "audio": "/audio/ar-raheem.mp3",
     "image": {
       "png": {
@@ -92,7 +101,7 @@
       },
       "svg": "/images/raheem/raheem.svg"
     },
-    "verset": {
+    "verse": {
       "1": [2],
       "2": [37, 54, 128, 143, 160, 163, 173, 182, 192, 199, 218, 226],
       "3": [31, 89, 129],
@@ -141,12 +150,12 @@
   {
     "slug": "al-malik",
     "id": 3,
+    "ar": "الملك",
+    "ar-enhanced": "ٱلْمَلِكُ",
     "name": {
-      "ar": "الملك",
-      "ar-enhanced": "ٱلْمَلِكُ",
       "fr": "Le Souverain",
       "en": "The King",
-      "tr": ""
+      "tr": "Melik"
     },
     "explanation": {
       "short": {
@@ -161,10 +170,15 @@
       }
     },
     "transliteration": {
-      "fr": "Al-Malik",
-      "en": "Al-Malik",
-      "tr": "El-Melik"
+      "iso": "Al-Malik",
+      "popular": {
+        "en": "Al-Malik",
+        "fr": "Al-Malik",
+        "tr": "El-Melik"
+      }
     },
+    "ipa": "/alˈmalik/",
+
     "audio": "/audio/al-malik.mp3",
     "image": {
       "png": {
@@ -174,7 +188,7 @@
       },
       "svg": "/images/malik/malik.svg"
     },
-    "verset": {
+    "verse": {
       "1": [3],
       "2": [107],
       "3": [189],
@@ -197,9 +211,9 @@
   {
     "slug": "al-quddus",
     "id": 4,
+    "ar": "القدوس",
+    "ar-enhanced": "ٱلْقُدُّوسُ",
     "name": {
-      "ar": "القدوس",
-      "ar-enhanced": "ٱلْقُدُّوسُ",
       "fr": "Le Très Sacré / Le Très Saint",
       "en": "",
       "tr": ""
@@ -217,10 +231,14 @@
       }
     },
     "transliteration": {
-      "fr": "Al-Quddus",
-      "en": "Al-Quddus",
-      "tr": "El-Kuddûs"
+      "iso": "Al-Quddūs",
+      "popular": {
+        "en": "Al-Quddus",
+        "fr": "Al-Quddous",
+        "tr": "El-Kuddûs"
+      }
     },
+    "ipa": "/al.qudˈduːs/",
     "audio": "/audio/al-quddus.mp3",
     "image": {
       "png": {
@@ -230,7 +248,7 @@
       },
       "svg": "/images/quddus/quddus.svg"
     },
-    "verset": {
+    "verse": {
       "59": [23],
       "62": [1]
     }
@@ -238,9 +256,9 @@
   {
     "slug": "as-salam",
     "id": 5,
+    "ar": "السلام",
+    "ar-enhanced": "ٱلْسَّلَامُ",
     "name": {
-      "ar": "السلام",
-      "ar-enhanced": "ٱلْسَّلَامُ",
       "fr": "Le Donateur de Paix",
       "en": "",
       "tr": ""
@@ -258,10 +276,14 @@
       }
     },
     "transliteration": {
-      "fr": "As-Salam",
-      "en": "As-Salam",
-      "tr": "Es-Selâm"
+      "iso": "As-Salām",
+      "popular": {
+        "en": "As-Salam",
+        "fr": "As-Salam",
+        "tr": "Es-Selâm"
+      }
     },
+    "ipa": "/as.saˈlaːm/",
     "audio": "/audio/as-salam.mp3",
     "image": {
       "png": {
@@ -271,7 +293,7 @@
       },
       "svg": "/images/salam/salam.svg"
     },
-    "verset": {
+    "verse": {
       "36": [58],
       "37": [181],
       "59": [23]
@@ -280,9 +302,9 @@
   {
     "slug": "al-mumin",
     "id": 6,
+    "ar": "المؤمن",
+    "ar-enhanced": "ٱلْمُؤْمِن",
     "name": {
-      "ar": "المؤمن",
-      "ar-enhanced": "ٱلْمُؤْمِن",
       "fr": "L'infuseur de foi",
       "en": "",
       "tr": ""
@@ -300,10 +322,14 @@
       }
     },
     "transliteration": {
-      "fr": "Al-Mumin",
-      "en": "Al-Mumin",
-      "tr": "El-Mü'min"
+      "iso": "Al-Muʾmin",
+      "popular": {
+        "en": "Al-Mumin",
+        "fr": "Al-Moumin",
+        "tr": "El-Mümin"
+      }
     },
+    "ipa": "/al.muʔˈmin/",
     "audio": "/audio/al-mumin.mp3",
     "image": {
       "png": {
@@ -313,16 +339,16 @@
       },
       "svg": "/images/mumin/mumin.svg"
     },
-    "verset": {
+    "verse": {
       "59": [23]
     }
   },
   {
     "slug": "al-muhaymin",
     "id": 7,
+    "ar": "المهيمن",
+    "ar-enhanced": "ٱلْمُهَيْمِن",
     "name": {
-      "ar": "المهيمن",
-      "ar-enhanced": "ٱلْمُهَيْمِن",
       "fr": "Le Préservateur",
       "en": "",
       "tr": ""
@@ -340,10 +366,14 @@
       }
     },
     "transliteration": {
-      "fr": "Al-Muhaymin",
-      "en": "Al-Muhaymin",
-      "tr": "El-Müheymin"
+      "iso": "Al-Muhaymin",
+      "popular": {
+        "en": "Al-Muhaymin",
+        "fr": "Al-Mouhaymin",
+        "tr": "El-Müheymin"
+      }
     },
+    "ipa": "/al.muˈhajmin/",
     "audio": "/audio/al-muhaymin.mp3",
     "image": {
       "png": {
@@ -353,16 +383,16 @@
       },
       "svg": "/images/muhaymin/muhaymin.svg"
     },
-    "verset": {
+    "verse": {
       "59": [23]
     }
   },
   {
     "slug": "al-aziz",
     "id": 8,
+    "ar": "العزيز",
+    "ar-enhanced": "ٱلْعَزِيز",
     "name": {
-      "ar": "العزيز",
-      "ar-enhanced": "ٱلْعَزِيز",
       "fr": "Le Tout Puissant",
       "en": "",
       "tr": ""
@@ -380,10 +410,14 @@
       }
     },
     "transliteration": {
-      "fr": "Al-Aziz",
-      "en": "Al-Aziz",
-      "tr": "El-Aziz"
+      "iso": "Al-ʿAzīz",
+      "popular": {
+        "en": "Al-Aziz",
+        "fr": "Al-Aziz",
+        "tr": "El-Azîz"
+      }
     },
+    "ipa": "/al.ʕaˈziːz/",
     "audio": "/audio/al-aziz.mp3",
     "image": {
       "png": {
@@ -393,7 +427,7 @@
       },
       "svg": "/images/aziz/aziz.svg"
     },
-    "verset": {
+    "verse": {
       "2": [129, 209, 220, 228, 240, 260],
       "3": [4, 6, 18, 62, 126],
       "4": [56, 158, 165],
@@ -439,9 +473,9 @@
   {
     "slug": "al-jabbar",
     "id": 9,
+    "ar": "الجبار",
+    "ar-enhanced": " ٱلْجَبَّار",
     "name": {
-      "ar": "الجبار",
-      "ar-enhanced": " ٱلْجَبَّار",
       "fr": "Le Tout Convaincant",
       "en": "",
       "tr": ""
@@ -459,10 +493,14 @@
       }
     },
     "transliteration": {
-      "fr": "Al-Jabbar",
-      "en": "",
-      "tr": ""
+      "iso": "Al-Jabbār",
+      "popular": {
+        "en": "Al-Jabbar",
+        "fr": "Al-Jabbar",
+        "tr": "El-Cebbâr"
+      }
     },
+    "ipa": "/al.dʒabˈbaːr/",
     "audio": "/audio/al-jabbar.mp3",
     "image": {
       "png": {
@@ -472,16 +510,16 @@
       },
       "svg": "/images/jabbar/jabbar.svg"
     },
-    "verset": {
+    "verse": {
       "59": [23]
     }
   },
   {
     "slug": "al-mutakabbir",
     "id": 10,
+    "ar": "المتكبر",
+    "ar-enhanced": "ٱلْمُتَكَبِّر",
     "name": {
-      "ar": "المتكبر",
-      "ar-enhanced": "ٱلْمُتَكَبِّر",
       "fr": "Le Dominant",
       "en": "",
       "tr": ""
@@ -499,10 +537,14 @@
       }
     },
     "transliteration": {
-      "fr": "Al-Mutakabbir",
-      "en": "",
-      "tr": ""
+      "iso": "Al-Mutakabbir",
+      "popular": {
+        "en": "Al-Mutakabbir",
+        "fr": "Al-Moutakabbir",
+        "tr": "El-Mütekebbir"
+      }
     },
+    "ipa": "/al.mu.taˈkab.bir/",
     "audio": "/audio/al-mutakabbir.mp3",
     "image": {
       "png": {
@@ -512,16 +554,16 @@
       },
       "svg": "/images/mutakabbir/mutakabbir.svg"
     },
-    "verset": {
+    "verse": {
       "59": [23]
     }
   },
   {
     "slug": "al-khaliq",
     "id": 11,
+    "ar": "الخالق",
+    "ar-enhanced": "ٱلْخَالِقُ",
     "name": {
-      "ar": "الخالق",
-      "ar-enhanced": "ٱلْخَالِقُ",
       "fr": "Le Créateur",
       "en": "",
       "tr": ""
@@ -539,10 +581,14 @@
       }
     },
     "transliteration": {
-      "fr": "Al-Khaliq",
-      "en": "",
-      "tr": ""
+      "iso": "Al-Khāliq",
+      "popular": {
+        "en": "Al-Khaliq",
+        "fr": "Al-Khaliq",
+        "tr": "El-Hâlik"
+      }
     },
+    "ipa": "/alˈxaːliq/",
     "audio": "/audio/al-khaliq.mp3",
     "image": {
       "png": {
@@ -552,7 +598,7 @@
       },
       "svg": "/images/khaliq/khaliq.svg"
     },
-    "verset": {
+    "verse": {
       "2": [21, 29, 164],
       "3": [47, 59, 191],
       "4": [1, 28],
@@ -614,9 +660,9 @@
   {
     "slug": "al-bari",
     "id": 12,
+    "ar": "البارئ",
+    "ar-enhanced": "ٱلْبَارِئُ",
     "name": {
-      "ar": "البارئ",
-      "ar-enhanced": "ٱلْبَارِئُ",
       "fr": "Le Producteur",
       "en": "",
       "tr": ""
@@ -634,10 +680,14 @@
       }
     },
     "transliteration": {
-      "fr": "Al-Baari",
-      "en": "",
-      "tr": ""
+      "iso": "Al-Bāriʾ",
+      "popular": {
+        "en": "Al-Bari",
+        "fr": "Al-Bari",
+        "tr": "El-Bâri"
+      }
     },
+    "ipa": "/alˈbaːriʔ/",
     "audio": "/audio/al-bari.mp3",
     "image": {
       "png": {
@@ -647,16 +697,16 @@
       },
       "svg": "/images/bari/bari.svg"
     },
-    "verset": {
+    "verse": {
       "59": [24]
     }
   },
   {
     "slug": "al-musawwir",
     "id": 13,
+    "ar": "المصور",
+    "ar-enhanced": "ٱلْمُصَوِّرُ",
     "name": {
-      "ar": "المصور",
-      "ar-enhanced": "ٱلْمُصَوِّرُ",
       "fr": "Le Façonneur infaillible",
       "en": "",
       "tr": ""
@@ -674,10 +724,14 @@
       }
     },
     "transliteration": {
-      "fr": "Al-Musawwir",
-      "en": "",
-      "tr": ""
+      "iso": "Al-Muṣawwir",
+      "popular": {
+        "en": "Al-Musawwir",
+        "fr": "Al-Mousawwir",
+        "tr": "El-Musavvir"
+      }
     },
+    "ipa": "/al.muˈsˤaw.wir/",
     "audio": "/audio/al-musawwir.mp3",
     "image": {
       "png": {
@@ -687,7 +741,7 @@
       },
       "svg": "/images/musawwir/musawwir.svg"
     },
-    "verset": {
+    "verse": {
       "3": [6],
       "59": [24],
       "64": [3]
@@ -696,9 +750,9 @@
   {
     "slug": "al-ghaffar",
     "id": 14,
+    "ar": "الغفار",
+    "ar-enhanced": " ٱلْغَفَّارُ",
     "name": {
-      "ar": "الغفار",
-      "ar-enhanced": " ٱلْغَفَّارُ",
       "fr": "L'Infini Pardonneur",
       "en": "",
       "tr": ""
@@ -716,10 +770,14 @@
       }
     },
     "transliteration": {
-      "fr": "Al-Ghaffar",
-      "en": "",
-      "tr": ""
+      "iso": "Al-Ghaffār",
+      "popular": {
+        "en": "Al-Ghaffar",
+        "fr": "Al-Ghaffar",
+        "tr": "El-Gaffâr"
+      }
     },
+    "ipa": "/al.ɣafˈfaːr/",
     "audio": "/audio/al-ghaffar.mp3",
     "image": {
       "png": {
@@ -729,7 +787,7 @@
       },
       "svg": "/images/ghaffar/ghaffar.svg"
     },
-    "verset": {
+    "verse": {
       "20": [82],
       "38": [66],
       "39": [5, 53],
@@ -740,9 +798,9 @@
   {
     "slug": "al-qahhar",
     "id": 15,
+    "ar": "القهار",
+    "ar-enhanced": "ٱلْقَهَّار",
     "name": {
-      "ar": "القهار",
-      "ar-enhanced": "ٱلْقَهَّار",
       "fr": "Le Tout-Dominateur",
       "en": "",
       "tr": ""
@@ -760,10 +818,14 @@
       }
     },
     "transliteration": {
-      "fr": "Al-Qahhar",
-      "en": "",
-      "tr": ""
+      "iso": "Al-Qahhār",
+      "popular": {
+        "en": "Al-Qahhar",
+        "fr": "Al-Qahhar",
+        "tr": "El-Kahhâr"
+      }
     },
+    "ipa": "/al.qahˈhaːr/",
     "audio": "/audio/al-qahhar.mp3",
     "image": {
       "png": {
@@ -773,7 +835,7 @@
       },
       "svg": "/images/qahhar.svg"
     },
-    "verset": {
+    "verse": {
       "13": [16],
       "14": [48],
       "38": [65],
@@ -784,9 +846,9 @@
   {
     "slug": "al-wahhab",
     "id": 16,
+    "ar": "الوهاب",
+    "ar-enhanced": "ٱلْوَهَّابُ",
     "name": {
-      "ar": "الوهاب",
-      "ar-enhanced": "ٱلْوَهَّابُ",
       "fr": "Le Donateur Suprême",
       "en": "",
       "tr": ""
@@ -804,10 +866,14 @@
       }
     },
     "transliteration": {
-      "fr": "Al-Wahhab",
-      "en": "",
-      "tr": ""
+      "iso": "Al-Wahhāb",
+      "popular": {
+        "en": "Al-Wahhab",
+        "fr": "Al-Wahhab",
+        "tr": "El-Vehhâb"
+      }
     },
+    "ipa": "/al.wahˈhaːb/",
     "audio": "/audio/al-wahhab.mp3",
     "image": {
       "png": {
@@ -817,7 +883,7 @@
       },
       "svg": "/images/wahhab/wahhab.svg"
     },
-    "verset": {
+    "verse": {
       "3": [8],
       "38": [9, 35]
     }
@@ -825,9 +891,9 @@
   {
     "slug": "ar-razzaq",
     "id": 17,
+    "ar": "الرزاق",
+    "ar-enhanced": "ٱلْرَّزَّاقُ",
     "name": {
-      "ar": "الرزاق",
-      "ar-enhanced": "ٱلْرَّزَّاقُ",
       "fr": "Le Fournisseur Total",
       "en": "",
       "tr": ""
@@ -845,10 +911,14 @@
       }
     },
     "transliteration": {
-      "fr": "Ar-Razzaq",
-      "en": "",
-      "tr": ""
+      "iso": "Ar-Razzāq",
+      "popular": {
+        "en": "Ar-Razzaq",
+        "fr": "Ar-Razzaq",
+        "tr": "Er-Rezzâk"
+      }
     },
+    "ipa": "/ar.razˈzaːq/",
     "audio": "/audio/ar-razzaq.mp3",
     "image": {
       "png": {
@@ -858,7 +928,7 @@
       },
       "svg": "/images/razzaq/razzaq.svg"
     },
-    "verset": {
+    "verse": {
       "2": [22, 25, 57, 60, 126, 172, 212],
       "3": [37],
       "5": [88, 114],
@@ -886,9 +956,9 @@
   {
     "slug": "al-fattah",
     "id": 18,
+    "ar": "الفتاح",
+    "ar-enhanced": "ٱلْفَتَّاحُ",
     "name": {
-      "ar": "الفتاح",
-      "ar-enhanced": "ٱلْفَتَّاحُ",
       "fr": "Le Conquérant / Le Juge",
       "en": "",
       "tr": ""
@@ -906,10 +976,14 @@
       }
     },
     "transliteration": {
-      "fr": "Al-Fattah",
-      "en": "",
-      "tr": ""
+      "iso": "Al-Fattāḥ",
+      "popular": {
+        "en": "Al-Fattah",
+        "fr": "Al-Fattah",
+        "tr": "El-Fettâh"
+      }
     },
+    "ipa": "/al.fatˈtaːħ/",
     "audio": "/audio/al-fattah.mp3",
     "image": {
       "png": {
@@ -919,16 +993,16 @@
       },
       "svg": "/images/fattah/fattah.svg"
     },
-    "verset": {
+    "verse": {
       "34": [26]
     }
   },
   {
     "slug": "al-alim",
     "id": 19,
+    "ar": "العليم",
+    "ar-enhanced": "",
     "name": {
-      "ar": "العليم",
-      "ar-enhanced": "",
       "fr": "L'Omniscient",
       "en": "",
       "tr": ""
@@ -946,10 +1020,14 @@
       }
     },
     "transliteration": {
-      "fr": "Al-Alim",
-      "en": "",
-      "tr": ""
+      "iso": "Al-ʿAlīm",
+      "popular": {
+        "en": "Al-Alim",
+        "fr": "Al-Alim",
+        "tr": "El-Alîm"
+      }
     },
+    "ipa": "/al.ʕaˈliːm/",
     "audio": "/audio/al-alim.mp3",
     "image": {
       "png": {
@@ -959,7 +1037,7 @@
       },
       "svg": "/images/alim/alim.svg"
     },
-    "verset": {
+    "verse": {
       "2": [
         29, 30, 32, 33, 95, 115, 127, 137, 158, 181, 187, 197, 215, 216, 221,
         224, 227, 231, 232, 244, 246, 247, 255, 256, 261, 268, 273, 282, 283
@@ -1023,9 +1101,9 @@
   {
     "slug": "al-qabid",
     "id": 20,
+    "ar": "القابض",
+    "ar-enhanced": "",
     "name": {
-      "ar": "القابض",
-      "ar-enhanced": "",
       "fr": "Le Restrictif",
       "en": "",
       "tr": ""
@@ -1043,10 +1121,14 @@
       }
     },
     "transliteration": {
-      "fr": "Al-Qabid",
-      "en": "",
-      "tr": "El-Kâbız"
+      "iso": "Al-Qābiḍ",
+      "popular": {
+        "en": "Al-Qabid",
+        "fr": "Al-Qabid",
+        "tr": "El-Kâbid"
+      }
     },
+    "ipa": "/alˈqaːbidˤ/",
     "audio": "/audio/al-qabid.mp3",
     "image": {
       "png": {
@@ -1056,16 +1138,16 @@
       },
       "svg": "/images/qabid/qabid.svg"
     },
-    "verset": {
+    "verse": {
       "2": [245]
     }
   },
   {
     "slug": "al-basit",
     "id": 21,
+    "ar": "الباسط",
+    "ar-enhanced": "",
     "name": {
-      "ar": "الباسط",
-      "ar-enhanced": "",
       "fr": "The Extender",
       "en": "",
       "tr": ""
@@ -1083,10 +1165,14 @@
       }
     },
     "transliteration": {
-      "fr": "Al-Basit",
-      "en": "",
-      "tr": "El-Bâsıt"
+      "iso": "Al-Bāsiṭ",
+      "popular": {
+        "en": "Al-Basit",
+        "fr": "Al-Basit",
+        "tr": "El-Bâsit"
+      }
     },
+    "ipa": "/alˈbaːsitˤ/",
     "audio": "/audio/al-basit.mp3",
     "image": {
       "png": {
@@ -1096,16 +1182,16 @@
       },
       "svg": "/images/basit/basit.svg"
     },
-    "verset": {
+    "verse": {
       "2": [245]
     }
   },
   {
     "slug": "al-khafid",
     "id": 22,
+    "ar": "الخافض",
+    "ar-enhanced": "ٱلْخَافِضُ",
     "name": {
-      "ar": "الخافض",
-      "ar-enhanced": "ٱلْخَافِضُ",
       "fr": "Celui qui abaisse",
       "en": "",
       "tr": "Alçaltan, zillete düşüren"
@@ -1123,10 +1209,14 @@
       }
     },
     "transliteration": {
-      "fr": "Al-Khafid",
-      "en": "",
-      "tr": "El-Hâfız"
+      "iso": "Al-Khāfiḍ",
+      "popular": {
+        "en": "Al-Khafid",
+        "fr": "Al-Khafid",
+        "tr": "El-Hâfid"
+      }
     },
+    "ipa": "/alˈxaːfidˤ/",
     "audio": "/audio/al-khafid.mp3",
     "image": {
       "png": {
@@ -1136,14 +1226,14 @@
       },
       "svg": "/images/khafid/khafid.svg"
     },
-    "verset": {}
+    "verse": {}
   },
   {
     "slug": "ar-rafi",
     "id": 23,
+    "ar": "الرافع",
+    "ar-enhanced": "ٱلْرَّافِعُ",
     "name": {
-      "ar": "الرافع",
-      "ar-enhanced": "ٱلْرَّافِعُ",
       "fr": "L'Exalteur",
       "en": "",
       "tr": "Yücelten, izzet ve şeref veren"
@@ -1161,10 +1251,14 @@
       }
     },
     "transliteration": {
-      "fr": "Ar-Rafi",
-      "en": "",
-      "tr": "Er-Râfî"
+      "iso": "Ar-Rāfiʿ",
+      "popular": {
+        "en": "Ar-Rafi",
+        "fr": "Ar-Rafi",
+        "tr": "Er-Râfi"
+      }
     },
+    "ipa": "/arˈraːfiʕ/",
     "audio": "/audio/ar-rafi.mp3",
     "image": {
       "png": {
@@ -1174,16 +1268,16 @@
       },
       "svg": "/images/rafi/rafi.svg"
     },
-    "verset": {
+    "verse": {
       "88": [18]
     }
   },
   {
     "slug": "al-muizz",
     "id": 24,
+    "ar": "المعزّ",
+    "ar-enhanced": "",
     "name": {
-      "ar": "المعزّ",
-      "ar-enhanced": "",
       "fr": "Celui qui honore",
       "en": "",
       "tr": "Yücelten, izzet ve şeref veren"
@@ -1201,10 +1295,14 @@
       }
     },
     "transliteration": {
-      "fr": "Al-Mu'izz",
-      "en": "",
-      "tr": "El-Muiz"
+      "iso": "Al-Muʿizz",
+      "popular": {
+        "en": "Al-Muizz",
+        "fr": "Al-Muizz",
+        "tr": "El-Muizz"
+      }
     },
+    "ipa": "/al.muˈʕizz/",
     "audio": "/audio/al-muizz.mp3",
     "image": {
       "png": {
@@ -1214,14 +1312,14 @@
       },
       "svg": "/images/muizz/muizz.svg"
     },
-    "verset": {}
+    "verse": {}
   },
   {
     "slug": "al-mudhill",
     "id": 25,
+    "ar": "المذلّ",
+    "ar-enhanced": "ٱلْمُذِلُّ",
     "name": {
-      "ar": "المذلّ",
-      "ar-enhanced": "ٱلْمُذِلُّ",
       "fr": "Celui qui humilie",
       "en": "",
       "tr": "Alçaltan, zillet veren"
@@ -1239,10 +1337,14 @@
       }
     },
     "transliteration": {
-      "fr": "Al-Muzil",
-      "en": "",
-      "tr": "El-Müzil"
+      "iso": "Al-Mudhill",
+      "popular": {
+        "en": "Al-Mudhill",
+        "fr": "Al-Moudhill",
+        "tr": "El-Müzill"
+      }
     },
+    "ipa": "/al.muˈðill/",
     "audio": "/audio/al-mudhill.mp3",
     "image": {
       "png": {
@@ -1252,14 +1354,14 @@
       },
       "svg": "/images/mudhill/mudhill.svg"
     },
-    "verset": {}
+    "verse": {}
   },
   {
     "slug": "as-sami",
     "id": 26,
+    "ar": "السميع",
+    "ar-enhanced": "ٱلْسَّمِيعُ",
     "name": {
-      "ar": "السميع",
-      "ar-enhanced": "ٱلْسَّمِيعُ",
       "fr": "Le Tout-Ouïe",
       "en": "",
       "tr": "İşiten"
@@ -1277,10 +1379,14 @@
       }
     },
     "transliteration": {
-      "fr": "As-Sami",
-      "en": "Es-Semî'",
-      "tr": ""
+      "iso": "As-Samīʿ",
+      "popular": {
+        "en": "As-Samee",
+        "fr": "As-Sami",
+        "tr": "Es-Semî"
+      }
     },
+    "ipa": "/as.saˈmiːʕ/",
     "audio": "/audio/as-sami.mp3",
     "image": {
       "png": {
@@ -1290,7 +1396,7 @@
       },
       "svg": "/images/sami/sami.svg"
     },
-    "verset": {
+    "verse": {
       "2": [127, 137, 181, 224, 227, 244, 256],
       "3": [34, 35, 38, 121],
       "4": [58, 134, 148],
@@ -1321,9 +1427,9 @@
   {
     "slug": "al-basir",
     "id": 27,
+    "ar": "البصير",
+    "ar-enhanced": "ٱلْبَصِيرُ",
     "name": {
-      "ar": "البصير",
-      "ar-enhanced": "ٱلْبَصِيرُ",
       "fr": "Le Clairvoyant",
       "en": "",
       "tr": "Gören"
@@ -1341,10 +1447,14 @@
       }
     },
     "transliteration": {
-      "fr": "Al-Baseer",
-      "en": "",
-      "tr": "El-Basîr"
+      "iso": "Al-Baṣīr",
+      "popular": {
+        "en": "Al-Baseer",
+        "fr": "Al-Basir",
+        "tr": "El-Basîr"
+      }
     },
+    "ipa": "/al.baˈsˤiːr/",
     "audio": "/audio/al-basir.mp3",
     "image": {
       "png": {
@@ -1354,7 +1464,7 @@
       },
       "svg": "/images/basir/basir.svg"
     },
-    "verset": {
+    "verse": {
       "2": [96, 110, 233, 237, 265],
       "3": [15, 20, 156, 163],
       "4": [58, 134],
@@ -1381,9 +1491,9 @@
   {
     "slug": "al-hakam",
     "id": 28,
+    "ar": "الحكم",
+    "ar-enhanced": "ٱلْحَكَمُ",
     "name": {
-      "ar": "الحكم",
-      "ar-enhanced": "ٱلْحَكَمُ",
       "fr": "Le Juge Impartial",
       "en": "",
       "tr": "Son hükmü veren"
@@ -1401,10 +1511,14 @@
       }
     },
     "transliteration": {
-      "fr": "Al-Hakam",
-      "en": "",
-      "tr": "El-Hakem"
+      "iso": "Al-Ḥakam",
+      "popular": {
+        "en": "Al-Hakam",
+        "fr": "Al-Hakam",
+        "tr": "El-Hakem"
+      }
     },
+    "ipa": "/alˈħakam/",
     "audio": "/audio/al-hakam.mp3",
     "image": {
       "png": {
@@ -1414,7 +1528,7 @@
       },
       "svg": "/images/hakam/hakam.svg"
     },
-    "verset": {
+    "verse": {
       "2": [113],
       "4": [141]
     }
@@ -1422,9 +1536,9 @@
   {
     "slug": "al-adl",
     "id": 29,
+    "ar": "العدل",
+    "ar-enhanced": "ٱلْعَدْلُ",
     "name": {
-      "ar": "العدل",
-      "ar-enhanced": "ٱلْعَدْلُ",
       "fr": "La Justice incarnée",
       "en": "",
       "tr": "Mutlak adalet sahibi, aşırılığa meyletmeyen"
@@ -1442,10 +1556,14 @@
       }
     },
     "transliteration": {
-      "fr": "Al-Adl",
-      "en": "",
-      "tr": "El-Adl"
+      "iso": "Al-ʿAdl",
+      "popular": {
+        "en": "Al-Adl",
+        "fr": "Al-Adl",
+        "tr": "El-Adl"
+      }
     },
+    "ipa": "/alˈʕadl/",
     "audio": "/audio/al-adl.mp3",
     "image": {
       "png": {
@@ -1455,14 +1573,14 @@
       },
       "svg": "/images/adl/adl.svg"
     },
-    "verset": {}
+    "verse": {}
   },
   {
     "slug": "al-latif",
     "id": 30,
+    "ar": "اللطيف",
+    "ar-enhanced": "",
     "name": {
-      "ar": "اللطيف",
-      "ar-enhanced": "",
       "fr": "Le Connaisseur des subtilités",
       "en": "",
       "tr": "Yaratılmışların ihtiyacını en ince noktasına kadar bilip sezilmez yollarla karşılayan"
@@ -1480,10 +1598,14 @@
       }
     },
     "transliteration": {
-      "fr": "Al-Lateef",
-      "en": "",
-      "tr": "El-Latîf"
+      "iso": "Al-Laṭīf",
+      "popular": {
+        "en": "Al-Lateef",
+        "fr": "Al-Latif",
+        "tr": "El-Latîf"
+      }
     },
+    "ipa": "/al.laˈtˤiːf/",
     "audio": "/audio/al-latif.mp3",
     "image": {
       "png": {
@@ -1493,7 +1615,7 @@
       },
       "svg": "/images/latif/latif.svg"
     },
-    "verset": {
+    "verse": {
       "6": [103],
       "12": [100],
       "22": [63],
@@ -1506,9 +1628,9 @@
   {
     "slug": "al-khabir",
     "id": 31,
+    "ar": "الخبير",
+    "ar-enhanced": "",
     "name": {
-      "ar": "الخبير",
-      "ar-enhanced": "",
       "fr": "Le Très-Instruit",
       "en": "",
       "tr": "Her şeyin iç yüzünden haberdar olan"
@@ -1526,10 +1648,14 @@
       }
     },
     "transliteration": {
-      "fr": "Al-Khabir",
-      "en": "",
-      "tr": "El-Habîr"
+      "iso": "Al-Khabīr",
+      "popular": {
+        "en": "Al-Khabeer",
+        "fr": "Al-Khabir",
+        "tr": "El-Habîr"
+      }
     },
+    "ipa": "/al.xaˈbiːr/",
     "audio": "/audio/al-khabir.mp3",
     "image": {
       "png": {
@@ -1539,7 +1665,7 @@
       },
       "svg": "/images/khabir/khabir.svg"
     },
-    "verset": {
+    "verse": {
       "2": [234, 271],
       "3": [153, 180],
       "4": [35, 94, 128, 135],
@@ -1571,9 +1697,9 @@
   {
     "slug": "al-halim",
     "id": 32,
+    "ar": "الحليم",
+    "ar-enhanced": "ٱلْحَلِيمُ",
     "name": {
-      "ar": "الحليم",
-      "ar-enhanced": "",
       "fr": "Le Clément",
       "en": "",
       "tr": "Acele ile ve kızgınlıkla muamele etmeyen"
@@ -1591,10 +1717,14 @@
       }
     },
     "transliteration": {
-      "fr": "Al-Haleem",
-      "en": "",
-      "tr": "El-Halîm"
+      "iso": "Al-Ḥalīm",
+      "popular": {
+        "en": "Al-Haleem",
+        "fr": "Al-Halim",
+        "tr": "El-Halîm"
+      }
     },
+    "ipa": "/al.ħaˈliːm/",
     "audio": "/audio/al-halim.mp3",
     "image": {
       "png": {
@@ -1604,7 +1734,7 @@
       },
       "svg": "/images/halim/halim.svg"
     },
-    "verset": {
+    "verse": {
       "2": [225, 235, 263],
       "3": [155],
       "4": [12],
@@ -1618,9 +1748,9 @@
   {
     "slug": "al-azeem",
     "id": 33,
+    "ar": "العظيم",
+    "ar-enhanced": "ٱلْعَظِيمُ",
     "name": {
-      "ar": "العظيم",
-      "ar-enhanced": "",
       "fr": "Le Magnifique",
       "en": "",
       "tr": "Zâtının ve sıfatlarının mahiyeti anlaşılamayacak kadar ulu"
@@ -1638,10 +1768,14 @@
       }
     },
     "transliteration": {
-      "fr": "Al-Azeem",
-      "en": "",
-      "tr": "El-Azîm"
+      "iso": "Al-ʿAẓīm",
+      "popular": {
+        "en": "Al-Azeem",
+        "fr": "Al-Azim",
+        "tr": "El-Azîm"
+      }
     },
+    "ipa": "/al.ʕaˈðˤiːm/",
     "audio": "/audio/al-azeem.mp3",
     "image": {
       "png": {
@@ -1651,7 +1785,7 @@
       },
       "svg": "/images/azeem/azeem.svg"
     },
-    "verset": {
+    "verse": {
       "2": [255],
       "3": [174],
       "42": [4],
@@ -1664,9 +1798,9 @@
   {
     "slug": "al-ghafur",
     "id": 34,
+    "ar": "الغفور",
+    "ar-enhanced": "ٱلْغَفُورُ",
     "name": {
-      "ar": "الغفور",
-      "ar-enhanced": "ٱلْغَفُورُ",
       "fr": "Le Tout-Pardon",
       "en": "",
       "tr": "Bütün günahları bağışlayan"
@@ -1684,10 +1818,14 @@
       }
     },
     "transliteration": {
-      "fr": "Al-Ghafoor",
-      "en": "",
-      "tr": "El-Gafûr"
+      "iso": "Al-Ghafūr",
+      "popular": {
+        "en": "Al-Ghafoor",
+        "fr": "Al-Ghafour",
+        "tr": "El-Gafûr"
+      }
     },
+    "ipa": "/al.ɣaˈfuːr/",
     "audio": "/audio/al-ghafur.mp3",
     "image": {
       "png": {
@@ -1697,7 +1835,7 @@
       },
       "svg": "/images/ghafur/ghafur.svg"
     },
-    "verset": {
+    "verse": {
       "2": [173, 182, 192, 199, 218, 225, 226, 235, 268],
       "3": [31, 89, 129, 133, 135, 136, 147, 155, 157, 193],
       "5": [3, 9, 34, 39, 40, 74, 98, 101, 118],
@@ -1749,9 +1887,9 @@
   {
     "slug": "ash-shakur",
     "id": 35,
+    "ar": "الشكور",
+    "ar-enhanced": "ٱلْشَّكُورُ",
     "name": {
-      "ar": "الشكور",
-      "ar-enhanced": "ٱلْشَّكُورُ",
       "fr": "Le Reconnaissant",
       "en": "",
       "tr": "Az iyiliğe çok mükâfat veren"
@@ -1769,10 +1907,14 @@
       }
     },
     "transliteration": {
-      "fr": "Ash-Shakur",
-      "en": "",
-      "tr": "Eş-Şekûr"
+      "iso": "Ash-Shakūr",
+      "popular": {
+        "en": "Ash-Shakoor",
+        "fr": "Ash-Shakour",
+        "tr": "Eş-Şekûr"
+      }
     },
+    "ipa": "/aʃ.ʃaˈkuːr/",
     "audio": "/audio/ash-shakur.mp3",
     "image": {
       "png": {
@@ -1782,7 +1924,7 @@
       },
       "svg": "/images/shakur/shakur.svg"
     },
-    "verset": {
+    "verse": {
       "2": [158],
       "4": [147],
       "35": [30, 34],
@@ -1792,9 +1934,9 @@
   {
     "slug": "al-ali",
     "id": 36,
+    "ar": "العليّ",
+    "ar-enhanced": "ٱلْعَلِيُّ",
     "name": {
-      "ar": "العليّ",
-      "ar-enhanced": "ٱلْعَلِيُّ",
       "fr": "Le Haut",
       "en": "",
       "tr": "İzzet, şeref ve hükümranlık bakımından en yüce, aşkın"
@@ -1812,10 +1954,14 @@
       }
     },
     "transliteration": {
-      "fr": "Al-Aliyy",
-      "en": "",
-      "tr": "El-Alî"
+      "iso": "Al-ʿAlī",
+      "popular": {
+        "en": "Al-Ali",
+        "fr": "Al-Ali",
+        "tr": "El-Alî"
+      }
     },
+    "ipa": "/al.ʕaˈliː/",
     "audio": "/audio/al-ali.mp3",
     "image": {
       "png": {
@@ -1825,7 +1971,7 @@
       },
       "svg": "/images/ali/ali.svg"
     },
-    "verset": {
+    "verse": {
       "2": [255],
       "4": [34],
       "22": [62],
@@ -1838,9 +1984,9 @@
   {
     "slug": "al-kabir",
     "id": 37,
+    "ar": "الكبير",
+    "ar-enhanced": "ٱلْكَبِيرُ",
     "name": {
-      "ar": "الكبير",
-      "ar-enhanced": "ٱلْكَبِيرُ",
       "fr": "Le Meilleur",
       "en": "",
       "tr": "Zâtının ve sıfatlarının mahiyeti anlaşılamayacak kadar ulu"
@@ -1858,10 +2004,14 @@
       }
     },
     "transliteration": {
-      "fr": "Al-Kabeer",
-      "en": "",
-      "tr": "El-Kebîr"
+      "iso": "Al-Kabīr",
+      "popular": {
+        "en": "Al-Kabeer",
+        "fr": "Al-Kabir",
+        "tr": "El-Kebîr"
+      }
     },
+    "ipa": "/al.kaˈbiːr/",
     "audio": "/audio/al-kabir.mp3",
     "image": {
       "png": {
@@ -1871,7 +2021,7 @@
       },
       "svg": "/images/kabir/kabir.svg"
     },
-    "verset": {
+    "verse": {
       "4": [34],
       "13": [9],
       "17": [43],
@@ -1885,9 +2035,9 @@
   {
     "slug": "al-hafiz",
     "id": 38,
+    "ar": "الحفيظ",
+    "ar-enhanced": "ٱلْحَفِيظُ",
     "name": {
-      "ar": "الحفيظ",
-      "ar-enhanced": "ٱلْحَفِيظُ",
       "fr": "Le Préservateur",
       "en": "",
       "tr": "Koruyup gözeten ve dengede tutan"
@@ -1905,10 +2055,14 @@
       }
     },
     "transliteration": {
-      "fr": "Al-Hafiz",
-      "en": "",
-      "tr": "El-Hafîz"
+      "iso": "Al-Ḥafīẓ",
+      "popular": {
+        "en": "Al-Hafeez",
+        "fr": "Al-Hafiz",
+        "tr": "El-Hafîz"
+      }
     },
+    "ipa": "/al.ħaˈfiːðˤ/",
     "audio": "/audio/al-hafiz.mp3",
     "image": {
       "png": {
@@ -1918,7 +2072,7 @@
       },
       "svg": "/images/hafiz/hafiz.svg"
     },
-    "verset": {
+    "verse": {
       "11": [57],
       "12": [64],
       "34": [21],
@@ -1928,9 +2082,9 @@
   {
     "slug": "al-muqit",
     "id": 39,
+    "ar": "المقيت",
+    "ar-enhanced": "ٱلْمُقِيتُ",
     "name": {
-      "ar": "المقيت",
-      "ar-enhanced": "ٱلْمُقِيتُ",
       "fr": "Le Nourrisseur",
       "en": "",
       "tr": "Bedenlerin ve ruhların gıdasını yaratıp veren, bilip gücü yeten ve koruyan"
@@ -1948,10 +2102,14 @@
       }
     },
     "transliteration": {
-      "fr": "Al-Muqeet",
-      "en": "",
-      "tr": "El-Mukît"
+      "iso": "Al-Muqīt",
+      "popular": {
+        "en": "Al-Muqeet",
+        "fr": "Al-Muqit",
+        "tr": "El-Mukît"
+      }
     },
+    "ipa": "/al.muˈqiːt/",
     "audio": "/audio/al-muqit.mp3",
     "image": {
       "png": {
@@ -1961,16 +2119,16 @@
       },
       "svg": "/images/muqit/muqit.svg"
     },
-    "verset": {
+    "verse": {
       "4": [85]
     }
   },
   {
     "slug": "al-hasib",
     "id": 40,
+    "ar": "الحسيب",
+    "ar-enhanced": "ٱلْحَسِيبُ",
     "name": {
-      "ar": "الحسيب",
-      "ar-enhanced": "ٱلْحَسِيبُ",
       "fr": "Celui qui tient compte de tout",
       "en": "",
       "tr": "Kullarına yeten, onları hesaba çeken"
@@ -1988,10 +2146,14 @@
       }
     },
     "transliteration": {
-      "fr": "Al-Haseeb",
-      "en": "",
-      "tr": "El-Hasîb"
+      "iso": "Al-Ḥasīb",
+      "popular": {
+        "en": "Al-Haseeb",
+        "fr": "Al-Hasib",
+        "tr": "El-Hasîb"
+      }
     },
+    "ipa": "/al.ħaˈsiːb/",
     "audio": "/audio/al-hasib.mp3",
     "image": {
       "png": {
@@ -2001,7 +2163,7 @@
       },
       "svg": "/images/hasib/hasib.svg"
     },
-    "verset": {
+    "verse": {
       "3": [19, 174, 199],
       "4": [6, 86],
       "5": [4],
@@ -2015,9 +2177,9 @@
   {
     "slug": "al-jalil",
     "id": 41,
+    "ar": "الجليل",
+    "ar-enhanced": "ٱلْجَلِيلُ",
     "name": {
-      "ar": "الجليل",
-      "ar-enhanced": "ٱلْجَلِيلُ",
       "fr": "Le Majestueux",
       "en": "",
       "tr": "Azamet sahibi"
@@ -2035,10 +2197,14 @@
       }
     },
     "transliteration": {
-      "fr": "Al-Jaleel",
-      "en": "",
-      "tr": "El-Celîl"
+      "iso": "Al-Jalīl",
+      "popular": {
+        "en": "Al-Jaleel",
+        "fr": "Al-Jalil",
+        "tr": "El-Celîl"
+      }
     },
+    "ipa": "/al.dʒaˈliːl/",
     "audio": "/audio/al-jalil.mp3",
     "image": {
       "png": {
@@ -2048,14 +2214,14 @@
       },
       "svg": "/images/jalil/jalil.svg"
     },
-    "verset": {}
+    "verse": {}
   },
   {
     "slug": "al-karim",
     "id": 42,
+    "ar": "الكريم",
+    "ar-enhanced": "ٱلْكَرِيمُ",
     "name": {
-      "ar": "الكريم",
-      "ar-enhanced": "ٱلْكَرِيمُ",
       "fr": "Les plus Généreux",
       "en": "",
       "tr": "Fazilet türlerinin hepsine sahip"
@@ -2073,10 +2239,14 @@
       }
     },
     "transliteration": {
-      "fr": "Al-Karim",
-      "en": "",
-      "tr": "El-Kerîm"
+      "iso": "Al-Karīm",
+      "popular": {
+        "en": "Al-Kareem",
+        "fr": "Al-Karim",
+        "tr": "El-Kerîm"
+      }
     },
+    "ipa": "/al.kaˈriːm/",
     "audio": "/audio/al-karim.mp3",
     "image": {
       "png": {
@@ -2086,7 +2256,7 @@
       },
       "svg": "/images/karim/karim.svg"
     },
-    "verset": {
+    "verse": {
       "27": [40],
       "82": [6],
       "96": [3]
@@ -2095,9 +2265,9 @@
   {
     "slug": "ar-raqib",
     "id": 43,
+    "ar": "الرقيب",
+    "ar-enhanced": "ٱلْرَّقِيبُ",
     "name": {
-      "ar": "الرقيب",
-      "ar-enhanced": "ٱلْرَّقِيبُ",
       "fr": "Le Tout Vigilant",
       "en": "",
       "tr": "Gözetleyip kontrol eden"
@@ -2115,10 +2285,14 @@
       }
     },
     "transliteration": {
-      "fr": "Ar-Raqib",
-      "en": "",
-      "tr": "Er-Rakîb"
+      "iso": "Ar-Raqīb",
+      "popular": {
+        "en": "Ar-Raqeeb",
+        "fr": "Ar-Raqib",
+        "tr": "Er-Rakîb"
+      }
     },
+    "ipa": "/ar.raˈqiːb/",
     "audio": "/audio/ar-raqib.mp3",
     "image": {
       "png": {
@@ -2128,7 +2302,7 @@
       },
       "svg": "/images/raqib/raqib.svg"
     },
-    "verset": {
+    "verse": {
       "4": [1],
       "5": [117],
       "33": [52]
@@ -2137,9 +2311,9 @@
   {
     "slug": "al-mujib",
     "id": 44,
+    "ar": "المجيب",
+    "ar-enhanced": "ٱلْمُجِيبُ",
     "name": {
-      "ar": "المجيب",
-      "ar-enhanced": "ٱلْمُجِيبُ",
       "fr": "Le Réactif",
       "en": "",
       "tr": "Dileklere karşılık veren"
@@ -2157,10 +2331,14 @@
       }
     },
     "transliteration": {
-      "fr": "Al-Mujeeb",
-      "en": "",
-      "tr": "El-Mücîb"
+      "iso": "Al-Mujīb",
+      "popular": {
+        "en": "Al-Mujeeb",
+        "fr": "Al-Mujib",
+        "tr": "El-Mucîb"
+      }
     },
+    "ipa": "/al.muˈdʒiːb/",
     "audio": "/audio/al-mujib.mp3",
     "image": {
       "png": {
@@ -2170,16 +2348,16 @@
       },
       "svg": "/images/mujib/mujib.svg"
     },
-    "verset": {
+    "verse": {
       "11": [61]
     }
   },
   {
     "slug": "al-wasi",
     "id": 45,
+    "ar": "الواسع",
+    "ar-enhanced": "ٱلْوَاسِعُ",
     "name": {
-      "ar": "الواسع",
-      "ar-enhanced": "ٱلْوَاسِعُ",
       "fr": "Celui qui englobe tout",
       "en": "",
       "tr": "İlmi ve merhameti her şeyi kuşatan"
@@ -2197,10 +2375,14 @@
       }
     },
     "transliteration": {
-      "fr": "Al-Wasi",
-      "en": "",
-      "tr": "El-Vâsî"
+      "iso": "Al-Wāsiʿ",
+      "popular": {
+        "en": "Al-Wasi",
+        "fr": "Al-Wasi",
+        "tr": "El-Vâsi"
+      }
     },
+    "ipa": "/alˈwaːsiʕ/",
     "audio": "/audio/al-wasi.mp3",
     "image": {
       "png": {
@@ -2210,7 +2392,7 @@
       },
       "svg": "/images/wasi/wasi.svg"
     },
-    "verset": {
+    "verse": {
       "2": [115, 247, 261, 268],
       "3": [73],
       "4": [130],
@@ -2220,9 +2402,9 @@
   {
     "slug": "al-hakim",
     "id": 46,
+    "ar": "الحكيم",
+    "ar-enhanced": "ٱلْحَكِيمُ",
     "name": {
-      "ar": "الحكيم",
-      "ar-enhanced": "ٱلْحَكِيمُ",
       "fr": "L'Omniscient",
       "en": "",
       "tr": "Bütün emirleri ve işleri yerli yerinde olan"
@@ -2240,10 +2422,14 @@
       }
     },
     "transliteration": {
-      "fr": "Al-Hakeem",
-      "en": "",
-      "tr": "El-Hakîm"
+      "iso": "Al-Ḥakīm",
+      "popular": {
+        "en": "Al-Hakeem",
+        "fr": "Al-Hakim",
+        "tr": "El-Hakîm"
+      }
     },
+    "ipa": "/al.ħaˈkiːm/",
     "audio": "/audio/al-hakim.mp3",
     "image": {
       "png": {
@@ -2253,7 +2439,7 @@
       },
       "svg": "/images/hakim/hakim.svg"
     },
-    "verset": {
+    "verse": {
       "2": [32, 129, 209, 220, 228, 240, 260],
       "3": [6, 18, 62, 126],
       "4": [11, 17, 24, 26, 56, 92, 104, 111, 130, 158, 165, 170],
@@ -2301,9 +2487,9 @@
   {
     "slug": "al-wadud",
     "id": 47,
+    "ar": "الودود",
+    "ar-enhanced": " ٱلْوَدُودُ",
     "name": {
-      "ar": "الودود",
-      "ar-enhanced": " ٱلْوَدُودُ",
       "fr": "Le plus Aimant",
       "en": "",
       "tr": "Çok seven, çok sevilen"
@@ -2321,10 +2507,14 @@
       }
     },
     "transliteration": {
-      "fr": "Al-Wadud",
-      "en": "",
-      "tr": "El-Vedûd"
+      "iso": "Al-Wadūd",
+      "popular": {
+        "en": "Al-Wadud",
+        "fr": "Al-Wadoud",
+        "tr": "El-Vedûd"
+      }
     },
+    "ipa": "/al.waˈduːd/",
     "audio": "/audio/al-wadud.mp3",
     "image": {
       "png": {
@@ -2334,7 +2524,7 @@
       },
       "svg": "/images/wadud/wadud.svg"
     },
-    "verset": {
+    "verse": {
       "11": [90],
       "85": [14]
     }
@@ -2342,9 +2532,9 @@
   {
     "slug": "al-majeed",
     "id": 48,
+    "ar": "المجيد",
+    "ar-enhanced": "ٱلْمَجِيدُ",
     "name": {
-      "ar": "المجيد",
-      "ar-enhanced": "ٱلْمَجِيدُ",
       "fr": "Le Tout-Glorieux",
       "en": "",
       "tr": "Şanlı, şerefli"
@@ -2362,10 +2552,14 @@
       }
     },
     "transliteration": {
-      "fr": "Al-Majeed",
-      "en": "",
-      "tr": "El-Mecîd"
+      "iso": "Al-Majīd",
+      "popular": {
+        "en": "Al-Majeed",
+        "fr": "Al-Majid",
+        "tr": "El-Mecîd"
+      }
     },
+    "ipa": "/al.maˈdʒiːd/",
     "audio": "/audio/al-majeed.mp3",
     "image": {
       "png": {
@@ -2375,7 +2569,7 @@
       },
       "svg": "/images/majeed/majeed.svg"
     },
-    "verset": {
+    "verse": {
       "11": [73],
       "85": [15]
     }
@@ -2383,9 +2577,9 @@
   {
     "slug": "al-baith",
     "id": 49,
+    "ar": "",
+    "ar-enhanced": "ٱلْبَاعِثُ",
     "name": {
-      "ar": "",
-      "ar-enhanced": "ٱلْبَاعِثُ",
       "fr": "Celui qui incite ",
       "en": "",
       "tr": ""
@@ -2403,10 +2597,14 @@
       }
     },
     "transliteration": {
-      "fr": "Al-Ba'ith",
-      "en": "",
-      "tr": ""
+      "iso": "Al-Bāʿith",
+      "popular": {
+        "en": "Al-Baith",
+        "fr": "Al-Baith",
+        "tr": "El-Bâis"
+      }
     },
+    "ipa": "/alˈbaːʕiθ/",
     "audio": "/audio/al-baith.mp3",
     "image": {
       "png": {
@@ -2416,7 +2614,7 @@
       },
       "svg": "/images/baith/baith.svg"
     },
-    "verset": {
+    "verse": {
       "6": [60],
       "62": [2]
     }
@@ -2424,9 +2622,9 @@
   {
     "slug": "ash-shahid",
     "id": 50,
+    "ar": "ٱلشهيد",
+    "ar-enhanced": "ٱلْشَّهِيدُ",
     "name": {
-      "ar": "",
-      "ar-enhanced": "ٱلْشَّهِيدُ",
       "fr": "Le Tout Observant Témoin",
       "en": "",
       "tr": ""
@@ -2444,10 +2642,14 @@
       }
     },
     "transliteration": {
-      "fr": "Ash-Shaheed",
-      "en": "",
-      "tr": ""
+      "iso": "Ash-Shahīd",
+      "popular": {
+        "en": "Ash-Shaheed",
+        "fr": "Ash-Shahid",
+        "tr": "Eş-Şehîd"
+      }
     },
+    "ipa": "/aʃ.ʃaˈhiːd/",
     "audio": "/audio/ash-shahid.mp3",
     "image": {
       "png": {
@@ -2457,7 +2659,7 @@
       },
       "svg": "/images/shahid/shahid.svg"
     },
-    "verset": {
+    "verse": {
       "3": [81, 98],
       "4": [33, 79, 166],
       "5": [117],
@@ -2479,9 +2681,9 @@
   {
     "slug": "al-haqq",
     "id": 51,
+    "ar": "الحق",
+    "ar-enhanced": "ٱلْحَقُّ",
     "name": {
-      "ar": "الحق",
-      "ar-enhanced": "ٱلْحَقُّ",
       "fr": "La vérité absolue",
       "en": "",
       "tr": ""
@@ -2499,10 +2701,14 @@
       }
     },
     "transliteration": {
-      "fr": "Al-Haqq",
-      "en": "",
-      "tr": ""
+      "iso": "Al-Ḥaqq",
+      "popular": {
+        "en": "Al-Haqq",
+        "fr": "Al-Haqq",
+        "tr": "El-Hakk"
+      }
     },
+    "ipa": "/alˈħaqq/",
     "audio": "/audio/al-haqq.mp3",
     "image": {
       "png": {
@@ -2512,7 +2718,7 @@
       },
       "svg": "/images/haqq/haqq.svg"
     },
-    "verset": {
+    "verse": {
       "6": [62],
       "10": [32],
       "22": [6, 62],
@@ -2526,9 +2732,9 @@
   {
     "slug": "al-wakeel",
     "id": 52,
+    "ar": "",
+    "ar-enhanced": "ٱلْوَكِيلُ",
     "name": {
-      "ar": "",
-      "ar-enhanced": "ٱلْوَكِيلُ",
       "fr": "L’Intendant",
       "en": "",
       "tr": ""
@@ -2546,10 +2752,14 @@
       }
     },
     "transliteration": {
-      "fr": "Al-Wakeel",
-      "en": "",
-      "tr": ""
+      "iso": "Al-Wakīl",
+      "popular": {
+        "en": "Al-Wakeel",
+        "fr": "Al-Wakil",
+        "tr": "El-Vekîl"
+      }
     },
+    "ipa": "/al.waˈkiːl/",
     "audio": "/audio/al-wakeel.mp3",
     "image": {
       "png": {
@@ -2559,7 +2769,7 @@
       },
       "svg": "/images/wakeel/wakeel.svg"
     },
-    "verset": {
+    "verse": {
       "3": [173],
       "4": [81, 132, 171],
       "6": [102],
@@ -2575,9 +2785,9 @@
   {
     "slug": "al-qawi",
     "id": 53,
+    "ar": "ٱلقوي",
+    "ar-enhanced": "ٱلْقَوِيُّ",
     "name": {
-      "ar": "",
-      "ar-enhanced": " ٱلْقَوِيُّ",
       "fr": "Le Tout Puissant",
       "en": "",
       "tr": ""
@@ -2595,10 +2805,14 @@
       }
     },
     "transliteration": {
-      "fr": "Al-Qawiyy",
-      "en": "",
-      "tr": ""
+      "iso": "Al-Qawī",
+      "popular": {
+        "en": "Al-Qawi",
+        "fr": "Al-Qawi",
+        "tr": "El-Kavî"
+      }
     },
+    "ipa": "/al.qaˈwij/",
     "audio": "/audio/al-qawi.mp3",
     "image": {
       "png": {
@@ -2608,7 +2822,7 @@
       },
       "svg": "/images/qawi/qawi.svg"
     },
-    "verset": {
+    "verse": {
       "2": [165],
       "8": [52],
       "11": [66],
@@ -2625,9 +2839,9 @@
   {
     "slug": "al-matin",
     "id": 54,
+    "ar": "ٱلمتين",
+    "ar-enhanced": "ٱلْمَتِينُ",
     "name": {
-      "ar": "",
-      "ar-enhanced": "ٱلْمَتِينُ",
       "fr": "Le Ferme",
       "en": "",
       "tr": ""
@@ -2645,10 +2859,14 @@
       }
     },
     "transliteration": {
-      "fr": "Al-Matin",
-      "en": "",
-      "tr": ""
+      "iso": "Al-Matīn",
+      "popular": {
+        "en": "Al-Mateen",
+        "fr": "Al-Matin",
+        "tr": "El-Metîn"
+      }
     },
+    "ipa": "/al.maˈtiːn/",
     "audio": "/audio/al-matin.mp3",
     "image": {
       "png": {
@@ -2658,7 +2876,7 @@
       },
       "svg": "/images/matin/matin.svg"
     },
-    "verset": {
+    "verse": {
       "7": [183],
       "51": [58],
       "57": [2, 17],
@@ -2668,9 +2886,9 @@
   {
     "slug": "al-waliyy",
     "id": 55,
+    "ar": "ٱلولي",
+    "ar-enhanced": "ٱلْوَلِيُّ",
     "name": {
-      "ar": "",
-      "ar-enhanced": "ٱلْوَلِيُّ",
       "fr": "L'Associé Protecteur",
       "en": "",
       "tr": ""
@@ -2688,10 +2906,14 @@
       }
     },
     "transliteration": {
-      "fr": "Al-Waliy",
-      "en": "",
-      "tr": ""
+      "iso": "Al-Walī",
+      "popular": {
+        "en": "Al-Wali",
+        "fr": "Al-Wali",
+        "tr": "El-Velî"
+      }
     },
+    "ipa": "/al.waˈlij/",
     "audio": "/audio/al-waliyy.mp3",
     "image": {
       "png": {
@@ -2701,7 +2923,7 @@
       },
       "svg": "/images/waliyy/waliyy.svg"
     },
-    "verset": {
+    "verse": {
       "2": [257],
       "3": [68],
       "4": [45],
@@ -2716,9 +2938,9 @@
   {
     "slug": "al-hamid",
     "id": 56,
+    "ar": "ٱلحميد",
+    "ar-enhanced": "ٱلْحَمِيدُ",
     "name": {
-      "ar": "",
-      "ar-enhanced": "ٱلْحَمِيدُ",
       "fr": "Le Louable",
       "en": "",
       "tr": ""
@@ -2736,10 +2958,14 @@
       }
     },
     "transliteration": {
-      "fr": "Al-Hameed",
-      "en": "",
-      "tr": ""
+      "iso": "Al-Ḥamīd",
+      "popular": {
+        "en": "Al-Hameed",
+        "fr": "Al-Hamid",
+        "tr": "El-Hamîd"
+      }
     },
+    "ipa": "/al.ħaˈmiːd/",
     "audio": "/audio/al-hamid.mp3",
     "image": {
       "png": {
@@ -2749,7 +2975,7 @@
       },
       "svg": "/images/hamid/hamid.svg"
     },
-    "verset": {
+    "verse": {
       "2": [267],
       "4": [131],
       "14": [8],
@@ -2767,9 +2993,9 @@
   {
     "slug": "al-muhsi",
     "id": 57,
+    "ar": "ٱلمحصي",
+    "ar-enhanced": "ٱلْمُحْصِي",
     "name": {
-      "ar": "",
-      "ar-enhanced": "",
       "fr": "Le Tout-Enumérant",
       "en": "",
       "tr": ""
@@ -2787,10 +3013,14 @@
       }
     },
     "transliteration": {
-      "fr": "Al-Muhsi",
-      "en": "",
-      "tr": ""
+      "iso": "Al-Muḥṣī",
+      "popular": {
+        "en": "Al-Muhsi",
+        "fr": "Al-Mouhsi",
+        "tr": "El-Muhsî"
+      }
     },
+    "ipa": "/al.muħˈsˤiː/",
     "audio": "/audio/al-muhsi.mp3",
     "image": {
       "png": {
@@ -2800,7 +3030,7 @@
       },
       "svg": "/images/muhsi/muhsi.svg"
     },
-    "verset": {
+    "verse": {
       "2": [284],
       "14": [34],
       "18": [49],
@@ -2812,9 +3042,9 @@
   {
     "slug": "al-mubdi",
     "id": 58,
+    "ar": "ٱلمبدئ",
+    "ar-enhanced": "ٱلْمُبْدِئُ",
     "name": {
-      "ar": "",
-      "ar-enhanced": "",
       "fr": "L'Initiateur",
       "en": "",
       "tr": ""
@@ -2832,10 +3062,14 @@
       }
     },
     "transliteration": {
-      "fr": "Al-Mubdi",
-      "en": "",
-      "tr": ""
+      "iso": "Al-Mubdiʾ",
+      "popular": {
+        "en": "Al-Mubdi",
+        "fr": "Al-Moubdi",
+        "tr": "El-Mübdi"
+      }
     },
+    "ipa": "/al.mubˈdiʔ/",
     "audio": "/audio/al-mubdi.mp3",
     "image": {
       "png": {
@@ -2845,16 +3079,16 @@
       },
       "svg": "/images/mubdi/mubdi.svg"
     },
-    "verset": {
+    "verse": {
       "85": [13]
     }
   },
   {
     "slug": "al-muid",
     "id": 59,
+    "ar": "ٱلمعيد",
+    "ar-enhanced": "ٱلْمُعِيدُ",
     "name": {
-      "ar": "",
-      "ar-enhanced": "ٱلْمُعِيدُ",
       "fr": "Le Restaurateur",
       "en": "",
       "tr": ""
@@ -2872,10 +3106,14 @@
       }
     },
     "transliteration": {
-      "fr": "Al-Muid",
-      "en": "",
-      "tr": ""
+      "iso": "Al-Muʿīd",
+      "popular": {
+        "en": "Al-Mueed",
+        "fr": "Al-Mouid",
+        "tr": "El-Muîd"
+      }
     },
+    "ipa": "/al.muˈʕiːd/",
     "audio": "/audio/al-muid.mp3",
     "image": {
       "png": {
@@ -2885,16 +3123,16 @@
       },
       "svg": "/images/muid/muid.svg"
     },
-    "verset": {
+    "verse": {
       "85": [13]
     }
   },
   {
     "slug": "al-muhyi",
     "id": 60,
+    "ar": "ٱلمحيى",
+    "ar-enhanced": "ٱلْمُحْيِى",
     "name": {
-      "ar": "",
-      "ar-enhanced": "ٱلْمُحْيِى",
       "fr": "Celui qui préserve la vie",
       "en": "",
       "tr": ""
@@ -2912,10 +3150,14 @@
       }
     },
     "transliteration": {
-      "fr": "Al-Muhyi",
-      "en": "",
-      "tr": ""
+      "iso": "Al-Muḥyī",
+      "popular": {
+        "en": "Al-Muhyi",
+        "fr": "Al-Mouhyi",
+        "tr": "El-Muhyî"
+      }
     },
+    "ipa": "/al.muħˈjiː/",
     "audio": "/audio/al-muhyi.mp3",
     "image": {
       "png": {
@@ -2925,7 +3167,7 @@
       },
       "svg": "/images/muhyi/muhyi.svg"
     },
-    "verset": {
+    "verse": {
       "2": [28, 73, 258, 260],
       "3": [27, 156],
       "6": [95],
@@ -2947,9 +3189,9 @@
   {
     "slug": "al-mumit",
     "id": 61,
+    "ar": "ٱلمميت",
+    "ar-enhanced": "ٱلْمُمِيتُ",
     "name": {
-      "ar": "",
-      "ar-enhanced": "ٱلْمُمِيتُ",
       "fr": "L'Inflicteur de la mort",
       "en": "",
       "tr": ""
@@ -2967,10 +3209,14 @@
       }
     },
     "transliteration": {
-      "fr": "Al-Mumeet",
-      "en": "",
-      "tr": ""
+      "iso": "Al-Mumīt",
+      "popular": {
+        "en": "Al-Mumeet",
+        "fr": "Al-Moumit",
+        "tr": "El-Mumît"
+      }
     },
+    "ipa": "/al.muˈmiːt/",
     "audio": "/audio/al-mumit.mp3",
     "image": {
       "png": {
@@ -2980,7 +3226,7 @@
       },
       "svg": "/images/mumit/mumit.svg"
     },
-    "verset": {
+    "verse": {
       "2": [28, 258],
       "3": [27, 156],
       "6": [95],
@@ -3000,9 +3246,9 @@
   {
     "slug": "al-hayy",
     "id": 62,
+    "ar": "ٱلحى",
+    "ar-enhanced": "ٱلْحَىُّ",
     "name": {
-      "ar": "",
-      "ar-enhanced": "ٱلْحَىُّ",
       "fr": "L'Eternel Vivant",
       "en": "",
       "tr": ""
@@ -3020,10 +3266,14 @@
       }
     },
     "transliteration": {
-      "fr": "Al-Hayy",
-      "en": "",
-      "tr": ""
+      "iso": "Al-Ḥayy",
+      "popular": {
+        "en": "Al-Hayy",
+        "fr": "Al-Hayy",
+        "tr": "El-Hayy"
+      }
     },
+    "ipa": "/al.ħajj/",
     "audio": "/audio/al-hayy.mp3",
     "image": {
       "png": {
@@ -3033,7 +3283,7 @@
       },
       "svg": "/images/hayy/hayy.svg"
     },
-    "verset": {
+    "verse": {
       "2": [255],
       "3": [2],
       "20": [111],
@@ -3044,9 +3294,9 @@
   {
     "slug": "al-qayyum",
     "id": 63,
+    "ar": "ٱلقيوم",
+    "ar-enhanced": "ٱلْقَيُّومُ",
     "name": {
-      "ar": "",
-      "ar-enhanced": "ٱلْقَيُّومُ",
       "fr": "La Source",
       "en": "",
       "tr": ""
@@ -3064,10 +3314,14 @@
       }
     },
     "transliteration": {
-      "fr": "Al-Qayyum",
-      "en": "",
-      "tr": ""
+      "iso": "Al-Qayyūm",
+      "popular": {
+        "en": "Al-Qayyoom",
+        "fr": "Al-Qayyum",
+        "tr": "El-Kayyûm"
+      }
     },
+    "ipa": "/al.qajˈjuːm/",
     "audio": "/audio/al-qayyum.mp3",
     "image": {
       "png": {
@@ -3077,7 +3331,7 @@
       },
       "svg": "/images/qayyum/qayyum.svg"
     },
-    "verset": {
+    "verse": {
       "2": [255],
       "3": [2],
       "20": [111]
@@ -3086,9 +3340,9 @@
   {
     "slug": "al-wajid",
     "id": 64,
+    "ar": "ٱلواجد",
+    "ar-enhanced": "ٱلْوَاجِدُ",
     "name": {
-      "ar": "",
-      "ar-enhanced": "ٱلْوَاجِدُ",
       "fr": "Celui qui existe",
       "en": "",
       "tr": ""
@@ -3106,10 +3360,14 @@
       }
     },
     "transliteration": {
-      "fr": "Al-Wajid",
-      "en": "",
-      "tr": ""
+      "iso": "Al-Wājid",
+      "popular": {
+        "en": "Al-Wajid",
+        "fr": "Al-Wajid",
+        "tr": "El-Vâcid"
+      }
     },
+    "ipa": "/al.waːˈʒid/",
     "audio": "/audio/al-wajid.mp3",
     "image": {
       "png": {
@@ -3119,14 +3377,14 @@
       },
       "svg": "/images/wajid/wajid.svg"
     },
-    "verset": {}
+    "verse": {}
   },
   {
     "slug": "al-majid",
     "id": 65,
+    "ar": "ٱلماجد",
+    "ar-enhanced": "ٱلْمَاجِدُ",
     "name": {
-      "ar": "",
-      "ar-enhanced": "ٱلْمَاجِدُ",
       "fr": "L'Illustre",
       "en": "",
       "tr": ""
@@ -3144,10 +3402,14 @@
       }
     },
     "transliteration": {
-      "fr": "Al-Maajid",
-      "en": "",
-      "tr": ""
+      "iso": "Al-Mājid",
+      "popular": {
+        "en": "Al-Majid",
+        "fr": "Al-Majid",
+        "tr": "El-Mâcid"
+      }
     },
+    "ipa": "/al.maːˈdʒid/",
     "audio": "/audio/al-majid.mp3",
     "image": {
       "png": {
@@ -3157,16 +3419,16 @@
       },
       "svg": "/images/majid/majid.svg"
     },
-    "verset": {
+    "verse": {
       "11": [73]
     }
   },
   {
     "slug": "al-wahid",
     "id": 66,
+    "ar": "الواحد",
+    "ar-enhanced": "ٱلْوَٰحِدُ",
     "name": {
-      "ar": "الواحد",
-      "ar-enhanced": "ٱلْوَٰحِدُ",
       "fr": "L'Unique",
       "en": "",
       "tr": ""
@@ -3184,10 +3446,14 @@
       }
     },
     "transliteration": {
-      "fr": "Al-Wahid",
-      "en": "",
-      "tr": ""
+      "iso": "Al-Wāḥid",
+      "popular": {
+        "en": "Al-Wahid",
+        "fr": "Al-Wahid",
+        "tr": "El-Vâhid"
+      }
     },
+    "ipa": "/al.waːˈħid/",
     "audio": "/audio/al-wahid.mp3",
     "image": {
       "png": {
@@ -3197,7 +3463,7 @@
       },
       "svg": "/images/wahid/wahid.svg"
     },
-    "verset": {
+    "verse": {
       "2": [163],
       "4": [171],
       "5": [73],
@@ -3214,9 +3480,9 @@
   {
     "slug": "al-ahad",
     "id": 67,
+    "ar": "ٱلأحد",
+    "ar-enhanced": "ٱلْأَحَد",
     "name": {
-      "ar": "",
-      "ar-enhanced": "ٱلْأَحَد",
       "fr": "L'Un",
       "en": "",
       "tr": ""
@@ -3234,10 +3500,14 @@
       }
     },
     "transliteration": {
-      "fr": "Al-Ahad",
-      "en": "",
-      "tr": ""
+      "iso": "Al-Aḥad",
+      "popular": {
+        "en": "Al-Ahad",
+        "fr": "Al-Ahad",
+        "tr": "El-Ehâd"
+      }
     },
+    "ipa": "/al.ʔaˈħad/",
     "audio": "/audio/al-ahad.mp3",
     "image": {
       "png": {
@@ -3247,16 +3517,16 @@
       },
       "svg": "/images/ahad/ahad.svg"
     },
-    "verset": {
+    "verse": {
       "112": [1, 4]
     }
   },
   {
     "slug": "as-samad",
     "id": 68,
+    "ar": "الصمد",
+    "ar-enhanced": "ٱلْصَّمَدُ",
     "name": {
-      "ar": "الصمد",
-      "ar-enhanced": "ٱلْصَّمَدُ",
       "fr": "L'Eternel",
       "en": "",
       "tr": ""
@@ -3274,10 +3544,14 @@
       }
     },
     "transliteration": {
-      "fr": "As-Samad",
-      "en": "",
-      "tr": ""
+      "iso": "Aṣ-Ṣamad",
+      "popular": {
+        "en": "As-Samad",
+        "fr": "As-Samad",
+        "tr": "Es-Samed"
+      }
     },
+    "ipa": "/as.sˤaˈmad/",
     "audio": "/audio/as-samad.mp3",
     "image": {
       "png": {
@@ -3287,16 +3561,16 @@
       },
       "svg": "/images/samad/samad.svg"
     },
-    "verset": {
+    "verse": {
       "112": [2]
     }
   },
   {
     "slug": "al-qadir",
     "id": 69,
+    "ar": "القادر",
+    "ar-enhanced": "الْقَادِرُ",
     "name": {
-      "ar": "",
-      "ar-enhanced": "الْقَادِرُ",
       "fr": "Le Tout-Puissant",
       "en": "",
       "tr": ""
@@ -3314,10 +3588,14 @@
       }
     },
     "transliteration": {
-      "fr": "Al-Qadir",
-      "en": "",
-      "tr": ""
+      "iso": "Al-Qādir",
+      "popular": {
+        "en": "Al-Qadir",
+        "fr": "Al-Qadir",
+        "tr": "El-Kâdir"
+      }
     },
+    "ipa": "/al.qaːˈdir/",
     "audio": "/audio/al-qadir.mp3",
     "image": {
       "png": {
@@ -3327,7 +3605,7 @@
       },
       "svg": "/images/qadir/qadir.svg"
     },
-    "verset": {
+    "verse": {
       "2": [20, 106, 109, 148, 259, 284],
       "3": [26, 165, 189],
       "4": [133, 149],
@@ -3366,9 +3644,9 @@
   {
     "slug": "al-muqtadir",
     "id": 70,
+    "ar": "ٱلمقتدر",
+    "ar-enhanced": "ٱلْمُقْتَدِرُ",
     "name": {
-      "ar": "",
-      "ar-enhanced": "ٱلْمُقْتَدِرُ",
       "fr": "L'Homme à tout faire",
       "en": "",
       "tr": ""
@@ -3386,10 +3664,14 @@
       }
     },
     "transliteration": {
-      "fr": "Al-Muqtadir",
-      "en": "",
-      "tr": ""
+      "iso": "Al-Muqtadir",
+      "popular": {
+        "en": "Al-Muqtadir",
+        "fr": "Al-Muqtadir",
+        "tr": "El-Muktedir"
+      }
     },
+    "ipa": "/al.muqˈtˤadir/",
     "audio": "/audio/al-muqtadir.mp3",
     "image": {
       "png": {
@@ -3399,7 +3681,7 @@
       },
       "svg": "/images/muqtadir/muqtadir.svg"
     },
-    "verset": {
+    "verse": {
       "18": [45],
       "54": [42, 55]
     }
@@ -3407,9 +3689,9 @@
   {
     "slug": "al-muqaddim",
     "id": 71,
+    "ar": "ٱلمقدم",
+    "ar-enhanced": "ٱلْمُقَدِّمُ",
     "name": {
-      "ar": "",
-      "ar-enhanced": "ٱلْمُقَدِّمُ",
       "fr": "L'Expéditeur",
       "en": "",
       "tr": ""
@@ -3427,10 +3709,14 @@
       }
     },
     "transliteration": {
-      "fr": "Al-Muqaddim",
-      "en": "",
-      "tr": ""
+      "iso": "Al-Muqaddim",
+      "popular": {
+        "en": "Al-Muqaddim",
+        "fr": "Al-Muqaddim",
+        "tr": "El-Mukaddim"
+      }
     },
+    "ipa": "/al.muqadˈdim/",
     "audio": "/audio/al-muqaddim.mp3",
     "image": {
       "png": {
@@ -3440,14 +3726,14 @@
       },
       "svg": "/images/muqaddim/muqaddim.svg"
     },
-    "verset": {}
+    "verse": {}
   },
   {
     "slug": "al-muakhkhir",
     "id": 72,
+    "ar": "ٱلمؤخر",
+    "ar-enhanced": "ٱلْمُؤَخِّرُ",
     "name": {
-      "ar": "",
-      "ar-enhanced": "ٱلْمُؤَخِّرُ",
       "fr": "Le Retardateur",
       "en": "",
       "tr": ""
@@ -3465,10 +3751,14 @@
       }
     },
     "transliteration": {
-      "fr": "Al-Muakhkhir",
-      "en": "",
-      "tr": ""
+      "iso": "Al-Muʾakhkhir",
+      "popular": {
+        "en": "Al-Muakhkhir",
+        "fr": "Al-Mouakhkhir",
+        "tr": "El-Muâhhir"
+      }
     },
+    "ipa": "/al.muʔaxˈxir/",
     "audio": "/audio/al-muakhkhir.mp3",
     "image": {
       "png": {
@@ -3478,14 +3768,14 @@
       },
       "svg": "/images/muakhkhir/muakhkhir.svg"
     },
-    "verset": {}
+    "verse": {}
   },
   {
     "slug": "al-awwal",
     "id": 73,
+    "ar": "الأول",
+    "ar-enhanced": "ٱلأَوَّلُ",
     "name": {
-      "ar": "الأول",
-      "ar-enhanced": "ٱلأَوَّلُ",
       "fr": "Le Premier",
       "en": "",
       "tr": ""
@@ -3503,10 +3793,14 @@
       }
     },
     "transliteration": {
-      "fr": "Al-Awwal",
-      "en": "",
-      "tr": ""
+      "iso": "Al-Awwal",
+      "popular": {
+        "en": "Al-Awwal",
+        "fr": "Al-Awal",
+        "tr": "El-Evvel"
+      }
     },
+    "ipa": "/al.ˈʔawwal/",
     "audio": "/audio/al-awwal.mp3",
     "image": {
       "png": {
@@ -3516,7 +3810,7 @@
       },
       "svg": "/images/awwal/awwal.svg"
     },
-    "verset": {
+    "verse": {
       "37": [126],
       "57": [3]
     }
@@ -3524,9 +3818,9 @@
   {
     "slug": "al-akhir",
     "id": 74,
+    "ar": "الآخر",
+    "ar-enhanced": "ٱلْآخِرُ",
     "name": {
-      "ar": "الآخر",
-      "ar-enhanced": "ٱلْآخِرُ",
       "fr": "Le Dernier",
       "en": "",
       "tr": ""
@@ -3544,10 +3838,14 @@
       }
     },
     "transliteration": {
-      "fr": "Al-Akhir",
-      "en": "",
-      "tr": ""
+      "iso": "Al-Ākhir",
+      "popular": {
+        "en": "Al-Aakhir",
+        "fr": "Al-Akhir",
+        "tr": "El-Âhir"
+      }
     },
+    "ipa": "/al.ˈʔaːxir/",
     "audio": "/audio/al-akhir.mp3",
     "image": {
       "png": {
@@ -3557,16 +3855,16 @@
       },
       "svg": "/images/akhir/akhir.svg"
     },
-    "verset": {
+    "verse": {
       "57": [3]
     }
   },
   {
     "slug": "az-zahir",
     "id": 75,
+    "ar": "الظاهر",
+    "ar-enhanced": "ٱلْظَّاهِرُ",
     "name": {
-      "ar": "الظاهر",
-      "ar-enhanced": "ٱلْظَّاهِرُ",
       "fr": "Le Manifeste",
       "en": "",
       "tr": ""
@@ -3584,10 +3882,14 @@
       }
     },
     "transliteration": {
-      "fr": "Az-Zaahir",
-      "en": "",
-      "tr": ""
+      "iso": "Aẓ-Ẓāhir",
+      "popular": {
+        "en": "Az-Zahir",
+        "fr": "Az-Zahir",
+        "tr": "Ez-Zâhir"
+      }
     },
+    "ipa": "/az.ˈðˤaːhir/",
     "audio": "/audio/az-zahir.mp3",
     "image": {
       "png": {
@@ -3597,16 +3899,16 @@
       },
       "svg": "/images/zahir/zahir.svg"
     },
-    "verset": {
+    "verse": {
       "57": [3]
     }
   },
   {
     "slug": "al-batin",
     "id": 76,
+    "ar": "الباطن",
+    "ar-enhanced": "ٱلْبَاطِنُ",
     "name": {
-      "ar": "الباطن",
-      "ar-enhanced": "ٱلْبَاطِنُ",
       "fr": "Le Caché",
       "en": "",
       "tr": ""
@@ -3624,10 +3926,14 @@
       }
     },
     "transliteration": {
-      "fr": "Al-Baatin",
-      "en": "",
-      "tr": ""
+      "iso": "Al-Bāṭin",
+      "popular": {
+        "en": "Al-Batin",
+        "fr": "Al-Batin",
+        "tr": "El-Bâtın"
+      }
     },
+    "ipa": "/al.baːˈtˤin/",
     "audio": "/audio/al-batin.mp3",
     "image": {
       "png": {
@@ -3637,16 +3943,16 @@
       },
       "svg": "/images/batin/batin.svg"
     },
-    "verset": {
+    "verse": {
       "57": [3]
     }
   },
   {
     "slug": "al-wali",
     "id": 77,
+    "ar": "ٱلوالي",
+    "ar-enhanced": "ٱلْوَالِي",
     "name": {
-      "ar": "",
-      "ar-enhanced": "ٱلْوَالِي",
       "fr": "Détenteur de l'autorité suprême",
       "en": "",
       "tr": ""
@@ -3664,10 +3970,14 @@
       }
     },
     "transliteration": {
-      "fr": "Al-Wali",
-      "en": "",
-      "tr": ""
+      "iso": "Al-Wālī",
+      "popular": {
+        "en": "Al-Wali",
+        "fr": "Al-Wali",
+        "tr": "El-Velî"
+      }
     },
+    "ipa": "/al.waːˈliː/",
     "audio": "/audio/al-wali.mp3",
     "image": {
       "png": {
@@ -3677,14 +3987,14 @@
       },
       "svg": "/images/wali/wali.svg"
     },
-    "verset": {}
+    "verse": {}
   },
   {
     "slug": "al-muta-ali",
     "id": 78,
+    "ar": "ٱلمتعالي",
+    "ar-enhanced": "ٱلْمُتَعَالِي",
     "name": {
-      "ar": "",
-      "ar-enhanced": "ٱلْمُتَعَالِي",
       "fr": "Le Sublime",
       "en": "",
       "tr": ""
@@ -3702,10 +4012,14 @@
       }
     },
     "transliteration": {
-      "fr": "Al-Mutaali",
-      "en": "Al-Muta-ali",
-      "tr": "El-Müteâlî"
+      "iso": "Al-Mutaʿālī",
+      "popular": {
+        "en": "Al-Mutaali",
+        "fr": "Al-Mutaali",
+        "tr": "El-Muta‘âlî"
+      }
     },
+    "ipa": "/al.mutaʕaːˈliː/",
     "audio": "/audio/al-muta-ali.mp3",
     "image": {
       "png": {
@@ -3715,7 +4029,7 @@
       },
       "svg": "/images/muta-ali/muta-ali.svg"
     },
-    "verset": {
+    "verse": {
       "13": [9],
       "22": [62],
       "27": [63],
@@ -3726,9 +4040,9 @@
   {
     "slug": "al-barr",
     "id": 79,
+    "ar": "ٱلبر",
+    "ar-enhanced": "ٱلْبَرُّ",
     "name": {
-      "ar": "",
-      "ar-enhanced": "ٱلْبَرُّ",
       "fr": "La source de toute bonté",
       "en": "",
       "tr": ""
@@ -3746,10 +4060,14 @@
       }
     },
     "transliteration": {
-      "fr": "Al-Barr",
-      "en": "Al-Barr",
-      "tr": "El-Bar"
+      "iso": "Al-Barr",
+      "popular": {
+        "en": "Al-Barr",
+        "fr": "Al-Barr",
+        "tr": "El-Berr"
+      }
     },
+    "ipa": "/al.barr/",
     "audio": "/audio/al-barr.mp3",
     "image": {
       "png": {
@@ -3759,16 +4077,16 @@
       },
       "svg": "/images/barr/barr.svg"
     },
-    "verset": {
+    "verse": {
       "52": [28]
     }
   },
   {
     "slug": "at-tawwab",
     "id": 80,
+    "ar": "ٱلتواب",
+    "ar-enhanced": "ٱلْتَّوَّابُ",
     "name": {
-      "ar": "",
-      "ar-enhanced": "ٱلْتَّوَّابُ",
       "fr": "Le Pardonneur",
       "en": "",
       "tr": ""
@@ -3786,10 +4104,14 @@
       }
     },
     "transliteration": {
-      "fr": "At-Tawwab",
-      "en": "At-Tawwab",
-      "tr": "El-Tevvâb"
+      "iso": "At-Tawwāb",
+      "popular": {
+        "en": "At-Tawwab",
+        "fr": "At-Tawwab",
+        "tr": "Et-Tevvâb"
+      }
     },
+    "ipa": "/at.tawˈwaːb/",
     "audio": "/audio/at-tawwab.mp3",
     "image": {
       "png": {
@@ -3799,7 +4121,7 @@
       },
       "svg": "/images/tawwab/tawwab.svg"
     },
-    "verset": {
+    "verse": {
       "2": [37, 54, 128, 160],
       "4": [16, 64],
       "9": [104, 118],
@@ -3811,9 +4133,9 @@
   {
     "slug": "al-muntaqim",
     "id": 81,
+    "ar": "ٱلمنتقم",
+    "ar-enhanced": "ٱلْمُنْتَقِمُ",
     "name": {
-      "ar": "",
-      "ar-enhanced": "ٱلْمُنْتَقِمُ",
       "fr": "Le Vengeur",
       "en": "",
       "tr": ""
@@ -3831,10 +4153,14 @@
       }
     },
     "transliteration": {
-      "fr": "Al-Muntaqim",
-      "en": "Al-Muntaqim",
-      "tr": "El-Müntekim"
+      "iso": "Al-Muntaqim",
+      "popular": {
+        "en": "Al-Muntaqim",
+        "fr": "Al-Muntaqim",
+        "tr": "El-Muntekîm"
+      }
     },
+    "ipa": "/al.munˈtaqim/",
     "audio": "/audio/al-muntaqim.mp3",
     "image": {
       "png": {
@@ -3844,7 +4170,7 @@
       },
       "svg": "/images/muntaqim/muntaqim.svg"
     },
-    "verset": {
+    "verse": {
       "3": [4],
       "43": [41],
       "44": [16]
@@ -3853,9 +4179,9 @@
   {
     "slug": "al-afuw",
     "id": 82,
+    "ar": "ٱلعفو",
+    "ar-enhanced": "ٱلْعَفُوُّ",
     "name": {
-      "ar": "",
-      "ar-enhanced": "ٱلْعَفُوُّ",
       "fr": "Le Pardonneur",
       "en": "",
       "tr": ""
@@ -3873,10 +4199,14 @@
       }
     },
     "transliteration": {
-      "fr": "Al-Afuw",
-      "en": "Al-Afuw",
-      "tr": "El-'Afuv"
+      "iso": "Al-ʿAfūw",
+      "popular": {
+        "en": "Al-Afu",
+        "fr": "Al-Afu",
+        "tr": "El-‘Afû"
+      }
     },
+    "ipa": "/al.ʕaˈfuː/",
     "audio": "/audio/al-afuw.mp3",
     "image": {
       "png": {
@@ -3886,7 +4216,7 @@
       },
       "svg": "/images/afuw/afuw.svg"
     },
-    "verset": {
+    "verse": {
       "2": [52, 187],
       "3": [152],
       "4": [43, 99, 149],
@@ -3899,9 +4229,9 @@
   {
     "slug": "ar-rauf",
     "id": 83,
+    "ar": "ٱلرؤف",
+    "ar-enhanced": "ٱلْرَّؤُفُ",
     "name": {
-      "ar": "",
-      "ar-enhanced": "ٱلْرَّؤُفُ",
       "fr": "Le Bienveillant",
       "en": "",
       "tr": ""
@@ -3919,10 +4249,14 @@
       }
     },
     "transliteration": {
-      "fr": "Ar-Rauf",
-      "en": "Ar-Rauf",
-      "tr": "Er-Rauf"
+      "iso": "Ar-Raʾūf",
+      "popular": {
+        "en": "Ar-Raouf",
+        "fr": "Ar-Raouf",
+        "tr": "Er-Ra‘ûf"
+      }
     },
+    "ipa": "/ar.raˈʔuːf/",
     "audio": "/audio/ar-rauf.mp3",
     "image": {
       "png": {
@@ -3932,7 +4266,7 @@
       },
       "svg": "/images/rauf/rauf.svg"
     },
-    "verset": {
+    "verse": {
       "2": [143, 207],
       "3": [30],
       "9": [117],
@@ -3946,9 +4280,9 @@
   {
     "slug": "malikul-mulk",
     "id": 84,
+    "ar": "مالك ٱلملك",
+    "ar-enhanced": "مَالِكُ ٱلْمُلْكُ",
     "name": {
-      "ar": "",
-      "ar-enhanced": "مَالِكُ ٱلْمُلْكُ",
       "fr": "Maître du Royaume",
       "en": "",
       "tr": ""
@@ -3966,10 +4300,14 @@
       }
     },
     "transliteration": {
-      "fr": "Malikul-Mulk",
-      "en": "Malikul-Mulk",
-      "tr": "Mâlikül-Mülk"
+      "iso": "Mālik-ul-Mulk",
+      "popular": {
+        "en": "Malik-ul-Mulk",
+        "fr": "Malik-ul-Mulk",
+        "tr": "Mâlik-ül-Mülk"
+      }
     },
+    "ipa": "/ˈmaːlik ulˈmulk/",
     "audio": "/audio/malikul-mulk.mp3",
     "image": {
       "png": {
@@ -3979,7 +4317,7 @@
       },
       "svg": "/images/malikul-mulk/malikul-mulk.svg"
     },
-    "verset": {
+    "verse": {
       "3": [26],
       "24": [42]
     }
@@ -3987,9 +4325,9 @@
   {
     "slug": "dhul-jalali-wal-ikram",
     "id": 85,
+    "ar": "ذو ٱلجلال وٱلإكرام",
+    "ar-enhanced": "ذُو ٱلْجَلَالِ وَٱلْإِكْرَامُ",
     "name": {
-      "ar": "",
-      "ar-enhanced": "ذُو ٱلْجَلَالِ وَٱلْإِكْرَامُ",
       "fr": "Le Plein de Majesté et de Magnificence",
       "en": "",
       "tr": ""
@@ -4007,10 +4345,14 @@
       }
     },
     "transliteration": {
-      "fr": "Dhul-Jalaali-Wal-Ikram",
-      "en": "Dhul-Jalali-Wal-Ikram",
-      "tr": "Zül Celâli ve'l-İkrâm"
+      "iso": "Dhū al-Jalāl wa-l-Ikrām",
+      "popular": {
+        "en": "Dhul-Jalal wal Ikram",
+        "fr": "Dhul-Jalal wal Ikram",
+        "tr": "Zûl-Celâl vel-İkrâm"
+      }
     },
+    "ipa": "/ðˤuː al.dʒa.laːl wal ʔikˈraːm/",
     "audio": "/audio/dhul-jalali-wal-ikram.mp3",
     "image": {
       "png": {
@@ -4020,16 +4362,16 @@
       },
       "svg": "/images/dhul-jalali-wal-ikram/dhul-jalali-wal-ikram.svg"
     },
-    "verset": {
+    "verse": {
       "55": [27, 78]
     }
   },
   {
     "slug": "al-muqsit",
     "id": 86,
+    "ar": "ٱلمقسط",
+    "ar-enhanced": "ٱلْمُقْسِطُ",
     "name": {
-      "ar": "",
-      "ar-enhanced": "ٱلْمُقْسِطُ",
       "fr": "Le Juste",
       "en": "",
       "tr": ""
@@ -4047,10 +4389,14 @@
       }
     },
     "transliteration": {
-      "fr": "Al-Muqsit",
-      "en": "Al-Muqsit",
-      "tr": "El-Muksit"
+      "iso": "Al-Muqsit",
+      "popular": {
+        "en": "Al-Muqsit",
+        "fr": "Al-Muqsit",
+        "tr": "El-Muksit"
+      }
     },
+    "ipa": "/al.muqˈsˤit/",
     "audio": "/audio/al-muqsit.mp3",
     "image": {
       "png": {
@@ -4060,14 +4406,14 @@
       },
       "svg": "/images/muqsit/muqsit.svg"
     },
-    "verset": {}
+    "verse": {}
   },
   {
     "slug": "al-jami",
     "id": 87,
+    "ar": "ٱلجامع",
+    "ar-enhanced": "ٱلْجَامِعُ",
     "name": {
-      "ar": "",
-      "ar-enhanced": "ٱلْجَامِعُ",
       "fr": "Le Rassembleur",
       "en": "",
       "tr": ""
@@ -4085,10 +4431,14 @@
       }
     },
     "transliteration": {
-      "fr": "Al-Jami",
-      "en": "Al-Jami",
-      "tr": "El-Câmî"
+      "iso": "Al-Jāmiʿ",
+      "popular": {
+        "en": "Al-Jami",
+        "fr": "Al-Jami",
+        "tr": "El-Câmî"
+      }
     },
+    "ipa": "/al.dʒaːˈmiʕ/",
     "audio": "/audio/al-jami.mp3",
     "image": {
       "png": {
@@ -4098,14 +4448,14 @@
       },
       "svg": "/images/jami/jami.svg"
     },
-    "verset": {}
+    "verse": {}
   },
   {
     "slug": "al-ghaniyy",
     "id": 88,
+    "ar": "ٱلغني",
+    "ar-enhanced": "ٱلْغَنيُّ",
     "name": {
-      "ar": "",
-      "ar-enhanced": "ٱلْغَنيُّ",
       "fr": "L’Autosuffisant",
       "en": "",
       "tr": ""
@@ -4123,10 +4473,14 @@
       }
     },
     "transliteration": {
-      "fr": "Al-Ghaniy",
-      "en": "Al-Ghaniyy",
-      "tr": "El-Ganî"
+      "iso": "Al-Ghanī",
+      "popular": {
+        "en": "Al-Ghani",
+        "fr": "Al-Ghani",
+        "tr": "El-Ganî"
+      }
     },
+    "ipa": "/al.ɣaˈniː/",
     "audio": "/audio/al-ghaniyy.mp3",
     "image": {
       "png": {
@@ -4136,7 +4490,7 @@
       },
       "svg": "/images/ghaniyy/ghaniyy.svg"
     },
-    "verset": {
+    "verse": {
       "2": [263, 267],
       "4": [131],
       "6": [133],
@@ -4156,9 +4510,9 @@
   {
     "slug": "al-mughni",
     "id": 89,
+    "ar": "ٱلمغني",
+    "ar-enhanced": "ٱلْمُغْنِيُّ",
     "name": {
-      "ar": "",
-      "ar-enhanced": "ٱلْمُغْنِيُّ",
       "fr": "L'Enrichisseur",
       "en": "",
       "tr": ""
@@ -4176,10 +4530,14 @@
       }
     },
     "transliteration": {
-      "fr": "Al-Mughni",
-      "en": "Al-Mughni",
-      "tr": "El-Mu'nî"
+      "iso": "Al-Mughni",
+      "popular": {
+        "en": "Al-Mughni",
+        "fr": "Al-Moughni",
+        "tr": "El-Muğnî"
+      }
     },
+    "ipa": "/al.muɣˈniː/",
     "audio": "/audio/al-mughni.mp3",
     "image": {
       "png": {
@@ -4189,14 +4547,14 @@
       },
       "svg": "/images/mughni/mughni.svg"
     },
-    "verset": {}
+    "verse": {}
   },
   {
     "slug": "al-mani",
     "id": 90,
+    "ar": "ٱلمانع",
+    "ar-enhanced": "ٱلْمَانِعُ",
     "name": {
-      "ar": "",
-      "ar-enhanced": "ٱلْمَانِعُ",
       "fr": "Le Défenseur",
       "en": "",
       "tr": ""
@@ -4214,10 +4572,14 @@
       }
     },
     "transliteration": {
-      "fr": "Al-Mani",
-      "en": "Al-Mani",
-      "tr": "El-Mânî"
+      "iso": "Al-Māniʿ",
+      "popular": {
+        "en": "Al-Mani",
+        "fr": "Al-Mani",
+        "tr": "El-Mânî"
+      }
     },
+    "ipa": "/al.maːˈniʕ/",
     "audio": "/audio/al-mani.mp3",
     "image": {
       "png": {
@@ -4227,14 +4589,14 @@
       },
       "svg": "/images/mani/mani.svg"
     },
-    "verset": {}
+    "verse": {}
   },
   {
     "slug": "ad-darr",
     "id": 91,
+    "ar": "ٱلضار",
+    "ar-enhanced": "ٱلْضَّارُ",
     "name": {
-      "ar": "",
-      "ar-enhanced": "ٱلْضَّارُ",
       "fr": "Celui qui peut nuire",
       "en": "",
       "tr": ""
@@ -4252,10 +4614,14 @@
       }
     },
     "transliteration": {
-      "fr": "Ad-Darr",
-      "en": "Ad-Darr",
-      "tr": "Ed-Dâr"
+      "iso": "Aḍ-Ḍārr",
+      "popular": {
+        "en": "Ad-Darr",
+        "fr": "Ad-Darr",
+        "tr": "Ed-Dârr"
+      }
     },
+    "ipa": "/ad.dˤɑːr/",
     "audio": "/audio/ad-darr.mp3",
     "image": {
       "png": {
@@ -4265,14 +4631,14 @@
       },
       "svg": "/images/darr/darr.svg"
     },
-    "verset": {}
+    "verse": {}
   },
   {
     "slug": "an-nafi",
     "id": 92,
+    "ar": "ٱلنافع",
+    "ar-enhanced": "ٱلْنَّافِعُ",
     "name": {
-      "ar": "",
-      "ar-enhanced": "ٱلْنَّافِعُ",
       "fr": "Le Propice",
       "en": "",
       "tr": ""
@@ -4290,10 +4656,14 @@
       }
     },
     "transliteration": {
-      "fr": "An-Naafi",
-      "en": "An-Nafi",
-      "tr": "En-Nâfî"
+      "iso": "An-Nāfiʿ",
+      "popular": {
+        "en": "An-Nafi",
+        "fr": "An-Nafi",
+        "tr": "En-Nâfî"
+      }
     },
+    "ipa": "/an.naːfiʕ/",
     "audio": "/audio/an-nafi.mp3",
     "image": {
       "png": {
@@ -4303,14 +4673,14 @@
       },
       "svg": "/images/nafi/nafi.svg"
     },
-    "verset": {}
+    "verse": {}
   },
   {
     "slug": "an-nur",
     "id": 93,
+    "ar": "ٱلنور",
+    "ar-enhanced": "ٱلْنُّورُ",
     "name": {
-      "ar": "",
-      "ar-enhanced": "ٱلْنُّورُ",
       "fr": "La lumière",
       "en": "",
       "tr": ""
@@ -4328,10 +4698,14 @@
       }
     },
     "transliteration": {
-      "fr": "An-Noor",
-      "en": "An-Nur",
-      "tr": "En-Nûr"
+      "iso": "An-Nūr",
+      "popular": {
+        "en": "An-Noor",
+        "fr": "An-Nour",
+        "tr": "En-Nûr"
+      }
     },
+    "ipa": "/an.nuːr/",
     "audio": "/audio/an-nur.mp3",
     "image": {
       "png": {
@@ -4341,7 +4715,7 @@
       },
       "svg": "/images/nur/nur.svg"
     },
-    "verset": {
+    "verse": {
       "5": [15],
       "24": [35],
       "39": [69],
@@ -4352,9 +4726,9 @@
   {
     "slug": "al-hadi",
     "id": 94,
+    "ar": "ٱلهادي",
+    "ar-enhanced": "ٱلْهَادِي",
     "name": {
-      "ar": "",
-      "ar-enhanced": "ٱلْهَادِي",
       "fr": "Le Guide",
       "en": "",
       "tr": ""
@@ -4372,10 +4746,14 @@
       }
     },
     "transliteration": {
-      "fr": "Al-Hadi",
-      "en": "Al-Hadi",
-      "tr": "El-Hâdî"
+      "iso": "Al-Hādī",
+      "popular": {
+        "en": "Al-Hadi",
+        "fr": "Al-Hadi",
+        "tr": "El-Hâdî"
+      }
     },
+    "ipa": "/al.haːˈdiː/",
     "audio": "/audio/al-hadi.mp3",
     "image": {
       "png": {
@@ -4385,7 +4763,7 @@
       },
       "svg": "/images/hadi/hadi.svg"
     },
-    "verset": {
+    "verse": {
       "2": [213, 258, 264, 272],
       "3": [86, 101],
       "4": [175],
@@ -4404,9 +4782,9 @@
   {
     "slug": "al-badi",
     "id": 95,
+    "ar": "ٱلبديع",
+    "ar-enhanced": "ٱلْبَدِيعُ",
     "name": {
-      "ar": "",
-      "ar-enhanced": "ٱلْبَدِيعُ",
       "fr": "L'Inventeur inégalé",
       "en": "",
       "tr": ""
@@ -4424,10 +4802,14 @@
       }
     },
     "transliteration": {
-      "fr": "Al-Badi",
-      "en": "Al-Badi",
-      "tr": "El-Badî"
+      "iso": "Al-Badīʿ",
+      "popular": {
+        "en": "Al-Badee",
+        "fr": "Al-Badi",
+        "tr": "El-Bedî‘"
+      }
     },
+    "ipa": "/al.baˈdiːʕ/",
     "audio": "/audio/al-badi.mp3",
     "image": {
       "png": {
@@ -4437,7 +4819,7 @@
       },
       "svg": "/images/badi/badi.svg"
     },
-    "verset": {
+    "verse": {
       "2": [117],
       "6": [101]
     }
@@ -4445,9 +4827,9 @@
   {
     "slug": "al-baqi",
     "id": 96,
+    "ar": "ٱلباقي",
+    "ar-enhanced": "ٱلْبَاقِي",
     "name": {
-      "ar": "",
-      "ar-enhanced": "ٱلْبَاقِي",
       "fr": "L'Eternel",
       "en": "",
       "tr": ""
@@ -4465,10 +4847,14 @@
       }
     },
     "transliteration": {
-      "fr": "Al-Baaqi",
-      "en": "Al-Baqi",
-      "tr": "El-Bakî"
+      "iso": "Al-Bāqī",
+      "popular": {
+        "en": "Al-Baqi",
+        "fr": "Al-Baqi",
+        "tr": "El-Bâkî"
+      }
     },
+    "ipa": "/al.baːˈqiː/",
     "audio": "/audio/al-baqi.mp3",
     "image": {
       "png": {
@@ -4478,14 +4864,14 @@
       },
       "svg": "/images/baqi/baqi.svg"
     },
-    "verset": {}
+    "verse": {}
   },
   {
     "slug": "al-warith",
     "id": 97,
+    "ar": "الوارث",
+    "ar-enhanced": "ٱلْوَارِثُ",
     "name": {
-      "ar": "الوارث",
-      "ar-enhanced": "ٱلْوَارِثُ",
       "fr": "L'Héritier",
       "en": "",
       "tr": "Varlığının bulunmaması vasfıyla kâinatın gerçek sahibi"
@@ -4503,10 +4889,14 @@
       }
     },
     "transliteration": {
-      "fr": "Al-Warith",
-      "en": "Al-Warith",
-      "tr": "El-Vâris"
+      "iso": "Al-Wārith",
+      "popular": {
+        "en": "Al-Warith",
+        "fr": "Al-Warith",
+        "tr": "El-Vâris"
+      }
     },
+    "ipa": "/al.waːˈriθ/",
     "audio": "/audio/al-warith.mp3",
     "image": {
       "png": {
@@ -4516,7 +4906,7 @@
       },
       "svg": "/images/warith/warith.svg"
     },
-    "verset": {
+    "verse": {
       "3": [180],
       "15": [23],
       "21": [89],
@@ -4527,9 +4917,9 @@
   {
     "slug": "ar-rashid",
     "id": 98,
+    "ar": "الرشيد",
+    "ar-enhanced": "ٱلْرَّشِيدُ",
     "name": {
-      "ar": "الرشيد",
-      "ar-enhanced": "ٱلْرَّشِيدُ",
       "fr": "Celui qui agit avec droiture",
       "en": "",
       "tr": "Bütün işleri isabetli ve hedefine ulaşıcı, irşad edici"
@@ -4547,10 +4937,14 @@
       }
     },
     "transliteration": {
-      "fr": "Ar-Rasheed",
-      "en": "Ar-Rashid",
-      "tr": "Er-Reşîd"
+      "iso": "Ar-Rashīd",
+      "popular": {
+        "en": "Ar-Rasheed",
+        "fr": "Ar-Rashid",
+        "tr": "Er-Reşîd"
+      }
     },
+    "ipa": "/ar.raˈʃiːd/",
     "audio": "/audio/ar-rashid.mp3",
     "image": {
       "png": {
@@ -4560,7 +4954,7 @@
       },
       "svg": "/images/rashid/rashid.svg"
     },
-    "verset": {
+    "verse": {
       "2": [256],
       "18": [10],
       "72": [14]
@@ -4569,9 +4963,9 @@
   {
     "slug": "as-sabur",
     "id": 99,
+    "ar": "الصبور",
+    "ar-enhanced": "ٱلْصَّبُورُ",
     "name": {
-      "ar": "الصبور",
-      "ar-enhanced": "ٱلْصَّبُورُ",
       "fr": "Le Patient",
       "en": "",
       "tr": "Çok sabırlı"
@@ -4589,10 +4983,14 @@
       }
     },
     "transliteration": {
-      "fr": "As-Sabur",
-      "en": "As-Sabur",
-      "tr": "Es-Sabûr"
+      "iso": "Aṣ-Ṣabūr",
+      "popular": {
+        "en": "As-Saboor",
+        "fr": "As-Sabour",
+        "tr": "Es-Sabûr"
+      }
     },
+    "ipa": "/as.sˤaˈbuːr/",
     "audio": "/audio/as-sabur.mp3",
     "image": {
       "png": {
@@ -4602,6 +5000,6 @@
       },
       "svg": "/images/sabur/sabur.svg"
     },
-    "verset": {}
+    "verse": {}
   }
 ]

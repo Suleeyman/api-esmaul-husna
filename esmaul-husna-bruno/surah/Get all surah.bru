@@ -1,17 +1,19 @@
 meta {
-  name: Get one esma by id
+  name: Get all surah
   type: http
-  seq: 3
+  seq: 5
 }
 
 get {
-  url: {{baseUrl}}/{{collection}}/881?lg=tr
+  url: {{baseUrl}}/{{collection}}?limit=10&lg=tr
   body: none
   auth: inherit
 }
 
 params:query {
+  limit: 10
   lg: tr
+  ~page: 1
 }
 
 settings {

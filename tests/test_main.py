@@ -13,8 +13,8 @@ def test_read_main() -> None:
 
     assert response.status_code == HTTPStatus.OK
     assert data == {
-        "message": "API Esmaul Husna",
-        "link": "https://github.com/Suleeyman/api-esmaul-husna",
+        "title": "API Esmaul Husna",
+        "github_url": "https://github.com/Suleeyman/api-esmaul-husna",
         "swagger": "/docs",
         "redocly": "/redoc",
     }
